@@ -2,6 +2,14 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
+from datetime import date
+ 
+def calculateAge(birthDate):
+    today = date.today()
+    age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
+ 
+    return age
+
 #open files
 clubFile = open("clubs.csv", "w")
 playerFile = open("players.csv", "w")
@@ -68,24 +76,26 @@ top_url = 'https://fbref.com/'
 # print(vanDijk_url)
 
 # time.sleep(5)
-vanDijk_url = "https://fbref.com/en/players/47952f83/Landry-Farre"
+vanDijk_url = "https://fbref.com/en/players/178ae8f8/Diogo-Jota"
 playerLine = ""
 newRequest = requests.get(vanDijk_url)
 print(newRequest.ok)
 newSoup = BeautifulSoup(newRequest.content, 'html.parser')
 
 playerId = vanDijk_url[29:37]
-print(playerId)
+#print(playerId)
 playerLine = playerId + ","
 
 playerName = newSoup.find('div', id = 'info', ).find('h1').find('span').get_text()
-print(playerName)
+#print(playerName)
 playerLine += (playerName + ",")
 print(playerLine)
 metaDeta = newSoup.find('div', id = 'meta').find_all('p')
 playerPositions = ""
 foot = ""
-attributes = ["None"] * 10 #position, foot, height, age, nationality, league goals, league assists, MP
+age = ""
+country = ""
+currentClub = ""
 for data in metaDeta:
     if(data.find('strong')):
         match data.find('strong').text:
@@ -98,7 +108,7 @@ for data in metaDeta:
                     if(endingDot == -1):
                         endingDot = 10000000000
                     playerPositions = playerPositions[1:endingDot-1]
-                    print(playerPositions)
+                    #print(playerPositions)
                 else:
                     if(firstComma == -1):
                         firstComma = 1000000000000
@@ -107,14 +117,27 @@ for data in metaDeta:
                     
                     playerPositions = playerPositions[startingParentheses:min(firstComma, endingParentheses)]
                         
-                    print(playerPositions)
+                    #print(playerPositions)
                     if(data.find('strong').next_sibling.next_sibling is not None):
                         if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
                             foot = data.find('strong').next_sibling.next_sibling.next_sibling.string
-                            print(foot[1:])
-
+                            #print(foot[1:])
+            case "Born:":
+                birthdate = data.find('span')['data-birth']
+                year = int(birthdate[:4])
+                month = int(birthdate[6:7])
+                day = int(birthdate[9:10])
+                age = calculateAge(date(year,month,day))
+                #print(age)
             case _:
-                print(data.find('strong'))
+                print(data.find('strong').text)
+                title = data.find('strong').text
+                if(title.find("Nation") != -1 or title.find("Citizen") != -1):
+                    country = data.find('a').text
+                    #print(country)
+                elif(title.find("Club") != -1):
+                    currentClub = data.find('a').text
+                    #print(currentClub)
                 continue
     else:
         print(data)
