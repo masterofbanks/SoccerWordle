@@ -2,49 +2,135 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
+#open files
+clubFile = open("clubs.csv", "w")
+playerFile = open("players.csv", "w")
+
+
 
 # Making a GET requests
+
 top_url = 'https://fbref.com/'
-r = requests.get('https://fbref.com/en/comps/9/Premier-League-Stats')
-print(r.ok)
+# r = requests.get('https://fbref.com/en/comps/9/Premier-League-Stats') #https://fbref.com/en/comps/9/Premier-League-Stats
+# print(r.ok)
 
-# Parsing the HTML
-soup = BeautifulSoup(r.content, 'html.parser')
+# # Parsing the HTML
+# soup = BeautifulSoup(r.content, 'html.parser')
 
 
-s = soup.find('table', id = 'results2024-202591_overall') 
-#print(s)
-subMenu = s.find('tbody')
-clubs = subMenu.find_all('tr')
-liverpool = clubs
-x = 0
+# s = soup.find('table', id = 'results2024-202591_overall') 
+# subMenu = s.find('tbody')
+# clubs = subMenu.find_all('tr')
+# liverpool = clubs
+# x = 0
 
-time.sleep(5)
-td = clubs[0].find('td')
-a = td.find('a')
-newEnding = a.get('href')
-withoutSlash = newEnding[1:]
-new_url = top_url + withoutSlash
-newRequest = requests.get(new_url)
+# #navigate to a club by getting its url
+# time.sleep(5)
+# td = clubs[0].find('td')
+# a = td.find('a')
+# newEnding = a.get('href')
+# id = newEnding[11:19]
+# name = newEnding[20:]
+# new_url = top_url + newEnding[1:]
+
+# clubLine = id + "," + name
+# clubFile.write(clubLine)
+
+# # #navigate to club's website
+
+# print(new_url)
+# newRequest = requests.get(new_url)
+# print(newRequest.ok)
+# newSoup = BeautifulSoup(newRequest.content, 'html.parser')
+
+# #navigate to the all competitions version 
+# allComps = newSoup.find('div', id = 'content').find('a').get('href')
+# allCompsUrl = top_url + allComps[1:]
+
+# time.sleep(5)
+
+# print(allCompsUrl)
+# newRequest = requests.get(allCompsUrl)
+# print(newRequest.ok)
+# newSoup = BeautifulSoup(newRequest.content, 'html.parser')
+
+
+# #navigate to the list of players
+# tableOfPlayers = newSoup.find('div', id = 'all_stats_standard')
+
+# subMenu = newSoup.find('tbody')
+# players = subMenu.find_all('tr')
+
+# vanDijk_info = players[0]
+# vanDijk_url = vanDijk_info.find('a').get('href')
+# vanDijk_url = top_url + vanDijk_url[1:]
+
+# print(vanDijk_url)
+
+# time.sleep(5)
+vanDijk_url = "https://fbref.com/en/players/47952f83/Landry-Farre"
+playerLine = ""
+newRequest = requests.get(vanDijk_url)
 print(newRequest.ok)
 newSoup = BeautifulSoup(newRequest.content, 'html.parser')
-top = newSoup.find('div', id = 'info')
-subMenu = top.find('h1')
-title = subMenu.find('span')
-title_string = title.getText()
-print(title_string)
 
-tableOfPlayers = newSoup.find('div', id = 'all_stats_standard')
-subMenu = newSoup.find('tbody')
-players = subMenu.find_all('tr')
-playerNames = []
-for player in players:
-    name = player.find('th').get_text()
-    print(name)
-    playerNames.append(name)
-print(len(playerNames))
+playerId = vanDijk_url[29:37]
+print(playerId)
+playerLine = playerId + ","
+
+playerName = newSoup.find('div', id = 'info', ).find('h1').find('span').get_text()
+print(playerName)
+playerLine += (playerName + ",")
+print(playerLine)
+metaDeta = newSoup.find('div', id = 'meta').find_all('p')
+playerPositions = ""
+foot = ""
+attributes = ["None"] * 10 #position, foot, height, age, nationality, league goals, league assists, MP
+for data in metaDeta:
+    if(data.find('strong')):
+        match data.find('strong').text:
+            case "Position:":
+                playerPositions = data.find('strong').next_sibling.string
+                firstComma = playerPositions.find(',') 
+                endingParentheses = playerPositions.find(')')
+                if(firstComma == -1 and endingParentheses == -1):
+                    endingDot = playerPositions.find('▪')
+                    if(endingDot == -1):
+                        endingDot = 10000000000
+                    playerPositions = playerPositions[1:endingDot-1]
+                    print(playerPositions)
+                else:
+                    if(firstComma == -1):
+                        firstComma = 1000000000000
+                            
+                    startingParentheses = playerPositions.find('(') + 1
+                    
+                    playerPositions = playerPositions[startingParentheses:min(firstComma, endingParentheses)]
+                        
+                    print(playerPositions)
+                    if(data.find('strong').next_sibling.next_sibling is not None):
+                        if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
+                            foot = data.find('strong').next_sibling.next_sibling.next_sibling.string
+                            print(foot[1:])
+
+            case _:
+                print(data.find('strong'))
+                continue
+    else:
+        print(data)
+    
 
 
+
+#loop through the list of players
+# playerNames = []
+# for player in players:
+#     name = player.find('th').get_text()
+#     print(name)
+#     playerNames.append(name)
+# print(len(playerNames))
+
+#loop through the list of clubs
 #listOfTitles = []
 # for club in clubs:
 #     time.sleep(10)
