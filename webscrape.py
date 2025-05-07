@@ -76,7 +76,7 @@ top_url = 'https://fbref.com/'
 # print(vanDijk_url)
 
 # time.sleep(5)
-vanDijk_url = "https://fbref.com/en/players/178ae8f8/Diogo-Jota"
+vanDijk_url = "https://fbref.com/en/players/2eefd1b3/Andres-Cuenca"
 playerLine = ""
 newRequest = requests.get(vanDijk_url)
 print(newRequest.ok)
@@ -93,6 +93,7 @@ print(playerLine)
 metaDeta = newSoup.find('div', id = 'meta').find_all('p')
 playerPositions = ""
 foot = ""
+height = ""
 age = ""
 country = ""
 currentClub = ""
@@ -116,11 +117,17 @@ for data in metaDeta:
                     startingParentheses = playerPositions.find('(') + 1
                     
                     playerPositions = playerPositions[startingParentheses:min(firstComma, endingParentheses)]
-                        
+                    l = list(playerPositions)
+                    i = 0
+                    while( i < len(l)):
+                        if(l[i] == '-'):
+                            l[i] = ' '
+                        i+=1
+                    playerPositions = ''.join(l)
                     #print(playerPositions)
                     if(data.find('strong').next_sibling.next_sibling is not None):
                         if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
-                            foot = data.find('strong').next_sibling.next_sibling.next_sibling.string
+                            foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
                             #print(foot[1:])
             case "Born:":
                 birthdate = data.find('span')['data-birth']
@@ -130,20 +137,55 @@ for data in metaDeta:
                 age = calculateAge(date(year,month,day))
                 #print(age)
             case _:
-                print(data.find('strong').text)
+                #print(data.find('strong').text)
                 title = data.find('strong').text
                 if(title.find("Nation") != -1 or title.find("Citizen") != -1):
                     country = data.find('a').text
                     #print(country)
                 elif(title.find("Club") != -1):
-                    currentClub = data.find('a').text
+                    currentClub = data.find('a').get('href')[11:19]
                     #print(currentClub)
                 continue
+    elif(data.find('span')):
+        cm_index = data.text.find('cm')
+        if(cm_index != -1):
+            height = data.text[:cm_index]
+            #print(height)
+    
+    #else:
+        #print(data)
+
+attributes = [playerPositions, foot, height, age, country, currentClub]
+for x in attributes:
+    if(x == ""):
+        playerLine += ("None,")
     else:
-        print(data)
+        playerLine += (str(x) + ",")
+
+print(playerLine)
+gls = 0
+assists = 0
+mp = 0
+p1 = newSoup.find('div', {"class": "p1"})
+#print(pulloutData)
+if(p1 is not None):
+    leagueTallies = p1.find_all('div')[2].find_all('p')
+    assistTallies = p1.find_all('div')[3].find_all('p')
+    matches = p1.find_all('div')[0].find_all('p')
+    i = 0
+    while(i < len(leagueTallies)):
+        gls += int(leagueTallies[i].text)
+        assists += int(assistTallies[i].text)
+        mp += int(matches[i].text)
+        
+        i+=1
+    
     
 
-
+playerLine += (str(gls) + ",")
+playerLine += (str(assists) + ",")
+playerLine += (str(mp) + ",")
+print(playerLine)
 
 #loop through the list of players
 # playerNames = []
