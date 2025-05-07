@@ -1,0 +1,36 @@
+id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf
+e06683ca,Virgil van Dijk,CB,Right,193,33,Netherlands,822bd0ba,4,1,44,bec05adb ed54a8b3 b81aa4fa 33c895d4 822bd0ba
+e342ad68,Mohamed Salah,AM WM,Left,175,32,Egypt,822bd0ba,31,22,44,cff3d9bb 421387cf 822bd0ba d3d9424a cf74a709
+b8e740fb,Ryan Gravenberch,CM DM WM,Right,190,22,Netherlands,822bd0ba,0,4,43,a26209d7 822bd0ba 054efa67 19c3f8c4
+83d074ff,Alexis Mac Allister,AM CM DM WM,Right,174,26,Argentina,822bd0ba,7,5,42,d01a653b d07537b9 822bd0ba 795ca75e
+934e1968,Dominik Szoboszlai,AM CM WM,Right,186,24,Hungary,822bd0ba,6,6,42,50f2a074 822bd0ba acbb6a5b
+4a1a9578,Luis Díaz,AM WM,Right,180,28,Colombia,822bd0ba,15,5,42,822bd0ba b281fa3b 5e876ee6
+2e4f5f03,Andrew Robertson,FB,Left,178,31,Scotland,822bd0ba,0,1,39,e986ece7 822bd0ba bd8769d1
+5ed9b537,Ibrahima Konaté,CB,Right,193,25,France,822bd0ba,2,2,35,b9cd3c9a acbb6a5b 822bd0ba e850256c
+cd1acf9d,Trent Alexander-Arnold,FB,Right,175,26,England,822bd0ba,3,7,39,822bd0ba 071dd6bd
+7a2e46a8,Alisson,GK,None,193,32,Brazil,822bd0ba,0,0,31,6f7e1f03 822bd0ba cf74a709
+1971591f,Cody Gakpo,AM,Right,187,26,Netherlands,822bd0ba,12,4,40,e334d850 822bd0ba 8e1ea572
+4fb9c88f,Curtis Jones,CM WM,Right,185,24,England,822bd0ba,3,5,38,822bd0ba 33861392 071dd6bd
+4d77b365,Darwin Núñez,FW,None,187,25,Uruguay,822bd0ba,6,3,36,e2d73ee6 78ecf4bb 822bd0ba a77c513e
+62d7ef38,Caoimhín Kelleher,GK,None,188,26,Republic of Ireland,822bd0ba,0,0,14,822bd0ba 33861392 071dd6bd
+178ae8f8,Diogo Jota,FW-MF,None,178,28,Portugal,822bd0ba,6,3,28,822bd0ba f6af6f6f 5e876ee6 8cec06e1
+f315ca93,Kostas Tsimikas,FB,Left,177,28,Greece,822bd0ba,0,2,23,2fdb4aef 31aa0dd4 822bd0ba f0479d7b
+4125cb98,Jarell Quansah,CB,None,197,22,England,822bd0ba,0,0,16,654f3ca6 822bd0ba 33861392 071dd6bd
+bbd67769,Conor Bradley,FB,Right,181,21,Northern Ireland,822bd0ba,0,2,21,445d3104 822bd0ba 071dd6bd
+7a11550b,Joe Gomez,CB FB,Right,188,27,England,822bd0ba,0,0,13,7a8db6d4 822bd0ba 071dd6bd
+c149016b,Wataru Endo,CM DM,Right,178,32,Japan,822bd0ba,0,0,24,598bc722 f812e711 822bd0ba 80328a1e 1a921e1f
+b9e1436c,Harvey Elliott,WM,Left,170,22,England,822bd0ba,3,1,20,fd962109 071dd6bd e090f40b 822bd0ba 415ce479
+b0f7e36c,Federico Chiesa,WM,Right,175,27,Italy,822bd0ba,0,0,8,421387cf 822bd0ba e0652b02
+2bc28bb9,Tyler Morton,CM DM,Right,178,22,England,822bd0ba,0,0,1,071dd6bd e090f40b 822bd0ba b4c2d36f 33861392 bd8769d1
+bf973eeb,James McConnell,MF,None,None,20,England,33861392,0,0,1,822bd0ba 33861392
+1d3b3d77,Trey Nyoni,MF,None,None,17,England,33861392,0,0,1,822bd0ba cc320bb0 33861392
+003cf4d1,Jayden Danns,FW,None,None,19,England,8ef52968,0,0,2,822bd0ba 33861392
+12bb4d6a,Vitezslav Jaros,GK,None,184,23,Czech Republic,822bd0ba,0,0,1,3b27de1f 071dd6bd 822bd0ba c6ce4b54 3f4fe568
+022eca88,Rio Ngumoha,FW,None,None,16,England,33861392,0,0,0,33861392
+0d7be441,Isaac Mabaya,MF,None,None,20,England,33861392,0,0,0,33861392 071dd6bd
+55f40df2,Trent Doherty,MF,None,None,18,Republic of Ireland,33861392,0,0,0,33861392
+398a24f6,Amara Nallo,DF,None,None,18,England,33861392,0,0,1,822bd0ba 33861392
+788cd1c9,James Norris,DF,None,195,22,England,a62918f6,0,0,0,22327064 33861392 071dd6bd
+fd08a24b,Harvey Davies,GK,None,186,21,England,33861392,0,0,0,822bd0ba 33861392 f13a527f 071dd6bd
+25683300,Kieran Morrison,MF,None,None,18,Northern Ireland,33861392,0,0,0,33861392
+0426b987,Ranel Young,MF,None,None,19,England,33861392,0,0,0,33861392
