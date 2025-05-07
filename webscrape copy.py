@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import time
+from unidecode import unidecode
 
 from datetime import date
  
@@ -23,7 +24,7 @@ playerFile.write(firstPlayerLine)
 
 top_url = 'https://fbref.com/'
 
-player_url = "https://fbref.com/en/players/4125cb98/Jarell-Quansah"
+player_url = "https://fbref.com/en/players/8eab81d9/Archie-Harris"
 
 
 
@@ -52,7 +53,8 @@ playerId = player_url[29:37]
 playerLine = playerId + ","
 
 playerName = newSoup.find('div', id = 'info', ).find('h1').find('span').get_text()
-#print(playerName)
+playerName = unidecode(playerName)
+print(playerName)
 playerLine += (playerName + ",")
 #print(playerLine)
 metaDeta = newSoup.find('div', id = 'meta').find_all('p')
@@ -74,6 +76,9 @@ for data in metaDeta:
                     if(endingDot == -1):
                         endingDot = 10000000000
                     playerPositions = playerPositions[1:endingDot-1]
+                    if(data.find('strong').next_sibling.next_sibling is not None):
+                        if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
+                            foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
                     #print(playerPositions)
                 else:
                     if(firstComma == -1):
@@ -156,24 +161,26 @@ playerLine += (str(gls) + ",")
 playerLine += (str(assists) + ",")
 playerLine += (str(mp) + ",")
 #print(playerLine)
-
-pcs = newSoup.find('div', id = "all_stats_standard").find('tbody').find_all('tr')
+primer = newSoup.find('div', id = "all_stats_standard")
 c = ""
-if(pcs is not None):
-    set_of_clubs = set()
-    for entry in pcs:
-        if(entry.find('a') is not None):
-            club_id = entry.find('a').get('href')[11:19]
-            if(club_id in set_of_clubs):
-                continue
-            else:
-                set_of_clubs.add(club_id)
-    
-    for i in set_of_clubs:
-        c+= (i + " ")
-    c = c[:len(c)-1]
-else:
-    c = currentClub
+
+if(primer is not None):
+    pcs = primer.find('tbody').find_all('tr')
+    if(pcs is not None):
+        set_of_clubs = set()
+        for entry in pcs:
+            if(entry.find('a') is not None):
+                club_id = entry.find('a').get('href')[11:19]
+                if(club_id in set_of_clubs):
+                    continue
+                else:
+                    set_of_clubs.add(club_id)
+        
+        for i in set_of_clubs:
+            c+= (i + " ")
+        c = c[:len(c)-1]
+    else:
+        c = currentClub
 
 playerLine += c
 playerLine += '\n'
