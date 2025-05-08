@@ -12,10 +12,10 @@ def calculateAge(birthDate):
     return age
 
 #open files
-clubFile = open("bruhclubs.csv", "w")
+clubFile = open("clubs.csv", "w")
 firstClubLine = "id,name"
 clubFile.write(firstClubLine)
-playerFile = open("bruhplayers.csv", "w")
+playerFile = open("players.csv", "w")
 firstPlayerLine = "id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf\n"
 playerFile.write(firstPlayerLine)
 
@@ -24,7 +24,7 @@ playerFile.write(firstPlayerLine)
 
 top_url = 'https://fbref.com/'
 
-player_url = "https://fbref.com/en/players/6eaed4eb/Florian-Lejeune"
+player_url = "https://fbref.com/en/players/8eab81d9/Archie-Harris"
 
 
 

@@ -4,17 +4,6 @@ import time
 import unidecode
 from datetime import date
 from unidecode import unidecode
-
-#things to implement
-# 1. add clubs from cpf into the clubs database
-# 2. setup postgresql database, maybe with neon,; use sql tools in vs code and python
-# 3. start making queries
-# 4. get images of players
-# 5. get images of clubs (perhaps manually)
-# 
-# 
-# 
-# #
  
 def calculateAge(birthDate):
     today = date.today()
@@ -23,10 +12,10 @@ def calculateAge(birthDate):
     return age
 
 #open files
-clubFile = open("allClubs.csv", "w")
+clubFile = open("clubs.csv", "w")
 firstClubLine = "id,name\n"
 clubFile.write(firstClubLine)
-playerFile = open("allPlayers.csv", "w")
+playerFile = open("players.csv", "w")
 firstPlayerLine = "id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf\n"
 playerFile.write(firstPlayerLine)
 
@@ -34,16 +23,14 @@ playerFile.write(firstPlayerLine)
 # Making a GET requests
 
 top_url = 'https://fbref.com/'
-time.sleep(5)
-
-r = requests.get('https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats') 
+r = requests.get('https://fbref.com/en/comps/9/Premier-League-Stats') #https://fbref.com/en/comps/9/Premier-League-Stats
 print(r.ok)
 
 # Parsing the HTML
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
-s = soup.find('table', id = 'big5_table') 
+s = soup.find('table', id = 'results2024-202591_overall') 
 subMenu = s.find('tbody')
 clubs = subMenu.find_all('tr')
 x = 0
@@ -72,9 +59,9 @@ for td in clubs:
     allComps = newSoup.find('div', id = 'content').find('a').get('href')
     allCompsUrl = top_url + allComps[1:]
 
+    time.sleep(5)
 
     print(allCompsUrl)
-    time.sleep(5)
     newRequest = requests.get(allCompsUrl)
     print(newRequest.ok)
     newSoup = BeautifulSoup(newRequest.content, 'html.parser')
@@ -91,9 +78,11 @@ for td in clubs:
     # vanDijk_url = top_url + vanDijk_url[1:]
 
 
+    # time.sleep(5)
     for player in players:
         player_url = player.find('a').get('href')
         player_url = top_url + player_url[1:]
+        time.sleep(5)
 
 
         ####################
@@ -101,7 +90,6 @@ for td in clubs:
 
         
         playerLine = ""
-        time.sleep(5)
         newRequest = requests.get(player_url)
         print(newRequest.ok)
         newSoup = BeautifulSoup(newRequest.content, 'html.parser')
@@ -246,3 +234,33 @@ for td in clubs:
             print(playerLine)
             playerFile.write(playerLine)
 
+#print(playerLine)
+
+#loop through the list of players
+# playerNames = []
+# for player in players:
+#     name = player.find('th').get_text()
+#     print(name)
+#     playerNames.append(name)
+# print(len(playerNames))
+
+#loop through the list of clubs
+#listOfTitles = []
+# for club in clubs:
+#     time.sleep(10)
+#     td = club.find('td')
+#     a = td.find('a')
+#     newEnding = a.get('href')
+#     withoutSlash = newEnding[1:]
+#     new_url = top_url + withoutSlash
+#     newRequest = requests.get(new_url)
+#     print(newRequest.ok)
+#     newSoup = BeautifulSoup(newRequest.content, 'html.parser')
+#     top = newSoup.find('div', id = 'info')
+#     subMenu = top.find('h1')
+#     title = subMenu.find('span')
+#     title_string = title.getText()
+#     listOfTitles.append(title_string)
+    
+
+#print(listOfTitles)
