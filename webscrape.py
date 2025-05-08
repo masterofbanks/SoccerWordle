@@ -22,15 +22,6 @@ def calculateAge(birthDate):
  
     return age
 
-def findClubName(hrefString):
-    sub_str = "/"
-    val = -1
-    for i in range(0, 6): 
-        val = hrefString.find(sub_str, val + 1) 
-
-    outer = hrefString.find('Stats')-1
-    return hrefString[val+1:outer]
-
 #open files
 clubFile = open("allClubs.csv", "w")
 firstClubLine = "id,name\n"
@@ -56,20 +47,18 @@ s = soup.find('table', id = 'big5_table')
 subMenu = s.find('tbody')
 clubs = subMenu.find_all('tr')
 x = 0
-allClubs = set()
+
 #navigate to a club by getting its url
-for td in clubs[94::]:
+for td in clubs:
     a = td.find('a')
     newEnding = a.get('href')
     id = newEnding[11:19]
-    name = newEnding[20:newEnding.find('Stats')-1]
+    name = a.text
     name = unidecode(name)
     new_url = top_url + newEnding[1:]
 
     clubLine = id + "," + name +'\n'
-    if(id not in allClubs):
-        clubFile.write(clubLine)
-        allClubs.add(id)
+    clubFile.write(clubLine)
 
     # #navigate to club's website
 
@@ -244,14 +233,7 @@ for td in clubs[94::]:
                         if(club_id in set_of_clubs):
                             continue
                         else:
-                            link = entry.find('a').get('href')
-                            cN = findClubName(link)
-
                             set_of_clubs.add(club_id)
-                            clubEntry = club_id + ',' + cN + '\n'
-                            if(club_id not in allClubs):
-                                clubFile.write(clubEntry)
-                                allClubs.add(club_id)
                 
                 for i in set_of_clubs:
                     c+= (i + " ")
