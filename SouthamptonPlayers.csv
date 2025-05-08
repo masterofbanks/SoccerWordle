@@ -1,0 +1,40 @@
+id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf
+984a5a64,Kyle Walker-Peters,FB,Right,173,28,England,33c895d4,0,2,33,33c895d4 361ca564 456c5e63
+ef491564,Mateus Fernandes,MF,Right,178,20,Portugal,33c895d4,2,3,34,13dc44fd 33c895d4 00c41b75
+47327321,Taylor Harwood-Bellis,CB,Right,188,23,England,33c895d4,1,0,32,17892952 943e8050 33c895d4 e090f40b b8fd03ef 08ad393c e41e516f
+4115ce4e,Jan Bednarek,CB,Right,190,29,Poland,33c895d4,2,0,29,ed54a8b3 8602292d 2d9ff02d 33c895d4 fdba14df
+466fb2c5,Aaron Ramsdale,GK,Right,195,26,England,33c895d4,0,0,27,4ba7cbea 1df6b87e ce786972 18bb7c10 33c895d4 8b9bf22a
+328f7d51,Joe Aribo,CM DM,Left,183,28,Nigeria,33c895d4,3,0,30,86b7acd2 7a8db6d4 33c895d4 179c33c7
+bdcc89ae,Tyler Dibling,MF,None,None,19,England,33c895d4,2,0,31,ed54a8b3 33c895d4 179c33c7
+69fdb896,Flynn Downes,CM DM,Right,172,26,England,33c895d4,1,0,24,b74092de fb10988f 33c895d4 7c21e445 e297cd13
+1df4a109,Lesley Ugochukwu,MF,Right,188,21,France,33c895d4,1,1,24,b3072e00 33c895d4 cff3d9bb
+847b53eb,Ryan Manning,DM FB,Left,171,28,Republic of Ireland,33c895d4,0,1,23,a757999c fb10988f 179c33c7 375d66f1 33c895d4
+05e8ca6d,Cameron Archer,FW,None,175,23,England,33c895d4,2,0,32,8602292d 22df8478 1df6b87e 33c895d4 9e85547f 5b4413b6 7f59c601
+580bcd18,Yukinari Sugawara,FB,Right,179,24,Japan,33c895d4,1,1,29,3986b791 c2f85bbb 33c895d4 9c584cf2
+68c720b5,Adam Armstrong,AM,Right,172,28,England,60c6b05f,5,2,36,f7e3dfe9 60c6b05f 179c33c7 33c895d4 e090f40b 293cb36b b2b47a98 445d3104
+c07b7c5c,James Bree,FB,Right,178,27,England,33c895d4,0,1,15,8602292d b74092de 179c33c7 33c895d4 5b4413b6 293cb36b e297cd13
+a62f8bf1,Kamaldeen Sulemana,FW-MF,Right,175,23,Ghana,33c895d4,1,1,23,1850e3f9 b3072e00 33c895d4
+6adbc307,Jack Stephens,CB,Right,185,31,England,33c895d4,1,0,17,ed54a8b3 f7e3dfe9 1b295b25 4ba7cbea 33c895d4 7f59c601 32a1480e
+c06d1086,Paul Onuachu,FW,Right,202,30,Nigeria,33c895d4,4,1,24,c8ad3091 1e972a99 3c4fb635 33c895d4
+4ccf2d5b,Nathan Wood-Gordon,CB,Right,188,22,England,33c895d4,0,0,9,f13a527f fb10988f 2d860997 179c33c7 33c895d4 f3aacc58 7f59c601
+36c2ca73,Alex McCarthy,GK,Right,193,35,England,33c895d4,0,0,5,bd5179b9 41da1cf3 5bfb9659 a757999c b74092de b0ac61ff cd051869 ed54a8b3 179c33c7 33c895d4 a8290768 c30e88bc 47c64c55
+5e105217,William Smallbone,CM,Right,173,25,Republic of Ireland,33c895d4,1,0,15,ed54a8b3 33c895d4 17892952
+57827369,Ben Brereton,AM,Right,183,26,Chile,1df6b87e,4,3,27,179c33c7 b6e0c777 1df6b87e 33c895d4 2a8183b3 e090f40b e4a775cb
+cc2d7ad5,Charlie Taylor,FB,Left,175,31,England,33c895d4,0,0,7,4463fecb 5bfb9659 943e8050 d6a369a2 179c33c7 33c895d4 3148d79f e272e7a8
+99813635,Adam Lallana,AM CM WM,Right,173,36,England,33c895d4,0,2,14,4ba7cbea d07537b9 33c895d4 822bd0ba 071dd6bd
+d56543a0,Ryan Fraser,WM,Right,163,31,Scotland,33c895d4,0,0,8,b74092de 4ba7cbea 8bbab7cf 3ea79db4 33c895d4 b2b47a98
+bdf3a08e,Joe Lumley,GK,Right,176,30,England,33c895d4,0,0,3,a757999c b0ac61ff 179c33c7 6ca73159 03d10d77 33c895d4 aca0450a 9172ba36 7cbf5cb4 5f01284a 7f59c601 654f3ca6
+a39d11bc,Armel Bella Kotchap,CB,Right,190,23,Germany,33c895d4,0,0,4,37a68655 b42c6323 05ebd479 e334d850 33c895d4 8e1ea572 5f0284ea
+a7f95b1f,Welington,FB,Left,175,24,Brazil,33c895d4,0,0,7,179c33c7 33c895d4 5f232eb1
+18986367,Ross Stewart,FW,None,188,28,Scotland,33c895d4,0,0,9,179c33c7 33c895d4 8ef52968 3568ad4c a5298e9f
+beb391dd,Maxwel Cornet,AM,Left,179,28,Côte d'Ivoire,658bf2de,2,1,8,943e8050 f83960ae 33c895d4 7c21e445 d53c0b06 afa3c276 658bf2de
+007414dd,Samuel Edozie,FW-MF,None,179,22,England,08ad393c,3,2,24,179c33c7 33c895d4 a324bb9a b8fd03ef 08ad393c e41e516f
+0da5076f,Albert Gronbaek,CM,Right,176,23,Denmark,33c895d4,2,1,20,9ae196bd 33c895d4 d86248bd b3072e00
+9eedf0e0,Samuel Amo-Ameyaw,FW,None,174,18,England,c0d3eab4,2,0,9,33c895d4 c0d3eab4 179c33c7
+be90c4b0,Ronnie Edwards,CB,None,180,22,England,a757999c,2,0,22,a757999c 2e91bf26 179c33c7 d6e6321c 33c895d4
+2a616c85,Jay Robinson,FW,None,None,18,England,179c33c7,0,0,2,33c895d4 179c33c7
+4abac767,Carlos Alcaraz,FW-MF,None,176,22,Argentina,d3fd31cc,1,2,13,8e20e13d 639950ae 33c895d4 e0652b02 d3fd31cc
+e964b8f3,Romeo Akachukwu,MF,None,None,18,Republic of Ireland,179c33c7,0,0,0,179c33c7
+fd1c27b8,Joe O'Brien-Whitmarsh,FW,None,None,None,Republic of Ireland,179c33c7,3,0,13,9172ba36 33c895d4 179c33c7
+cf7fb13a,Juan Larios,DF,None,170,21,Spain,179c33c7,0,0,0,e41e516f 33c895d4 a324bb9a 179c33c7
+ed23d14e,Jayden Moore,DF,None,None,None,None,179c33c7,0,0,0,179c33c7
