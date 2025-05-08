@@ -1,1 +1,752 @@
 id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf
+e06683ca,Virgil van Dijk,CB,Right,193,33,Netherlands,822bd0ba,4,1,44,b81aa4fa 822bd0ba ed54a8b3 33c895d4 bec05adb
+e342ad68,Mohamed Salah,AM WM,Left,175,32,Egypt,822bd0ba,31,22,44,822bd0ba d3d9424a cff3d9bb cf74a709 421387cf
+b8e740fb,Ryan Gravenberch,CM DM WM,Right,190,22,Netherlands,822bd0ba,0,4,43,a26209d7 054efa67 822bd0ba 19c3f8c4
+83d074ff,Alexis Mac Allister,AM CM DM WM,Right,174,26,Argentina,822bd0ba,7,5,42,822bd0ba d01a653b d07537b9 795ca75e
+934e1968,Dominik Szoboszlai,AM CM WM,Right,186,24,Hungary,822bd0ba,6,6,42,822bd0ba acbb6a5b 50f2a074
+4a1a9578,Luis Diaz,AM WM,Right,180,28,Colombia,822bd0ba,15,5,42,822bd0ba b281fa3b 5e876ee6
+2e4f5f03,Andrew Robertson,FB,Left,178,31,Scotland,822bd0ba,0,1,39,e986ece7 bd8769d1 822bd0ba
+5ed9b537,Ibrahima Konate,CB,Right,193,25,France,822bd0ba,2,2,35,822bd0ba e850256c acbb6a5b b9cd3c9a
+cd1acf9d,Trent Alexander-Arnold,FB,Right,175,26,England,822bd0ba,3,7,39,822bd0ba 071dd6bd
+7a2e46a8,Alisson,GK,Right,193,32,Brazil,822bd0ba,0,0,31,822bd0ba 6f7e1f03 cf74a709
+1971591f,Cody Gakpo,AM,Right,187,26,Netherlands,822bd0ba,12,4,40,822bd0ba e334d850 8e1ea572
+4fb9c88f,Curtis Jones,CM WM,Right,185,24,England,822bd0ba,3,5,38,822bd0ba 33861392 071dd6bd
+4d77b365,Darwin Nunez,FW,Right,187,25,Uruguay,822bd0ba,6,3,36,78ecf4bb 822bd0ba e2d73ee6 a77c513e
+62d7ef38,Caoimhin Kelleher,GK,Right,188,26,Republic of Ireland,822bd0ba,0,0,14,822bd0ba 33861392 071dd6bd
+178ae8f8,Diogo Jota,FW-MF,Right,178,28,Portugal,822bd0ba,6,3,28,f6af6f6f 822bd0ba 8cec06e1 5e876ee6
+f315ca93,Kostas Tsimikas,FB,Left,177,28,Greece,822bd0ba,0,2,23,f0479d7b 822bd0ba 31aa0dd4 2fdb4aef
+4125cb98,Jarell Quansah,CB,None,197,22,England,822bd0ba,0,0,16,822bd0ba 33861392 654f3ca6 071dd6bd
+bbd67769,Conor Bradley,FB,Right,181,21,Northern Ireland,822bd0ba,0,2,21,822bd0ba 445d3104 071dd6bd
+7a11550b,Joe Gomez,CB FB,Right,188,27,England,822bd0ba,0,0,13,822bd0ba 071dd6bd 7a8db6d4
+c149016b,Wataru Endo,CM DM,Right,178,32,Japan,822bd0ba,0,0,24,f812e711 822bd0ba 598bc722 1a921e1f 80328a1e
+b9e1436c,Harvey Elliott,WM,Left,170,22,England,822bd0ba,3,1,20,e090f40b 822bd0ba 415ce479 fd962109 071dd6bd
+b0f7e36c,Federico Chiesa,WM,Right,175,27,Italy,822bd0ba,0,0,8,822bd0ba 421387cf e0652b02
+2bc28bb9,Tyler Morton,CM DM,Right,178,22,England,822bd0ba,0,0,1,822bd0ba e090f40b 33861392 bd8769d1 b4c2d36f 071dd6bd
+bf973eeb,James McConnell,MF,None,None,20,England,33861392,0,0,1,33861392 822bd0ba
+1d3b3d77,Trey Nyoni,MF,None,None,17,England,33861392,0,0,1,33861392 cc320bb0 822bd0ba
+003cf4d1,Jayden Danns,FW,None,None,19,England,8ef52968,0,0,2,33861392 822bd0ba
+12bb4d6a,Vitezslav Jaros,GK,Right,184,23,Czech Republic,822bd0ba,0,0,1,822bd0ba 3f4fe568 3b27de1f c6ce4b54 071dd6bd
+022eca88,Rio Ngumoha,FW,None,None,16,England,33861392,0,0,0,33861392
+0d7be441,Isaac Mabaya,MF,None,None,20,England,33861392,0,0,0,33861392 071dd6bd
+55f40df2,Trent Doherty,MF,None,None,18,Republic of Ireland,33861392,0,0,0,33861392
+398a24f6,Amara Nallo,DF,None,None,18,England,33861392,0,0,1,33861392 822bd0ba
+788cd1c9,James Norris,DF,None,195,22,England,a62918f6,0,0,0,33861392 22327064 071dd6bd
+fd08a24b,Harvey Davies,GK,None,186,21,England,33861392,0,0,0,822bd0ba 33861392 071dd6bd f13a527f
+25683300,Kieran Morrison,MF,None,None,18,Northern Ireland,33861392,0,0,0,33861392
+0426b987,Ranel Young,MF,None,None,19,England,33861392,0,0,0,33861392
+98ea5115,David Raya,GK,Right,186,29,Spain,18bb7c10,0,0,47,e090f40b 551328d6 cd051869 18bb7c10
+972aeb2a,William Saliba,CB,Right,193,24,France,18bb7c10,2,0,43,132ebc33 18bb7c10 5725cc7b d298ef2c ad0e69a2
+1c7012b8,Declan Rice,CM DM WM,Right,185,26,England,18bb7c10,7,9,45,7c21e445 f56127be 18bb7c10
+41034650,Jurrien Timber,CB FB,Right,179,23,Netherlands,18bb7c10,2,4,42,19c3f8c4 18bb7c10 45bf2fb0 a26209d7
+529f49ab,Thomas Partey,CM DM,Right,185,31,Ghana,18bb7c10,4,2,43,78ecf4bb 2aa12281 18bb7c10 db3b9613
+67ac5bb8,Gabriel Magalhaes,CB,Left,190,27,Brazil,18bb7c10,4,1,37,cb188c0c 18bb7c10 54195385 edd0d381 f205258a ad0e69a2
+38ceb24a,Leandro Trossard,AM,Right,172,30,Belgium,18bb7c10,10,7,48,27e981a3 6f98eba9 18bb7c10 d07537b9 1e972a99
+48a5a5d6,Gabriel Martinelli,FW-MF,Right,180,23,Brazil,18bb7c10,9,5,42,18bb7c10
+79300479,Martin Odegaard,AM CM WM,Left,179,26,Norway,18bb7c10,5,8,37,18bb7c10 53a2f082 e31d1cd9 209d7fa2 193ff7aa 90eb0dcc
+fed7cb61,Kai Havertz,AM CM WM,Left,186,25,Germany,18bb7c10,13,4,29,c7a9f859 18bb7c10 cff3d9bb ecf53eea
+d080ed5e,Mikel Merino,AM CM DM WM,Left,188,28,Spain,18bb7c10,8,5,37,b2b47a98 18bb7c10 e31d1cd9 03c57e2b add600ae
+bc7dc64d,Bukayo Saka,AM,Left,178,23,England,18bb7c10,11,12,30,18bb7c10 ad0e69a2
+5dff6c28,Myles Lewis-Skelly,DF,None,178,18,England,18bb7c10,1,1,29,45bf2fb0 18bb7c10
+dc3e663e,Jakub Kiwior,CB,Left,182,25,Poland,18bb7c10,1,0,23,45bf2fb0 18bb7c10 68449f6d
+45db685d,Jorginho,CM DM,Right,180,33,Italy,18bb7c10,1,0,20,0e72edf2 18bb7c10 cff3d9bb d48ad4ff
+aded8e6f,Riccardo Calafiori,DF,Left,183,22,Italy,18bb7c10,3,2,24,d3d9424a 18bb7c10 1d8099f8 658bf2de cf74a709
+7f94982c,Ethan Nwaneri,MF,None,180,18,England,18bb7c10,6,2,32,45bf2fb0 18bb7c10
+35e413f1,Ben White,CB FB,Right,182,27,England,18bb7c10,0,1,22,5bfb9659 d07537b9 18bb7c10 d2bc69d1 6c15d7e1 d6e6321c
+b66315ae,Gabriel Jesus,FW-MF,Right,177,28,Brazil,18bb7c10,3,1,22,18bb7c10 b8fd03ef abdce579
+b400bde0,Raheem Sterling,AM WM,Right,170,30,England,18bb7c10,0,4,22,822bd0ba 18bb7c10 b8fd03ef cff3d9bb
+51cf8561,Oleksandr Zinchenko,FB,Left,175,28,Ukraine,18bb7c10,1,1,19,e334d850 8e1ea572 18bb7c10 b8fd03ef ec7fdeb7
+fce2302c,Kieran Tierney,FB,Left,178,27,Scotland,18bb7c10,0,0,15,b81aa4fa e31d1cd9 18bb7c10 ad0e69a2
+a9dc785c,Neto,GK,Right,193,35,Brazil,18bb7c10,0,0,3,4ba7cbea 206d90db 18bb7c10 e0652b02 421387cf dcc91a7b
+676cf55d,Josh Nichols,DF,None,None,18,England,45bf2fb0,0,0,0,45bf2fb0 18bb7c10
+0b4ecd65,Jack Porter,GK,None,None,16,England,45bf2fb0,0,0,0,45bf2fb0 18bb7c10
+d1a2e006,Tommy Setford,GK,None,185,19,England,45bf2fb0,0,0,0,45bf2fb0 18bb7c10 a26209d7
+7be4311f,Maldini Kacurri,DF,None,None,19,Albania,45bf2fb0,0,0,3,45bf2fb0 18bb7c10 6a9477ca
+64e17fab,Ayden Heaven,DF,None,None,18,England,19538871,0,0,3,45bf2fb0 18bb7c10 1c067385 19538871
+6b15cf32,Ismeal Kabia,MF,None,None,19,England,45bf2fb0,0,0,0,45bf2fb0 18bb7c10
+3a686640,Nathan Butler-Oyedeji,FW,Right,178,22,England,45bf2fb0,0,0,2,18bb7c10 7c4744f7 45bf2fb0 9172ba36 ad0e69a2
+b3af9be1,Takehiro Tomiyasu,CB FB,Right,185,26,Japan,18bb7c10,0,0,1,18bb7c10 1d8099f8 80328a1e 45bf2fb0 268a561a
+c5bdb6e3,Reiss Nelson,FW-MF,Right,175,25,England,fd962109,1,1,12,fb4ca611 18bb7c10 fd962109 033ea6b8 ad0e69a2
+dbd6a18f,Michal Rosiak,MF,None,None,19,Poland,45bf2fb0,0,0,0,45bf2fb0
+4571f93e,Jimi Gower,MF,None,None,20,England,45bf2fb0,0,0,0,45bf2fb0 18bb7c10
+5260ea6b,Josh Robinson,DF,None,None,20,England,e59ddc76,0,0,0,45bf2fb0
+e93d8ed1,Jack Henry-Francis,MF,None,None,21,Republic of Ireland,45bf2fb0,0,0,0,45bf2fb0 18bb7c10 ad0e69a2
+7745640e,Zane Monlouis,DF,None,None,21,England,130f43fa,0,0,5,45bf2fb0 130f43fa 740322cb b0ac61ff ad0e69a2
+a53649b7,Eddie Nketiah,FW,Right,175,25,England,47c64c55,1,1,26,5bfb9659 47c64c55 18bb7c10 ad0e69a2
+466fb2c5,Aaron Ramsdale,GK,Right,195,26,England,33c895d4,0,0,27,ce786972 1df6b87e 4ba7cbea 18bb7c10 33c895d4 8b9bf22a
+f9657b1b,Brayden Clarke,DF,None,None,17,Wales,45bf2fb0,0,0,0,45bf2fb0 18bb7c10
+b85c3273,Salah Oulad M'Hand,MF,None,177,21,Netherlands,45bf2fb0,0,0,0,45bf2fb0 18bb7c10 ff280e9e ad0e69a2
+eb189764,Alexei Rojas,GK,None,186,19,Colombia,45bf2fb0,0,0,0,45bf2fb0
+5ad50391,Josko Gvardiol,CB FB,Left,185,23,Croatia,b8fd03ef,5,1,44,edd0d381 acbb6a5b b8fd03ef
+3eb22ec9,Bernardo Silva,AM CM WM,Left,173,30,Portugal,b8fd03ef,3,4,39,a77c513e b8fd03ef fd6114db
+1f44ac21,Erling Haaland,FW-MF,Left,191,24,Norway,b8fd03ef,29,3,37,add600ae 174bd5a0 b8fd03ef 50f2a074
+3bb7b8b4,Ederson,GK,Left,188,31,Brazil,b8fd03ef,0,0,31,eea856da b8fd03ef a77c513e
+b57e066e,Rico Lewis,DF-MF,Right,170,20,England,b8fd03ef,1,3,36,a324bb9a b8fd03ef e41e516f
+819b3158,Ilkay Gundogan,AM CM DM WM,Right,180,34,Germany,b8fd03ef,2,5,41,e41e516f 6f2c108c 206d90db b8fd03ef add600ae
+31c69ef1,Ruben Dias,CB,Right,186,27,Portugal,b8fd03ef,0,0,31,a77c513e b8fd03ef
+ed1e53f3,Phil Foden,AM,Left,169,24,England,b8fd03ef,10,3,35,b8fd03ef e41e516f
+79c0821a,Mateo Kovacic,CM DM WM,Right,181,31,Croatia,b8fd03ef,7,1,35,d609edc0 b8fd03ef cff3d9bb 53a2f082 edd0d381
+fe6e7156,Savio,AM,Left,176,21,Brazil,b8fd03ef,2,9,36,e334d850 8e1ea572 b8fd03ef 422bb734 9024a00a
+89ac64a6,Manuel Akanji,CB,Right,187,29,Switzerland,b8fd03ef,0,1,31,b8fd03ef d3d9424a add600ae
+e6af02e0,Matheus Nunes,CM DM,Right,183,26,Portugal,b8fd03ef,2,8,31,8cec06e1 13dc44fd b8fd03ef
+e46012d4,Kevin De Bruyne,AM CM WM,Right,181,33,Belgium,b8fd03ef,4,7,32,b8fd03ef cff3d9bb 1e972a99 62add3bf 4eaa11d7
+fffea3e5,Jeremy Doku,AM WM,Right,171,22,Belgium,b8fd03ef,3,7,30,b3072e00 08ad393c b8fd03ef
+c1242d4e,Stefan Ortega,GK,Right,186,32,Germany,b8fd03ef,0,0,15,b8fd03ef 247c4b67 2fbdf057
+b0b4fd3e,Jack Grealish,AM WM,Right,175,29,England,b8fd03ef,2,1,25,5b4413b6 8602292d b8fd03ef 3b27de1f
+0e0102eb,Omar Marmoush,FW-MF,Right,177,26,Egypt,b8fd03ef,25,11,38,598bc722 b8fd03ef 4f4b03ee 54864664 4eaa11d7 f0ac8ee6
+86dd77d1,Kyle Walker,FB,Right,178,34,England,dc56fe14,0,0,29,8602292d 986a26c1 dc56fe14 1df6b87e b8fd03ef a757999c 361ca564
+5eecec3d,John Stones,CB,Right,188,30,England,b8fd03ef,3,2,17,d3fd31cc 293cb36b b8fd03ef
+91ca4a16,Nico O'Reilly,MF,None,None,20,England,b8fd03ef,2,0,9,a324bb9a b8fd03ef e41e516f
+eaeca114,Nathan Ake,CB FB,Left,180,30,Netherlands,b8fd03ef,0,0,14,2abfe087 4ba7cbea b8fd03ef cff3d9bb b0ac61ff
+96593e89,James Mcatee,MF,Left,180,22,England,b8fd03ef,4,0,19,b8fd03ef 1df6b87e e41e516f
+2c56a792,Nicolas Gonzalez,DM,Right,189,23,Spain,b8fd03ef,7,5,34,b8fd03ef 206d90db 5e876ee6 dcc91a7b
+d17ce930,Abdukodir Khusanov,DF,None,187,21,Uzbekistan,b8fd03ef,0,0,20,b8fd03ef fd4e0f7d
+383b10fd,Jahmai Simpson-Pusey,DF,None,None,19,England,a324bb9a,0,0,4,a324bb9a b8fd03ef
+6434f10d,Rodri,CM DM,Right,190,28,Spain,b8fd03ef,0,0,3,2a8183b3 b8fd03ef db3b9613
+c4ce0ab5,Vitor Reis,DF,Right,186,19,Brazil,b8fd03ef,0,0,1,b8fd03ef abdce579
+92868cb5,Divin Mubama,FW,Left,183,20,England,a324bb9a,0,0,1,a324bb9a b8fd03ef 7c21e445 afa3c276 f56127be
+eed2427e,Oscar Bobb,FW-MF,Left,174,21,Norway,b8fd03ef,0,0,2,a324bb9a b8fd03ef e41e516f
+dd1bd054,Kaden Braithwaite,DF,None,None,17,England,a324bb9a,0,0,0,a324bb9a
+b6db05c3,Jacob Wright,MF,None,None,19,England,1c781004,0,4,15,1c781004 a324bb9a b8fd03ef
+16eda33b,Max Hudson,GK,None,None,17,Wales,a324bb9a,0,0,0,a324bb9a
+c066d1a5,Issa Kabore,FB,Right,180,23,Burkina Faso,62add3bf,0,0,14,a77c513e b8fd03ef e297cd13 5725cc7b 09f00144 62add3bf 54195385
+5383979b,Max Alleyne,DF,None,None,19,England,a324bb9a,0,0,0,a324bb9a b8fd03ef e41e516f
+3e1550ee,Scott Carson,GK,Right,192,39,England,b8fd03ef,0,0,0,822bd0ba e59ddc76 8602292d 60c6b05f 5bfb9659 6a3b81bf b8fd03ef bba7d733 7a8db6d4 26ab47ee
+d5837248,Thorsten Brits,GK,None,None,17,England,a324bb9a,0,0,0,a324bb9a b8fd03ef
+4f565d77,Kalvin Phillips,DM,Right,177,29,England,b74092de,0,0,19,b74092de a93e668c 5bfb9659 b8fd03ef 7c21e445
+5f3abfe6,Farid Alfa-Ruprecht,FW,None,181,19,Germany,a324bb9a,0,0,0,a324bb9a d84fbee9
+c19a2df1,Josh Wilson-Esbrand,DF,Left,176,22,England,17892952,0,1,6,17892952 f7e3dfe9 e41e516f a324bb9a b8fd03ef 7fdd64e0 75fae011
+b2d31e83,Dan Burn,CB FB,Left,198,32,England,b2b47a98,1,0,34,e59ddc76 bd5179b9 b2b47a98 d07537b9 fd962109 ec79b7c2 3902ac3a
+82518f62,Bruno Guimaraes,CM DM,Right,182,27,Brazil,b2b47a98,4,6,35,d53c0b06 2091c619 b2b47a98
+c8aa95da,Fabian Schar,CB,Right,186,33,Switzerland,b2b47a98,4,0,31,b2b47a98 d3d9424a 91df880d 033ea6b8 2a60ed82
+afed6722,Valentino Livramento,FB,Right,173,22,England,b2b47a98,0,1,34,b2b47a98 cff3d9bb 09080694 33c895d4 179c33c7
+8e92be30,Alexander Isak,FW,Right,190,25,Sweden,b2b47a98,23,6,32,b0333581 b2b47a98 d943111d e31d1cd9 f0479d7b add600ae
+0db169ae,Sandro Tonali,CM DM,Right,181,24,Italy,b2b47a98,3,2,33,b2b47a98 dc56fe14 4ef57aeb
+c17bfb65,Joelinton,CM WM,Right,190,28,Brazil,b2b47a98,4,3,29,b2b47a98 033ea6b8 ece66b78 912e4c40
+2bd83368,Anthony Gordon,FW-MF,Right,173,24,England,b2b47a98,6,5,31,22df8478 d3fd31cc b2b47a98 4d6fce81
+da011f18,Lewis Hall,DF-MF,Left,179,20,England,b2b47a98,0,4,27,de731359 b2b47a98 cff3d9bb 09080694
+4b40d9ca,Nick Pope,GK,Right,190,33,England,b2b47a98,0,0,25,cbc02110 b2b47a98 41da1cf3 a8290768 e272e7a8 943e8050 7a8db6d4
+de112b84,Jacob Murphy,DF-FW-MF,Right,176,30,England,b2b47a98,8,11,32,2b9f86b0 1b295b25 b17b8146 3149e189 b2b47a98 7cbf5cb4 f7e3dfe9 bba7d733 60c6b05f 1c781004
+3ea50f67,Harvey Barnes,AM WM,Right,174,27,England,b2b47a98,9,4,30,b2b47a98 90773bc8 293cb36b a2d435b3 60c6b05f fcf5b1e1
+21512407,Kieran Trippier,FB,Right,178,34,England,b2b47a98,0,3,24,b2b47a98 293cb36b db3b9613 943e8050 3ea79db4 361ca564
+a3b03921,Joe Willock,CM WM,Right,178,25,England,b2b47a98,0,2,30,18bb7c10 b2b47a98 ad0e69a2
+3a949a25,Martin Dubravka,GK,Right,190,36,Slovakia,b2b47a98,0,0,10,b2b47a98 19538871 ecb862be 31aa0dd4 2c9bebcd
+a2b105e0,Sean Longstaff,CM WM,Right,181,27,England,b2b47a98,0,0,24,25f1fd26 91df880d b2b47a98 7cbf5cb4
+77cf6852,Emil Krafth,FB,Right,181,30,Sweden,b2b47a98,0,0,10,dc06109e b2b47a98 1d8099f8 f8a195cc 25622401 3ea79db4
+f31def1e,Lloyd Kelly,CB FB,Left,181,26,England,e0652b02,0,1,22,b2b47a98 93493607 e0652b02 4ba7cbea
+2c6835e5,Lewis Miley,MF,None,None,19,England,b2b47a98,1,0,12,3ea79db4 b2b47a98
+862a1c15,Miguel Almiron,AM CM WM,Left,174,31,Paraguay,1ebc1a5b,3,1,10,1ebc1a5b 11b6dba8 b2b47a98
+ccce7025,Sven Botman,CB,Left,195,25,Netherlands,b2b47a98,0,0,5,3ea79db4 b2b47a98 cb188c0c 193ff7aa a26209d7
+7b355808,William Osula,FW,None,None,21,Denmark,b2b47a98,1,0,12,26ab47ee b2b47a98 1df6b87e
+c596fcb0,Callum Wilson,FW,Right,180,33,England,b2b47a98,0,0,15,b2b47a98 f7e3dfe9 4ba7cbea 6711b681 31a305e0
+e514ab62,Matt Targett,FB,Left,178,29,England,b2b47a98,0,0,2,8602292d ed54a8b3 b2b47a98 fd962109 33c895d4 3ea79db4
+03df04ff,Odisseas Vlachodimos,GK,Right,191,31,Greece,b2b47a98,0,0,0,a77c513e 2959ee71 b2b47a98 598bc722 f3a5726c e4a775cb
+7cefbace,Trevan Sanusi,FW,None,None,18,England,3ea79db4,0,0,0,ec79b7c2 3ea79db4
+f1c42eb3,Alex Murphy,DF,None,None,20,Republic of Ireland,445d3104,2,0,13,3ea79db4 445d3104 b2b47a98
+da8b19e2,John Ruddy,GK,Right,193,38,England,b2b47a98,0,0,0,dad7970b 8cec06e1 f13a527f 9d04848a b2b47a98 41da1cf3 c6ce4b54 793f90cb d96bbc04 ec79b7c2 93493607 26f3c471 1c781004 d3fd31cc
+ff392864,Sean Neave,FW,None,None,17,England,3ea79db4,0,0,0,3ea79db4 b2b47a98
+5536f008,Leo Shahar,DF,None,None,18,England,3ea79db4,0,0,0,3ea79db4 b2b47a98
+1daec722,Marc Cucurella,FB WM,Left,175,26,Spain,cff3d9bb,6,2,40,d07537b9 cff3d9bb ea1d7427 7848bd64 bea5c710
+16264a81,Moises Caicedo,CM DM,Right,178,23,Ecuador,cff3d9bb,1,3,38,990519b8 c16e44ce d07537b9 cff3d9bb d2bc69d1
+dc7f8a28,Cole Palmer,AM,Left,189,23,England,cff3d9bb,15,9,39,b8fd03ef cff3d9bb e41e516f
+5ff4ab71,Enzo Fernandez,CM DM,Right,178,24,Argentina,cff3d9bb,7,13,38,a77c513e ef99c78c cff3d9bb
+700783e7,Levi Colwill,CB,None,187,22,England,cff3d9bb,1,1,34,d07537b9 cff3d9bb 09080694 f5922ca5 11da5cc7
+6a713852,Robert Sanchez,GK,Right,197,27,Spain,cff3d9bb,0,0,30,51e48db2 f1eb9593 d07537b9 cff3d9bb d2bc69d1
+7ba2eaa9,Pedro Neto,AM,Left,173,25,Portugal,cff3d9bb,5,5,37,8cec06e1 69d84c29 7213da33 cff3d9bb a8fbbb12
+9c36ed83,Nicolas Jackson,FW,None,186,23,Senegal,cff3d9bb,12,5,31,2a8183b3 3640715c cff3d9bb
+c81d773d,Tosin Adarabioyo,CB,Right,196,27,England,cff3d9bb,2,1,29,e090f40b e41e516f b8fd03ef cff3d9bb fd962109 60c6b05f
+dbf053da,Jadon Sancho,AM,Right,180,25,England,cff3d9bb,4,9,35,e41e516f d943111d cff3d9bb 19538871 add600ae
+d56b9520,Malo Gusto,FB,Right,179,21,France,cff3d9bb,0,1,32,d53c0b06 cff3d9bb
+bf34eebd,Noni Madueke,AM,Left,176,23,England,cff3d9bb,10,4,33,cff3d9bb e334d850 8e1ea572
+7c56da38,Christopher Nkunku,AM,Right,175,27,France,cff3d9bb,8,5,36,acbb6a5b cff3d9bb e2d8892c
+0107757e,Filip Jorgensen,GK,Right,190,23,Denmark,cff3d9bb,0,0,16,2a8183b3 cff3d9bb 408a9724
+5c74c0f5,Kiernan Dewsbury-Hall,AM CM DM WM,Left,173,26,England,cff3d9bb,3,1,23,7cbf5cb4 90773bc8 e297cd13 cff3d9bb a2d435b3
+06df8256,Benoit Badiashile,CB,Left,194,24,France,cff3d9bb,0,0,14,fd6114db cff3d9bb
+1265a93a,Reece James,DM FB,Right,172,25,England,cff3d9bb,2,0,21,e59ddc76 cff3d9bb 09080694
+132a82f1,Wesley Fofana,CB,Right,185,24,France,cff3d9bb,0,0,14,d298ef2c a2d435b3 cff3d9bb
+5515376c,Trevoh Chalobah,CB,Right,190,25,England,cff3d9bb,3,1,27,de731359 b74092de 47c64c55 cff3d9bb 09080694 f5922ca5 d2c87802
+ad82197c,Axel Disasi,CB,Right,190,27,France,8602292d,2,2,22,8602292d 056a5a75 fd6114db cff3d9bb 7fdd64e0
+fc8fcbd1,Renato Veiga,DF-MF,None,188,21,Portugal,e0652b02,2,2,25,e0652b02 d3d9424a 0cdc4311 cff3d9bb
+8aafd64f,Joao Felix,FW-MF,Right,180,25,Portugal,dc56fe14,5,1,31,a77c513e dc56fe14 206d90db cff3d9bb db3b9613
+e6f7797e,Tyrique George,FW,None,None,19,England,cff3d9bb,2,2,18,de731359 cff3d9bb
+ecad9aa5,Romeo Lavia,MF,Right,181,21,Belgium,cff3d9bb,0,1,13,e41e516f b8fd03ef cff3d9bb 33c895d4 179c33c7
+b7e62e1d,Joshua Acheampong,DF,None,185,19,England,cff3d9bb,0,0,10,de731359 cff3d9bb
+049a888d,Mykhailo Mudryk,AM,Right,175,24,Ukraine,cff3d9bb,3,1,11,bb1044a9 e89d5a28 cff3d9bb 17fa6b14
+d3d774cc,Marc Guiu,FW,None,184,19,Spain,cff3d9bb,6,0,9,206d90db cff3d9bb
+fb920f3a,Cesare Casadei,MF,None,176,22,Italy,105360fe,1,1,17,de731359 d609edc0 cff3d9bb 105360fe a2d435b3 b0ac61ff
+b2f9c73e,Carney Chukwuemeka,MF,None,182,21,England,add600ae,1,0,16,de731359 8602292d cff3d9bb 5b4413b6 add600ae
+301ba71e,Samuel Rak-Sakyi,MF,None,None,20,England,de731359,0,0,4,de731359 cff3d9bb
+43d0b694,Shumaira Mheuka,FW,None,None,17,England,de731359,0,0,4,de731359 cff3d9bb
+a70182a5,Harvey Vale,MF,None,180,21,England,a757999c,0,0,2,de731359 654f3ca6 cff3d9bb 09080694 bd8769d1
+4b98d1d4,Ato Ampah,FW,None,None,19,England,de731359,0,0,1,de731359
+d2424d1b,Ben Chilwell,FB,Left,178,28,England,47c64c55,0,0,6,de731359 47c64c55 90773bc8 cff3d9bb a2d435b3 f5922ca5
+1c70b3dd,Harrison Murray-Campbell,DF,None,184,18,England,de731359,0,0,1,de731359
+f93cca97,Mathis Amougou,MF,None,177,19,France,cff3d9bb,0,0,19,d298ef2c cff3d9bb
+b43204f6,Kiano Dyer,MF,None,None,18,England,de731359,0,0,1,de731359 cff3d9bb
+92908848,Reggie Walsh,MF,None,None,16,England,de731359,0,0,1,de731359
+aaa96db5,Genesis Antwi,MF,None,None,17,Sweden,de731359,0,0,1,de731359 cff3d9bb
+95bd120d,Deivid Washington,FW,None,184,19,Brazil,712c528f,1,0,6,de731359 cff3d9bb 712c528f
+b59c2a92,Lucas Bergstrom,GK,Right,205,22,Finland,de731359,0,0,0,de731359 cff3d9bb 09080694 d6e6321c bb9e11b2
+d9bd6f58,Ted Curd,GK,None,183,19,England,de731359,0,0,0,de731359 cff3d9bb 09080694
+52c0001f,Richard Olise,DF,None,None,20,England,de731359,0,0,0,de731359
+a155966e,Kaiden Wilson,DF,None,None,19,England,de731359,0,0,0,de731359
+1d87670e,Aaron Anselmino,DF,None,None,20,Argentina,de731359,1,3,14,de731359 795ca75e cff3d9bb
+da95fde0,Ishe Samuels-Smith,DF,None,None,18,England,de731359,0,0,0,2e99ee2e de731359 d3fd31cc cff3d9bb
+420d18fe,Max Merrick,GK,None,None,19,England,de731359,0,0,0,de731359
+e1cc82b1,Landon Emenalo,MF,None,None,17,England,de731359,0,0,0,de731359
+0d85a4e8,Marcus Bettinelli,GK,Right,193,32,England,cff3d9bb,0,0,0,de731359 cff3d9bb fd962109 7f59c601 d4547110 9172ba36
+834b5c4c,Matz Sels,GK,Right,188,33,Belgium,e4a775cb,0,0,35,b2b47a98 c0d3eab4 51e5a603 e4a775cb 9ea31445 08ad393c
+1704b0b8,Murillo,CB,None,180,22,Brazil,e4a775cb,2,0,34,bf4acd28 e4a775cb
+bee704fc,Nikola Milenkovic,CB,Right,195,27,Serbia,e4a775cb,4,2,34,421387cf e4a775cb dde3e804
+246d153b,Ola Aina,DM FB,Right,179,28,Nigeria,e4a775cb,2,1,32,e4a775cb 09080694 cff3d9bb bd8769d1 fd962109 105360fe
+32f60ed8,Morgan Gibbs-White,AM,Right,177,25,England,e4a775cb,5,7,31,8cec06e1 1df6b87e fb10988f e4a775cb 79cadc09
+de31038e,Elliot Anderson,MF,Right,179,22,England,e4a775cb,2,6,34,654f3ca6 91df880d b2b47a98 e4a775cb
+4e9a0555,Chris Wood,FW,Right,191,33,New Zealand,e4a775cb,19,3,33,e3c537a1 b74092de b2b47a98 5bfb9659 d07537b9 293cb36b e4a775cb ec79b7c2 a2d435b3 93493607 943e8050 60c6b05f
+dd323728,Neco Williams,FB,Right,183,24,Wales,e4a775cb,1,3,32,822bd0ba fd962109 071dd6bd e4a775cb
+2fba6108,Anthony Elanga,AM,Right,178,23,Sweden,e4a775cb,6,9,35,92aca032 e4a775cb 19538871
+15f3ec41,Callum Hudson-Odoi,AM,Right,182,24,England,e4a775cb,5,2,29,e4a775cb cff3d9bb 09080694 c7a9f859
+c1fe2a48,Ryan Yates,CM DM,Right,190,27,England,e4a775cb,2,1,32,3149e189 3b27de1f e4a775cb 8efa4cdf b435dbf5
+20b3a502,Nicolas Dominguez,CM DM,Right,179,26,Argentina,e4a775cb,0,1,31,41c139b6 e4a775cb 1d8099f8
+16e9d0ea,Alex Moreno,FB WM,Left,179,31,Spain,e4a775cb,0,1,15,8602292d e4a775cb 6c8b07df 2aa12281 98e8af82 fc536746
+4d77e622,Jota Silva,FW,Right,None,25,Portugal,e4a775cb,3,1,28,3f319bc9 e4a775cb
+0f41e2ee,Morato,CB,Left,190,23,Brazil,e4a775cb,0,0,25,a77c513e 5f232eb1 e4a775cb
+e5478b87,Taiwo Awoniyi,FW,Right,178,27,Nigeria,e4a775cb,1,0,25,51e5a603 7a41008f e4a775cb a224b06a f780fd06 fc629994 63330a03
+2d3417a1,Ramon Sosa,AM WM,Right,None,25,Paraguay,e4a775cb,1,0,19,4d4fc0b8 e4a775cb 979102f4 950a95f2 ceda2145
+bced0375,Ibrahim Sangare,CM DM,Right,191,27,Côte d'Ivoire,e4a775cb,0,1,10,e334d850 e4a775cb 3f8c4b5f
+a816dbfb,Danilo,DM,Left,177,24,Brazil,e4a775cb,0,0,7,e4a775cb abdce579
+3515d404,James Ward-Prowse,AM CM DM,Right,173,30,England,7c21e445,0,2,21,33c895d4 7c21e445 ed54a8b3 e4a775cb
+a4ac4b8f,Willy Boly,CB,Right,195,34,Côte d'Ivoire,e4a775cb,0,0,6,8cec06e1 69d84c29 5ae09109 e4a775cb 5e876ee6
+a105d46a,Harry Toffolo,FB,Left,183,29,England,e4a775cb,0,0,4,e3c537a1 1b295b25 3cc6b990 3149e189 e4a775cb 375d66f1 d76b7bed 8de86c22 f5922ca5 d6e6321c 03d10d77
+0a4f579a,Eric da Silva Moreira,DF,None,185,19,Germany,e4a775cb,0,0,2,3cc6b990 22c72f0b e4a775cb 54864664 d9dd39c9
+84454067,Carlos Miguel,GK,None,None,26,Brazil,e4a775cb,0,0,0,bf4acd28 e4a775cb
+c103921a,Zach Abbott,DF,None,None,18,England,3cc6b990,0,0,0,3cc6b990 e4a775cb
+c393a6c4,Andrew Omobamidele,CB,Right,188,22,Republic of Ireland,c0d3eab4,0,0,9,1c781004 c0d3eab4 e4a775cb 8de86c22
+76eca7e2,Wayne Hennessey,GK,Right,196,38,Wales,e4a775cb,0,0,0,8cec06e1 47c64c55 bd5179b9 62c221d0 c6ce4b54 e4a775cb 943e8050
+4a51ba65,Matt Turner,GK,Right,191,30,United States,47c64c55,0,0,0,47c64c55 18bb7c10 e4a775cb 56f799dc 3c079def
+4bd3a00a,Ben Perry,MF,None,183,20,England,986a26c1,0,0,17,3cc6b990 986a26c1
+56f7a928,Youri Tielemans,AM CM DM,Right,177,28,Belgium,8602292d,5,10,47,8602292d a2d435b3 08ad393c fd6114db
+7956236f,Emiliano Martinez,GK,Right,193,32,Argentina,8602292d,0,0,46,8cec06e1 8602292d 18bb7c10 bba7d733 375d66f1 604617a2 7848bd64 b0ac61ff ad0e69a2
+2e5915f1,Morgan Rogers,AM,Left,189,22,England,8602292d,12,10,46,8602292d 7cbf5cb4 4ba7cbea e41e516f d76b7bed 7f59c601 30c24d2d
+0313a347,Ezri Konsa,CB FB,Right,183,27,England,8602292d,2,0,42,cd051869 8602292d 7a8db6d4
+aed3a70f,Ollie Watkins,FW-MF,Right,180,29,England,8602292d,16,11,47,cd051869 05791fbc 8602292d
+1b84dbe1,Lucas Digne,FB,Left,178,31,France,8602292d,0,4,40,8602292d e2d8892c cb188c0c 206d90db cf74a709 d3fd31cc
+90f91999,John McGinn,AM CM DM WM,Left,178,30,Scotland,8602292d,4,6,41,8602292d f3aacc58 3568ad4c
+532e1e4f,Pau Torres,CB,Left,191,28,Spain,8602292d,0,2,30,2a8183b3 8602292d 1c896955
+cc77354e,Boubacar Kamara,CB CM DM,Right,178,25,France,8602292d,0,0,33,6934984c 8602292d 5725cc7b
+2389cdc2,Matty Cash,FB,Right,185,27,Poland,8602292d,1,1,32,8602292d 4db00b00 e4a775cb
+1544f145,Jacob Ramsey,WM,Right,180,23,England,8602292d,2,5,37,5b4413b6 8602292d 03d10d77
+3a233281,Leon Bailey,AM,Left,181,27,Jamaica,8602292d,2,3,31,c7a9f859 8602292d 1e972a99
+828657ff,Amadou Onana,CM DM,Right,187,23,Belgium,8602292d,4,0,28,6de8c4a5 8602292d cb188c0c 26790c6a 0d978394 d3fd31cc
+cab9634e,Ian Maatsen,FB,Left,167,23,Netherlands,8602292d,2,2,36,8602292d f7e3dfe9 09080694 cff3d9bb 943e8050 7a8db6d4 add600ae
+8397a50c,Tyrone Mings,CB FB,Left,195,32,England,8602292d,0,0,17,6934984c b74092de 8602292d 4ba7cbea
+b4a014b1,Diego Carlos,CB,Right,185,32,Brazil,ae1e2d7d,0,0,19,8602292d ae1e2d7d d7a486cd ad2be733 00c41b75
+414184f7,Jader Duran,FW,Left,186,21,Colombia,6baef27f,15,0,37,8602292d 6baef27f f9940243 67cdee3a
+a1d5bd30,Marcus Rashford,AM,Right,180,27,England,8602292d,7,6,35,8602292d 19538871
+45af8a54,Marco Asensio,AM WM,Left,178,29,Spain,8602292d,8,5,30,8602292d e2d8892c 53a2f082 2aa12281 a8661628
+bca5c4a7,Lamare Bogarde,DF-MF,Right,183,21,Netherlands,8602292d,0,0,12,5b4413b6 8602292d 654f3ca6 6934984c
+3a24769f,Ross Barkley,AM CM,Right,189,31,England,8602292d,4,1,24,8602292d 132ebc33 5bfb9659 e297cd13 09080694 cff3d9bb bba7d733 d3fd31cc
+ad82197c,Axel Disasi,CB,Right,190,27,France,8602292d,2,2,22,8602292d 056a5a75 fd6114db cff3d9bb 7fdd64e0
+19f4d211,Jaden Philogene Bidace,FW-MF,Both,174,23,England,b74092de,2,0,24,8602292d b74092de 17892952 75fae011 bd8769d1 5b4413b6
+40498af1,Andres Garcia,DF,None,None,22,Spain,8602292d,3,3,29,9800b6a1 8602292d
+66b76d44,Emi Buendia,AM,Right,170,28,Argentina,c7a9f859,2,0,28,38bf50d2 8602292d c7a9f859 7848bd64 1c781004
+116c35df,Donyell Malen,FW-MF,Right,179,26,Netherlands,8602292d,8,1,31,8602292d e334d850 8e1ea572 ad0e69a2 add600ae
+c70be9cf,Kosta Nedeljkovic,DF,None,None,19,Serbia,acbb6a5b,0,0,16,099c6eb5 acbb6a5b 8602292d
+e7ee38c3,Robin Olsen,GK,Right,198,35,Sweden,8602292d,0,0,3,f3d8c8b9 8602292d 1df6b87e 5a5e7874 cf74a709 c4260e09 d3fd31cc 18050b20
+5600c774,Joe Gauci,GK,None,194,24,Australia,293cb36b,0,0,7,8602292d 31553c94 293cb36b a4302376 605aca82
+91c75917,Kadan Young,MF,None,None,19,England,c2e6b53b,0,0,3,5b4413b6 6934984c 8602292d c2e6b53b
+a42f6058,Sil Swinkels,DF,None,190,21,Netherlands,654f3ca6,2,0,14,5b4413b6 8602292d 654f3ca6 6934984c
+634c58a6,Aidan Borland,MF,None,None,18,Scotland,6934984c,0,0,0,6934984c
+1e711234,Jamaldeen Jimoh,MF,None,None,18,England,6934984c,0,0,0,6934984c 8602292d
+cdf9e86a,Benjamin Broggio,FW,None,None,18,England,6934984c,0,0,0,6934984c 8602292d
+e0b5d31b,Travis Patterson,DF,None,None,19,England,fcf5b1e1,0,0,7,5b4413b6 6934984c fcf5b1e1 8602292d
+b96cec48,Sam Proctor,GK,None,None,18,England,6934984c,0,0,0,6934984c 8602292d
+be18d79f,Oliwier Zych,GK,Right,193,20,Poland,6934984c,0,0,0,5b4413b6 6934984c cbfe68b7 8602292d
+3fcc22d5,Triston Rowe,DF,None,None,18,England,6934984c,0,0,0,6934984c
+802ee5ca,Bradley Paul Burrowes,MF,None,None,17,England,6934984c,0,0,0,6934984c
+04fd8cde,Kobei Moore,FW,None,None,20,England,d6a369a2,1,0,10,6934984c d6a369a2
+0ad53bdc,Milos Kerkez,FB,Left,None,21,Hungary,4ba7cbea,2,5,35,c2f85bbb 4ba7cbea 3986b791
+efd2ec23,Antoine Semenyo,AM,Both,180,25,Ghana,4ba7cbea,9,5,34,6c15d7e1 93493607 8ef52968 4ba7cbea
+2afc7272,Lewis Cook,CM DM,Right,175,28,England,4ba7cbea,1,3,34,4ba7cbea 5bfb9659
+88968486,Illia Zabarnyi,CB,Right,189,22,Ukraine,4ba7cbea,0,0,33,c734e22f 4ba7cbea
+28d596a0,Kepa Arrizabalaga,GK,Right,189,30,Spain,4ba7cbea,0,0,28,4ba7cbea cff3d9bb 53a2f082 17859612 2b390eca ffbaa3d2
+87278bce,Dean Huijsen,DF,None,None,20,Spain,4ba7cbea,3,1,29,4ba7cbea e0652b02 cf74a709
+4c3a6744,Justin Kluivert,AM,Right,171,26,Netherlands,4ba7cbea,12,6,31,acbb6a5b 132ebc33 4ba7cbea 19c3f8c4 cf74a709 dcc91a7b a26209d7
+26ce2263,Ryan Christie,AM DM,Left,178,30,Scotland,4ba7cbea,2,3,29,4463fecb b81aa4fa 8bbab7cf 4ba7cbea
+2f9e4435,Dango Ouattara,AM,Left,172,23,Burkina Faso,4ba7cbea,7,4,32,d2c87802 4ba7cbea
+6f3cc2fe,Evanilson,FW,Both,183,25,Brazil,4ba7cbea,10,1,29,84d9701c 5e876ee6 4ba7cbea
+2b09d998,Tyler Adams,DM,Right,180,26,United States,4ba7cbea,0,3,25,acbb6a5b 5bfb9659 4ba7cbea 86431469 69a0fb10
+5c0da4a4,Marcus Tavernier,AM CM,Left,176,26,England,4ba7cbea,3,5,26,fcf5b1e1 7f59c601 2d860997 4ba7cbea
+20b104bc,Adam Smith,FB,Right,174,34,England,4ba7cbea,0,0,22,e3c537a1 5bfb9659 4ba7cbea fcf5b1e1 43c2583e 02d8c2aa 361ca564 26ab47ee
+35141f4c,Marcos Senesi,CB,Left,184,27,Argentina,4ba7cbea,0,0,15,fb4ca611 4ba7cbea 66da6009
+dc4cae05,David Brooks,FW-MF,Left,177,27,Wales,4ba7cbea,2,0,26,38154f92 33c895d4 1df6b87e 4ba7cbea
+104d0bb8,Alex Scott,MF,Right,None,21,England,4ba7cbea,0,0,18,93493607 4ba7cbea
+69942fb3,James Hill,DF,None,184,23,England,4ba7cbea,0,1,10,e090f40b d6a369a2 7c77b0bc 4ba7cbea
+fe558029,Mark Travers,GK,Right,191,25,Republic of Ireland,7f59c601,0,0,22,7f59c601 1b295b25 17892952 4ba7cbea
+8f4541c2,Julian Araujo,FB,Right,177,23,Mexico,4ba7cbea,0,0,10,4ba7cbea d8b46897 ccb036c4 0049d422
+f8eca1b6,Enes Unal,FW,Right,185,27,Turkey,4ba7cbea,2,1,17,6a3b81bf 4ba7cbea 8ed04be8 1e972a99 2a8183b3 9800b6a1 17859612 7848bd64 a1f721d3
+8e16dd48,Luis Sinisterra,AM,Right,172,25,Colombia,4ba7cbea,1,1,12,fb4ca611 4ba7cbea af8be55a 5bfb9659
+a9dc785c,Neto,GK,Right,193,35,Brazil,18bb7c10,0,0,3,4ba7cbea 206d90db 18bb7c10 e0652b02 421387cf dcc91a7b
+03edb878,Daniel Jebbison,FW,None,190,21,England,4ba7cbea,0,0,26,2abfe087 4ba7cbea 1df6b87e b09787c5
+d328a254,Philip Billing,AM CM WM,Left,192,28,Denmark,d48ad4ff,1,0,17,f5922ca5 d48ad4ff 4ba7cbea
+ba31eee2,Ben Winterburn,MF,None,None,20,England,4ba7cbea,0,0,3,4ba7cbea
+98c8559a,Julio Soler,DF,Left,None,20,Argentina,4ba7cbea,0,0,1,11b6dba8 4ba7cbea
+774cf58b,Max Aarons,FB,Right,172,25,England,dcc91a7b,0,0,5,1c781004 8de86c22 dcc91a7b 4ba7cbea
+1db75ccb,Remy Rees-Dottin,FW,None,None,19,England,4ba7cbea,0,0,1,4ba7cbea
+2f5fa231,Zain Silcott-Duberry,MF,None,None,19,Montserrat,4ba7cbea,0,0,1,de731359 4ba7cbea
+ed46ab76,Maxwell Wellings,DF,None,None,20,England,4ba7cbea,0,0,0,4ba7cbea
+d8edc4be,Will Dennis,GK,None,188,24,England,4ba7cbea,0,0,0,25f1fd26 6598bf6b 4ba7cbea
+570bb4b9,Hamed Junior Traore,AM,Right,177,25,Côte d'Ivoire,5ae09109,10,2,24,4ba7cbea 5ae09109 d48ad4ff a3d88bd8 e2befd26
+e4238fb1,Jaidon Anthony,AM,Right,183,25,England,943e8050,8,7,43,5bfb9659 943e8050 4ba7cbea
+cfed08d5,Matai Akinmboni,DF,None,191,18,United States,4ba7cbea,0,0,0,f70f4c6e 44117292 4ba7cbea
+54778940,Dominic Sadi,MF,None,None,21,England,4ba7cbea,2,1,22,120cfbbd 4ba7cbea
+9d316492,Callan Mckenna,GK,None,None,18,Scotland,4ba7cbea,0,0,0,d79847d4 4ba7cbea
+2093823e,Daniel Adu-Adjei,FW,None,None,19,England,4ba7cbea,2,1,14,590e9120 120cfbbd 4ba7cbea
+a8c19eb8,Nathan Collins,CB,Right,193,24,Republic of Ireland,cd051869,2,3,35,8cec06e1 17892952 cd051869 943e8050 c85cd2da
+6afaebf2,Bryan Mbeumo,AM,Left,171,25,Cameroon,cd051869,18,6,35,54195385 cd051869
+a92ab7be,Mark Flekken,GK,Right,194,31,Netherlands,cd051869,0,0,34,bbfd364f 12192a4c cd051869 3659060d a486e511
+41f08ac8,Keane Lewis-Potter,AM,Right,181,24,England,cd051869,1,3,35,bd8769d1 cd051869
+215f3907,Mikkel Damsgaard,FW-MF,Right,176,24,Denmark,cd051869,2,10,35,1850e3f9 cd051869 8ff9e3b3
+2500cef9,Yoane Wissa,AM,Right,180,28,Congo DR,cd051869,18,3,32,7a54bb4f cd051869 d2c87802 66cc304a 69236f98
+7bf9400b,Sepp van den Berg,CB,Right,189,23,Netherlands,cd051869,0,0,28,822bd0ba e3db180b 22df8478 a224b06a cd051869 c539e393 071dd6bd
+df0a4c90,Christian Norgaard,CM DM,Right,185,31,Denmark,cd051869,5,3,31,713d0672 cd051869 421387cf ab75e049
+52afb588,Kevin Schade,FW-MF,Right,183,23,Germany,cd051869,10,2,35,aa20a5e5 3755f67e cd051869 a486e511 01c7a449
+8449d35e,Vitaly Janelt,CM DM,Left,178,26,Germany,cd051869,1,3,32,cd051869 5f0284ea b42c6323 e850256c
+e541326e,Ethan Pinnock,CB,Left,188,31,Jamaica,cd051869,2,0,22,f1eb9593 cd051869 293cb36b
+907a5d7c,Yehor Yarmoliuk,MF,Both,180,21,Ukraine,cd051869,0,0,28,cd051869 27b20cea
+a8c0acb7,Kristoffer Ajer,CB FB,Right,196,27,Norway,cd051869,0,0,22,37232aec b81aa4fa 25f1fd26 cd051869
+57c94db2,Mads Roerslev,FB,Right,184,25,Denmark,4eaa11d7,0,2,25,cd051869 4eaa11d7 18050b20 48e1a6dd 17366e53
+0f134faf,Mathias Jensen,CM WM,Right,173,29,Denmark,cd051869,0,2,21,1850e3f9 cd051869 f25da7fb
+966e28d0,Fabio Carvalho,AM,Right,180,22,Portugal,cd051869,2,1,19,33861392 822bd0ba acbb6a5b 415ce479 fd962109 bd8769d1 cd051869
+8df7a2fb,Ben Mee,CB,Left,180,35,England,cd051869,0,0,7,cd051869 a2d435b3 943e8050
+57a34cf4,Hakon Rafn Valdimarsson,GK,Right,None,23,Iceland,cd051869,0,0,2,cd051869 50e85bfc
+e19660a8,Michael Kayode,DF,Right,None,20,Italy,cd051869,0,2,19,cd051869 421387cf
+8a3ddcd2,Edmond-Paris Maghoma,MF,None,None,23,England,cd051869,0,0,8,456c5e63 cd051869 445d3104 fcf5b1e1 8b9bf22a
+07382f6c,Jayden Meghoma,DF,None,176,18,England,22df8478,0,1,13,33c895d4 cd051869 179c33c7 22df8478
+732327ae,Ryan Trevitt,MF,None,170,22,England,05791fbc,1,0,12,cd051869 05791fbc
+8a3c1dc7,Rico Henry,FB WM,Left,170,27,England,cd051869,0,0,4,cd051869 d96bbc04
+dc45ac24,Thiago,FW,Right,188,23,Brazil,cd051869,0,0,5,cd051869 488c6ba1 f1e6c5f1 03ff5eeb
+f4065d9e,Kim Jisoo,DF,None,192,20,Korea Republic,cd051869,0,0,3,cd051869 bba63bc9
+2944f86f,Frank Onyeka,CM DM,Right,183,27,Nigeria,0cdc4311,0,1,31,cd051869 3c4fb635 0cdc4311
+e02b5b36,Yunus Emre Konak,MF,Right,181,19,Turkey,cd051869,0,0,9,cd051869 c63f6c0c
+e504780f,Gustavo Nunes,MF,None,None,19,Brazil,cd051869,0,0,3,d5ae3703 cd051869
+ea1a5662,Myles Peart-Harris,MF,Right,187,22,England,fb10988f,3,4,29,76ffc013 f1eb9593 fb10988f 09080694 cd051869
+4cccbed1,Tony Yogane,MF,None,None,19,England,05791fbc,0,2,18,cd051869 05791fbc
+fea06849,Matthew Cox,GK,None,182,22,England,0cd8eef2,0,0,3,654f3ca6 cd051869 0cd8eef2 8b9bf22a
+cf134113,Bart Verbruggen,GK,Right,193,22,Netherlands,d07537b9,0,0,33,8ed04be8 19c8caf5 d07537b9 08ad393c
+4fd08daa,Jan Paul van Hecke,CB,Right,189,24,Netherlands,d07537b9,1,1,31,e090f40b 8ed04be8 d07537b9 193ff7aa 11da5cc7
+a1390d2f,Carlos Baleba,DM,Left,None,21,Cameroon,d07537b9,3,1,31,d07537b9 cb188c0c
+74618572,Kaoru Mitoma,AM,Both,178,27,Japan,d07537b9,9,3,33,e14f61a5 d07537b9 858d58b2
+d38fdf53,Pervis Estupinan,FB,Left,175,27,Ecuador,d07537b9,1,1,28,a0435291 78ecf4bb d07537b9 2a8183b3 2aa12281 1284d3f9 03c57e2b
+ce5143da,Danny Welbeck,WM,Right,185,34,England,d07537b9,9,4,28,8ef52968 2abfe087 22df8478 18bb7c10 d07537b9 19538871 ad0e69a2
+e98211e7,Jack Hinshelwood,DF-MF,None,None,20,England,d07537b9,2,2,23,11da5cc7 d07537b9
+282f75f3,Lewis Dunk,CB,Right,192,33,England,d07537b9,0,0,25,d07537b9 93493607
+e8832875,Joao Pedro,FW-MF,Right,182,23,Brazil,d07537b9,10,6,27,84d9701c 2abfe087 d07537b9
+f173303a,Yasin Ayari,MF,None,172,21,Sweden,d07537b9,1,1,31,e090f40b b0333581 f7e3dfe9 d07537b9 b4c2d36f
+c3cf087d,Yankuba Minteh,AM,Left,None,20,Gambia,d07537b9,6,4,29,3f5150ef d07537b9 fb4ca611
+c64c01fc,Georginio Rutter,FW-MF,Both,182,23,France,d07537b9,5,4,29,b3072e00 5bfb9659 21823154 d07537b9 033ea6b8
+dad4b285,Joel Veltman,CB FB,Right,182,33,Netherlands,d07537b9,0,0,20,a26209d7 d07537b9 19c3f8c4
+4dcec659,Simon Adingra,AM,Right,175,23,Côte d'Ivoire,d07537b9,2,1,26,1850e3f9 d07537b9 e14f61a5
+a4e85758,Igor,CB,Left,185,27,Brazil,d07537b9,0,0,12,1d2fe027 d07537b9 426658a6 50f2a074 421387cf ee0bccc5
+f4e433d4,Tariq Lamptey,FB,Right,175,24,Ghana,d07537b9,2,2,14,11da5cc7 d07537b9 cff3d9bb 09080694
+c40b6180,Adam Webster,CB,Right,192,30,England,d07537b9,0,0,11,b74092de 76ffc013 d07537b9 a8290768 93493607 11da5cc7
+4876c9ab,Mats Wieffer,CM,None,None,25,Netherlands,d07537b9,1,3,22,a1f721d3 fb4ca611 d07537b9 740cb7d4
+fb495bb8,Matt O'Riley,CM,Right,172,24,Denmark,d07537b9,1,2,20,b81aa4fa 415ce479 d07537b9 fd962109 fcf5b1e1
+ae9b998d,Brajan Gruda,MF,None,None,20,Germany,d07537b9,0,3,18,ce4c058d d07537b9 a224b06a 35596f77
+9cfbad36,Julio Enciso,FW-MF,None,168,21,Paraguay,b74092de,2,3,23,11da5cc7 d07537b9 ae107695 b74092de
+916728da,Diego Gomez,MF,None,None,22,Paraguay,d07537b9,0,0,13,11da5cc7 cb8b86a2 ae107695 d07537b9
+28300a16,Jason Steele,GK,Right,190,34,England,d07537b9,0,0,2,e090f40b 8ef52968 986a26c1 d07537b9 d2bc69d1 7f59c601 fff2fd6b 11da5cc7
+66c52a77,Ferdi Kadioglu,FB,Right,173,25,Turkey,d07537b9,1,0,8,fc629994 d07537b9 ae1e2d7d
+4596da74,Evan Ferguson,FW,None,183,20,Republic of Ireland,7c21e445,1,0,21,11da5cc7 7c21e445 d07537b9 d2bc69d1
+bb5fbd2b,Solly March,AM WM,Left,180,30,England,d07537b9,0,0,8,11da5cc7 d07537b9 d2bc69d1
+2f90f6b8,James Milner,CM FB WM,Right,176,39,England,d07537b9,0,0,3,822bd0ba 1b295b25 8602292d b2b47a98 5bfb9659 d07537b9 b8fd03ef
+f230bc30,Jakub Moder,CM DM,Right,188,26,Poland,fb4ca611,4,2,19,11da5cc7 d07537b9 fdba14df fb4ca611
+df10e27c,Billy Gilmour,CM DM,Right,170,23,Scotland,d48ad4ff,0,1,25,d07537b9 cff3d9bb 09080694 d48ad4ff 1c781004
+ac0d576d,Jeremy Sarmiento,FW-MF,Right,183,22,Ecuador,943e8050,4,0,36,b74092de d07537b9 d2bc69d1 943e8050 60c6b05f 11da5cc7
+a3afdd69,Mark O'Mahony,FW,None,None,20,Republic of Ireland,76ffc013,3,0,13,11da5cc7 d07537b9 76ffc013
+8218e831,Imari Samuels,DF,None,None,22,England,11da5cc7,0,0,3,d6a369a2 d07537b9 67909e74 00032902 b0ac61ff 11da5cc7
+1a28b886,Ruairi Mcconville,DF,None,None,20,Northern Ireland,1c781004,0,0,8,11da5cc7 d07537b9 d2bc69d1 1c781004
+f557c3b8,Eiran Cashin,CB,None,None,23,Republic of Ireland,d07537b9,1,0,23,d07537b9 26ab47ee f7ac9c26
+0bdeb013,Cameron Peupion,MF,None,175,22,Australia,4e7459b7,0,1,14,d07537b9 d2bc69d1 7c4744f7 4e7459b7 11da5cc7
+2ae8e967,Jensen Weir,MF,Right,168,23,Scotland,e59ddc76,0,1,33,e59ddc76 7cbf5cb4 41da1cf3 d07537b9 d2bc69d1 6ca73159 62657aa0
+65c3efa2,Odeluga Offiah,FB,Right,181,22,England,7cbf5cb4,1,1,40,7cbf5cb4 d07537b9 d2bc69d1 7c77b0bc 11da5cc7
+a4a51de9,Jacob Slater,DF,None,None,20,England,11da5cc7,0,0,0,22df8478 d07537b9 11da5cc7
+16168a0f,Joe Knight,MF,None,None,19,England,11da5cc7,0,0,0,11da5cc7 d07537b9
+c155dd7d,Charlie Tasker,DF,None,None,19,England,11da5cc7,0,0,0,11da5cc7 d07537b9
+d8a7e52c,Harry Howell,FW,None,None,16,England,11da5cc7,0,0,0,11da5cc7 d07537b9
+c1a271b9,Freddie Simmonds,DF,None,None,17,England,11da5cc7,0,0,0,11da5cc7 d07537b9
+4eb2d015,Thomas Mcgill,GK,Right,185,25,England,d07537b9,0,0,25,d07537b9 d2bc69d1 11da5cc7 fcf5b1e1 0cd8eef2
+9bbef03e,Ed Turns,CB,Left,182,22,Wales,05791fbc,0,0,13,f13a527f 590e9120 d07537b9 d2bc69d1 11da5cc7 05791fbc
+04eb7d82,Amario Duberry,FW,None,170,19,England,e090f40b,1,0,22,45bf2fb0 e090f40b 18bb7c10 ad0e69a2
+e295402e,Malick Yalcouye,MF,None,169,19,Côte d'Ivoire,3f4fe568,4,1,31,3f4fe568 ef1ab26a
+4352b7be,Killian Cahill,GK,None,None,21,Republic of Ireland,11da5cc7,0,0,0,11da5cc7 d07537b9
+810912d5,Carl Rushworth,GK,None,None,23,England,d07537b9,0,0,2,fb10988f d07537b9 d96bbc04 d2bc69d1 bd8769d1 d76b7bed
+b9f282ec,Valentin Barco,MF,Left,168,20,Argentina,c0d3eab4,0,2,19,c0d3eab4 d07537b9 795ca75e ad2be733
+2628fd2b,Bernd Leno,GK,Right,190,33,Germany,fd962109,0,0,35,fd962109 18bb7c10 2959ee71 c7a9f859
+289601e6,Antonee Robinson,FB,Left,179,27,United States,fd962109,0,10,34,e59ddc76 415ce479 4d6fce81 fd962109 445d3104
+a36524bf,Calvin Bassey,CB,Left,185,25,Nigeria,fd962109,1,0,33,19c3f8c4 fd962109 86b7acd2 90773bc8
+6ca5ec4b,Alex Iwobi,AM CM WM,Right,180,29,Nigeria,fd962109,9,6,35,fd962109 d3fd31cc 18bb7c10 ad0e69a2
+e34fc66d,Joachim Andersen,CB,Right,190,28,Denmark,fd962109,0,0,27,47c64c55 fd962109 7cae8c7d d53c0b06 a1f721d3 8ff9e3b3
+d0b6129f,Sander Berge,CM DM,Right,190,27,Norway,fd962109,0,0,28,60aa17d7 1df6b87e 1e972a99 fd962109 943e8050
+c6e8cf1f,Sasa Lukic,CM DM,Right,183,28,Serbia,fd962109,0,2,28,fd962109 105360fe dde3e804 9800b6a1
+b561db50,Raul Jimenez,FW,Right,188,34,Mexico,fd962109,10,3,35,8cec06e1 a77c513e db3b9613 fd962109 18d3c3a3
+197640fd,Timothy Castagne,DM FB,Right,180,29,Belgium,fd962109,0,1,24,fd962109 a2d435b3 922493f3 1e972a99
+6639e500,Andreas Pereira,AM,Right,177,29,Brazil,fd962109,2,4,31,a0435291 7213da33 19538871 fd962109 92aca032 639950ae dcc91a7b
+17695062,Emile Smith Rowe,AM,Right,182,24,England,fd962109,6,2,31,acbb6a5b 18bb7c10 45bf2fb0 fd962109 f5922ca5 ad0e69a2
+9a28eba4,Adama Traore,AM WM,Right,178,29,Spain,fd962109,2,6,33,8cec06e1 8602292d 206d90db fd962109 7f59c601 ea1d7427
+a712ca2b,Issa Diop,CB,Right,194,28,France,fd962109,0,0,21,fd962109 7c21e445 3f8c4b5f
+77d7c96f,Kenny Tete,FB,Right,180,29,Netherlands,fd962109,0,2,19,415ce479 19c3f8c4 fd962109 d53c0b06 a26209d7
+a755db8c,Rodrigo Muniz,FW,Right,178,24,Brazil,fd962109,8,1,31,fd962109 d680d257 639950ae 7f59c601
+c6dc9ecd,Harry Wilson,AM WM,Left,173,28,Wales,fd962109,5,1,22,822bd0ba f13a527f 4ba7cbea 75fae011 bd8769d1 fd962109 071dd6bd 26ab47ee
+6aa3e78b,Ryan Sessegnon,FB,Left,170,24,England,fd962109,4,2,13,411a29ac fd962109 456c5e63 033ea6b8 361ca564
+a8748947,Tom Cairney,AM CM DM,Left,183,34,Scotland,fd962109,1,0,22,bd8769d1 e090f40b fd962109
+0abc51f2,Jorge Cuenca,CB,Left,187,25,Spain,fd962109,0,0,6,78ecf4bb 206d90db 045c971f 2a8183b3 fd962109 ea1d7427 7848bd64
+c5bdb6e3,Reiss Nelson,FW-MF,Right,175,25,England,fd962109,1,1,12,fb4ca611 18bb7c10 fd962109 033ea6b8 ad0e69a2
+803ae100,Harrison Reed,DM,Right,176,30,England,fd962109,0,0,12,e090f40b ed54a8b3 fd962109 33c895d4 1c781004
+caaa7fab,Steven Benda,GK,Both,192,26,Germany,fd962109,0,0,0,1b295b25 e4936888 b3bf8d09 fb10988f e16a2df0 fd962109 d6e6321c
+8b9ebd03,Willian,AM,Right,175,36,Brazil,fd962109,0,1,19,bf4acd28 e89d5a28 18bb7c10 cff3d9bb d31db70e fd962109 2fdb4aef
+86109b3b,Joshua King,MF,None,None,18,England,b3bf8d09,0,0,5,fd962109 b3bf8d09
+e0eea46f,Martial Godo,MF,None,None,22,England,b3bf8d09,0,0,1,fd962109 b3bf8d09 e59ddc76 415ce479
+b2626673,Jay Stansfield,FW-MF,Right,180,22,England,ec79b7c2,19,3,38,fd962109 ec79b7c2 415ce479 05791fbc
+8b529245,Carlos Vinicius,FW,Left,190,30,Brazil,fd962109,0,0,3,a77c513e fd6114db e334d850 ecd11ca2 eea856da fd962109 361ca564
+2835bfe1,Samuel Amissah,DF,None,None,18,England,b3bf8d09,0,0,0,fd962109 b3bf8d09
+d0706b27,Marc Guehi,CB,Right,182,24,England,47c64c55,3,2,33,47c64c55 fb10988f cff3d9bb 09080694
+778ef829,Daniel Munoz,DM FB,Right,183,28,Colombia,47c64c55,4,4,34,47c64c55 6466f662 e0b973a6 1e972a99
+e5a76dfe,Dean Henderson,GK,Right,188,28,England,47c64c55,0,0,35,47c64c55 1df6b87e e4a775cb 19538871 92aca032 b435dbf5 a18a87d7
+5cbd1eb0,Tyrick Mitchell,DM FB,Left,175,25,England,47c64c55,0,4,35,47c64c55 62c221d0
+277c49ed,Maxence Lacroix,CB,Right,190,25,France,47c64c55,1,1,32,47c64c55 4eaa11d7 b9cd3c9a
+50e6dc35,Jean-Philippe Mateta,FW,Right,192,27,France,47c64c55,14,2,34,47c64c55 62c221d0 fbb59f3a a224b06a d53c0b06 5c2737db
+ae4fc6a4,Eberechi Eze,AM WM,Right,173,26,England,47c64c55,5,8,31,a757999c 47c64c55 43c2583e 62c221d0
+bfdb33aa,Ismaila Sarr,AM WM,Right,180,27,Senegal,47c64c55,7,4,35,47c64c55 b3072e00 2abfe087 5725cc7b f83960ae
+9b5ce51a,Jefferson Lerma,CM DM,Right,179,30,Colombia,47c64c55,0,1,30,47c64c55 5d3835bb 9800b6a1 4ba7cbea
+a0666d3e,Will Hughes,AM CM DM,Left,185,30,England,47c64c55,0,3,30,47c64c55 2abfe087 fbb59f3a 26ab47ee
+0a3d6d2b,Chris Richards,CB,Right,188,25,United States,47c64c55,1,0,21,47c64c55 fbb59f3a 054efa67 a4a1c462 9133b975 033ea6b8
+15b287da,Daichi Kamada,AM CM,Right,180,28,Japan,47c64c55,0,0,31,47c64c55 7213da33 80328a1e b363e21f f0ac8ee6
+4b542852,Adam Wharton,DM,Left,182,20,England,47c64c55,0,2,20,e090f40b 47c64c55 b6e0c777 b4c2d36f
+a53649b7,Eddie Nketiah,FW,Right,175,25,England,47c64c55,1,1,26,5bfb9659 47c64c55 18bb7c10 ad0e69a2
+5515376c,Trevoh Chalobah,CB,Right,190,25,England,cff3d9bb,3,1,27,de731359 b74092de 47c64c55 cff3d9bb 09080694 f5922ca5 d2c87802
+0442183b,Nathaniel Clyne,FB,Right,175,34,England,47c64c55,0,0,13,822bd0ba 47c64c55 62c221d0 4ba7cbea 33c895d4 071dd6bd
+6c2b66fc,Justin Devenny,MF,None,None,21,Northern Ireland,47c64c55,1,0,20,fbb59f3a 47c64c55 5d817a64
+ce4f40c7,Cheick Doucoure,CM DM,Right,180,25,Mali,47c64c55,0,0,13,47c64c55 fd4e0f7d
+4a51ba65,Matt Turner,GK,Right,191,30,United States,47c64c55,0,0,0,47c64c55 18bb7c10 e4a775cb 56f799dc 3c079def
+d2424d1b,Ben Chilwell,FB,Left,178,28,England,47c64c55,0,0,6,de731359 47c64c55 90773bc8 cff3d9bb a2d435b3 f5922ca5
+b3b9b8b8,Chadi Riad,DF,None,186,21,Morocco,47c64c55,0,0,1,47c64c55 fbb59f3a 206d90db 9ec5e2c9 fc536746
+3312f911,Jeffrey Schlupp,FB WM,Left,178,32,Ghana,b81aa4fa,1,1,25,b81aa4fa 47c64c55 90773bc8 cd051869 a2d435b3
+0562b7f1,Odsonne Edouard,FW,Right,187,27,France,a2d435b3,0,0,6,b81aa4fa 47c64c55 e2d8892c 3f8c4b5f a2d435b3
+e34fc66d,Joachim Andersen,CB,Right,190,28,Denmark,fd962109,0,0,27,47c64c55 fd962109 7cae8c7d d53c0b06 a1f721d3 8ff9e3b3
+87189f25,Romain Esse,FW-MF,Left,None,19,England,47c64c55,5,1,28,e3c537a1 47c64c55
+c80f8c9d,Caleb Kporha,DF,None,None,18,England,fbb59f3a,0,0,2,fbb59f3a 47c64c55
+077faf72,Matheus Franca,FW,None,None,21,Brazil,47c64c55,1,0,2,47c64c55 639950ae fbb59f3a
+da052c14,Jordan Ayew,AM,Right,182,33,Ghana,a2d435b3,5,0,28,47c64c55 8602292d b9cd3c9a fb10988f a2d435b3 5725cc7b d2c87802
+8a7ff278,Joel Ward,DM FB,Right,188,35,England,47c64c55,0,0,1,47c64c55 76ffc013 4ba7cbea
+6a10efb3,Asher Agbinone,MF,None,None,19,England,5f01284a,0,0,8,fbb59f3a 47c64c55 5f01284a
+9e5708be,Sam Johnstone,GK,Right,191,32,England,8cec06e1,0,0,7,8cec06e1 47c64c55 bd5179b9 8602292d 3149e189 22df8478 d96bbc04 19538871 92aca032 60c6b05f 03d10d77
+8e526344,Franco Umeh-Chibueze,MF,None,None,20,Republic of Ireland,fbb59f3a,0,0,0,fbb59f3a 47c64c55
+49375cdd,Kaden Rodney,DF-MF,None,None,20,England,fbb59f3a,0,0,0,47c64c55 62c221d0 fbb59f3a
+a6c58494,Naouirou Ahamada,MF,Right,183,23,France,b3072e00,0,0,3,47c64c55 b3072e00 598bc722
+27f4f772,Remi Matthews,GK,Right,184,31,England,47c64c55,0,0,0,8ef52968 fff2fd6b 47c64c55 62c221d0 7a899329 dd289621 32a1480e 445d3104 b09787c5 03d10d77
+6baa90d0,Zachariah Marsh,FW,None,None,19,England,fbb59f3a,0,0,0,fbb59f3a 47c64c55
+d79a8c87,Rob Holding,CB,Right,183,29,England,1df6b87e,0,1,10,47c64c55 cbc02110 fbb59f3a 1df6b87e 18bb7c10 445d3104 ad0e69a2
+9b398aea,Rayan Ait-Nouri,DM FB,Left,179,23,Algeria,8cec06e1,4,7,34,8cec06e1 69236f98
+8b57ad2c,Joao Gomes,CM DM,Right,176,24,Brazil,8cec06e1,3,1,33,8cec06e1 639950ae
+d04b94db,Nelson Semedo,DM FB,Right,177,31,Portugal,8cec06e1,0,4,31,a77c513e 8cec06e1 206d90db 79cadc09 a8fbbb12
+f553b2b3,Jorgen Strand Larsen,FW,Right,193,25,Norway,8cec06e1,13,2,32,47b3e736 bec05adb f25da7fb 8cec06e1
+dc62b55d,Matheus Cunha,AM,Right,183,25,Brazil,8cec06e1,15,6,30,8cec06e1 acbb6a5b 2eaa8331 db3b9613 2818f8bc
+f0caab96,Toti Gomes,CB,Left,188,26,Portugal,8cec06e1,0,1,28,7b66a29c 79cadc09 8cec06e1 a8fbbb12
+903b6e8b,Jose Sa,GK,Right,192,32,Portugal,8cec06e1,0,0,27,8cec06e1 5e876ee6 c1b0f61b 2fdb4aef
+ec604e2c,Andre,CM DM,Right,176,23,Brazil,8cec06e1,0,0,30,8cec06e1 84d9701c
+d557d734,Matt Doherty,DM FB WM,Right,182,33,Republic of Ireland,8cec06e1,2,1,28,8cec06e1 cbc02110 db3b9613 f3aacc58 361ca564
+edc98fac,Santiago Bueno,CB,Right,190,26,Uruguay,8cec06e1,0,0,28,8cec06e1 9024a00a ea1d7427 a8fbbb12
+10f0fdd3,Jean-Ricner Bellegarde,CM,Right,170,26,France,8cec06e1,2,6,32,8cec06e1 c0d3eab4 fd4e0f7d
+2b471f99,Mario Lemina,CM DM FB,Right,183,31,Gabon,ecd11ca2,2,5,27,8cec06e1 132ebc33 ecd11ca2 e0652b02 fd962109 33c895d4 5725cc7b d2c87802
+75f1ed80,Emmanuel Agbadou,CB,Right,192,27,Côte d'Ivoire,8cec06e1,0,0,27,8cec06e1 5809ddc3 7fdd64e0
+e6bc67d7,Goncalo Guedes,WM,Right,178,28,Portugal,8cec06e1,2,4,26,a77c513e 8cec06e1 e2d8892c 2a8183b3 dcc91a7b
+3e9e06cb,Craig Dawson,CB FB,Right,188,35,England,8cec06e1,0,0,15,8cec06e1 2abfe087 51e48db2 445d3104 7c21e445 60c6b05f
+9744ff80,Pablo Sarabia,AM WM,Left,176,32,Spain,8cec06e1,3,2,21,8cec06e1 e2d8892c 13dc44fd ad2be733 7848bd64
+2acf0cd7,Marshall Munetsi,CM DM,Right,187,28,Zimbabwe,8cec06e1,5,3,30,8cec06e1 b8a68959 3772159d 7fdd64e0
+8dcf77c0,Rodrigo Gomes,DF-MF,Right,170,21,Portugal,8cec06e1,2,0,22,69d84c29 00c41b75 8cec06e1
+9e5708be,Sam Johnstone,GK,Right,191,32,England,8cec06e1,0,0,7,8cec06e1 47c64c55 bd5179b9 8602292d 3149e189 22df8478 d96bbc04 19538871 92aca032 60c6b05f 03d10d77
+169fd162,Hwang Hee-chan,FW-MF,Right,177,29,Korea Republic,8cec06e1,2,0,20,8cec06e1 26790c6a acbb6a5b 50f2a074
+5526deb1,Tommy Doyle,CM,Right,172,23,England,8cec06e1,0,1,24,8cec06e1 1df6b87e e41e516f 26790c6a b8fd03ef 75fae011
+1e159d70,Yerson Mosquera,CB,Right,188,24,Colombia,8cec06e1,0,0,5,8cec06e1 e9ea41b2 2a8183b3 79cadc09 e0b973a6 a8fbbb12
+8a310070,Carlos Forbs,FW,None,169,21,Portugal,8cec06e1,0,0,11,8cec06e1 e41e516f a324bb9a 19c3f8c4 a26209d7
+b2f4cad5,Pedro Lima,DF,None,174,18,Brazil,8cec06e1,0,0,3,8cec06e1 ece66b78
+68db6358,Daniel Bentley,GK,Right,188,31,England,8cec06e1,0,0,1,8cec06e1 2b9f86b0 cd051869 93493607
+7fcc71d8,Daniel Podence,AM WM,Right,165,29,Portugal,84bbaea6,2,5,19,8cec06e1 84bbaea6 13dc44fd e4502862 2fdb4aef
+039c3d96,Alfie Pond,DF,None,None,21,England,a8fbbb12,0,0,1,8cec06e1 bd5179b9 c6ce4b54 05791fbc a8fbbb12
+1a7a4d84,Nasser Djiga,DF,None,187,22,Burkina Faso,8cec06e1,3,1,29,8cec06e1 1cbf5f9e 099c6eb5 d3d9424a
+dc6c2f02,Chiquinho,FW-MF,Right,179,25,Portugal,2aa12281,0,0,9,8cec06e1 17892952 2de656d5 2aa12281 00c41b75 79cadc09
+999ceb5f,Boubacar Traore,MF,Right,175,23,Mali,8cec06e1,0,0,1,8cec06e1 f83960ae a8fbbb12
+a2852b4f,Leon Chiwome,FW,None,None,19,England,a8fbbb12,0,0,0,8cec06e1 a8fbbb12
+c15cb409,Mateus Mane,None,None,None,None,None,a8fbbb12,0,0,0,8cec06e1 51e48db2 a8fbbb12
+ba8a2a36,Luke Rawlings,MF,None,None,17,England,a8fbbb12,0,0,0,a8fbbb12
+58469e7c,Wesley Okoduwa,FW,None,None,16,England,a8fbbb12,0,0,0,8cec06e1 a8fbbb12
+3354ea94,Tom Edozie,MF,None,None,18,England,a8fbbb12,0,0,0,8cec06e1 a8fbbb12
+dcd94cdb,Bastien Meupiyou,DF,None,191,19,France,a8fbbb12,0,0,0,d7a486cd 8cec06e1 a8fbbb12
+34721c11,Tawanda Chirewa,MF,None,None,21,Zimbabwe,f5922ca5,0,0,18,8cec06e1 b74092de f7e88c47 f5922ca5 26ab47ee a8fbbb12
+cc3b8e78,Luke Cundle,MF,Right,174,23,England,e3c537a1,1,0,16,8cec06e1 e3c537a1 17892952 fb10988f 32a1480e 79cadc09 a8fbbb12
+5791b997,Tom King,GK,Right,172,30,Wales,a8fbbb12,0,0,0,e3c537a1 8cec06e1 986a26c1 4cefb8c7 a8fbbb12 6c15d7e1 6cbef56e aca0450a aea94879 8b9bf22a
+4806ec67,Jordan Pickford,GK,Left,185,31,England,d3fd31cc,0,0,35,8ef52968 fff2fd6b 22df8478 120cfbbd 0ec6c3db 3148d79f b09787c5 d3fd31cc 3902ac3a
+15ea812b,James Tarkowski,CB,Right,185,32,England,d3fd31cc,1,1,33,4a04a02b d3fd31cc cd051869 943e8050
+30d4a2e5,Vitaliy Mykolenko,FB,Left,180,25,Ukraine,d3fd31cc,0,1,32,d3fd31cc c734e22f
+72c812f3,Idrissa Gana Gueye,CM DM,Right,174,35,Senegal,d3fd31cc,0,3,34,8602292d d3fd31cc e2d8892c cb188c0c
+5ed97752,Iliman Ndiaye,AM,Right,180,25,Senegal,d3fd31cc,7,0,30,d3fd31cc 8550eb99 5725cc7b 1df6b87e
+02b29014,Abdoulaye Doucoure,AM CM DM,Right,180,32,Mali,d3fd31cc,3,1,30,b3072e00 2abfe087 a0435291 d3fd31cc
+c1949191,Jarrad Branthwaite,CB,Left,195,22,England,d3fd31cc,0,1,28,e090f40b e334d850 8e1ea572 4d6fce81 2e99ee2e 120cfbbd d3fd31cc
+aa849a12,Jack Harrison,AM WM,Left,175,28,England,d3fd31cc,1,0,31,a93e668c 5bfb9659 64e81410 2e99ee2e 2d860997 7f59c601 d3fd31cc
+be927d03,Ashley Young,FB WM,Right,175,39,England,d3fd31cc,1,3,29,2abfe087 8602292d d609edc0 19538871 92aca032 d3fd31cc
+25f2ef01,Jake O'Brien,CB,None,None,23,Republic of Ireland,d3fd31cc,2,0,18,1b295b25 62c221d0 fbb59f3a e423ea45 d53c0b06 d3fd31cc
+59e6e5bf,Dominic Calvert-Lewin,FW-MF,Right,189,28,England,d3fd31cc,3,1,23,d3fd31cc 986a26c1 1df6b87e 4d6fce81
+ed5c0319,Beto,FW,Right,194,27,Guinea-Bissau,d3fd31cc,7,0,27,d3fd31cc a549d6c6 04eea015
+4e015693,James Garner,CM DM,Right,182,24,England,d3fd31cc,0,1,18,2abfe087 2e99ee2e e4a775cb 19538871 92aca032 d3fd31cc
+37dc1a48,Jesper Lindstrom,AM,Right,180,25,Denmark,d3fd31cc,0,1,25,ab75e049 d3fd31cc f0ac8ee6 d48ad4ff
+fc15fb84,Dwight McNeil,WM,Left,177,25,England,d3fd31cc,4,4,18,d3fd31cc 943e8050
+a572e291,Orel Mangala,CM DM,Right,178,27,Belgium,d3fd31cc,1,0,20,3cc6b990 598bc722 d943111d 26790c6a e4a775cb d53c0b06 d3fd31cc
+c5b7c315,Michael Keane,CB,Right,191,32,England,d3fd31cc,2,0,11,e090f40b 19538871 a2d435b3 943e8050 d3fd31cc 26ab47ee
+84c5ceea,Tim Iroegbunam,MF,None,None,21,England,d3fd31cc,0,1,17,8602292d 6934984c 30c24d2d 60c6b05f 5b4413b6 a757999c d3fd31cc
+4abac767,Carlos Alcaraz,FW-MF,None,176,22,Argentina,d3fd31cc,1,2,13,8e20e13d e0652b02 33c895d4 d3fd31cc 639950ae
+230f0471,Nathan Patterson,DF,Right,183,23,Scotland,d3fd31cc,0,1,10,2e99ee2e d3fd31cc 4d6fce81 86b7acd2
+97220da2,Armando Broja,FW,Right,191,23,Albania,d3fd31cc,0,0,10,2e99ee2e cff3d9bb 09080694 fd962109 33c895d4 209d7fa2 d3fd31cc
+0420d84f,Seamus Coleman,CB FB,Right,177,36,Republic of Ireland,d3fd31cc,0,0,3,2e99ee2e d3fd31cc 7cbf5cb4
+6fba4dba,Roman Dixon,DF,None,None,20,England,2e99ee2e,0,0,1,2e99ee2e d3fd31cc 4d6fce81
+de59e609,Harrison Armstrong,MF,None,None,18,England,26ab47ee,1,0,18,2e99ee2e d3fd31cc 26ab47ee
+728e9b2e,Joao Virginia,GK,Right,192,25,Portugal,d3fd31cc,0,0,0,4d6fce81 5c9e307a 2e99ee2e 13dc44fd b0ac61ff d3fd31cc ad0e69a2
+890f108d,Youssef Chermiti,FW,None,None,20,Portugal,d3fd31cc,0,0,4,2e99ee2e 13dc44fd d3fd31cc
+d0042ab9,Mason Holgate,CB FB,Right,184,28,England,60c6b05f,1,1,27,1df6b87e 4d6fce81 293cb36b 33c895d4 60c6b05f d3fd31cc
+4bcf39f6,Neal Maupay,AM,Right,171,28,France,5725cc7b,4,4,21,132ebc33 d07537b9 cd051869 5725cc7b fb08dbb3 d298ef2c d3fd31cc
+7b4de647,Asmir Begovic,GK,Right,199,37,Bosnia and Herzegovina,d3fd31cc,0,0,0,4792ab67 11474078 bd5179b9 76ffc013 b74092de 17892952 4ba7cbea dc56fe14 cff3d9bb a757999c d3fd31cc
+5c2595e2,Jenson Metcalfe,MF,None,None,20,England,ce786972,1,1,28,2e99ee2e d3fd31cc ce786972 4d6fce81
+74c0903d,Martin Sherif,FW,None,None,18,Netherlands,2e99ee2e,0,0,0,2e99ee2e d3fd31cc 4d6fce81
+61a42f10,Coby Ebere,MF,Right,None,19,Germany,2e99ee2e,0,0,0,2e99ee2e d3fd31cc
+b54c480e,Isaac Heath,FW,None,None,20,England,2e99ee2e,0,0,0,2e99ee2e d3fd31cc
+b2010f35,Callum Bates,MF,None,None,19,England,2e99ee2e,0,0,0,2e99ee2e d3fd31cc
+cd7bf522,Zan Leban,GK,Right,None,23,Slovenia,2e99ee2e,0,0,0,2e99ee2e 4d6fce81
+ffdb1087,Luke Butterfield,MF,None,175,21,Scotland,2e99ee2e,0,0,0,2e99ee2e 4d6fce81
+67156ae3,Owen Barker,MF,None,173,20,England,2e99ee2e,0,0,0,2e99ee2e
+9929ac74,Bradley Moonan,DF,None,None,None,None,2e99ee2e,0,0,0,2e99ee2e
+507c7bdf,Bruno Fernandes,AM CM WM,Right,173,30,Portugal,19538871,15,12,45,13dc44fd 19538871 6c37111f 04eea015 8ff9e3b3
+d9565625,Diogo Dalot,FB,Right,184,26,Portugal,19538871,3,3,44,19538871 92aca032 dc56fe14 5e876ee6
+e9c0c1b2,Andre Onana,GK,Right,185,29,Cameroon,19538871,0,0,44,a26209d7 d609edc0 19538871 19c3f8c4
+b74277a0,Noussair Mazraoui,FB,Right,183,27,Morocco,19538871,0,2,46,19c3f8c4 054efa67 19538871 a26209d7
+7aa8adfe,Alejandro Garnacho,AM,Both,180,20,Argentina,19538871,7,6,47,92aca032 1c067385 19538871
+d6e53a3a,Matthijs de Ligt,CB,Right,189,25,Netherlands,19538871,2,0,38,054efa67 e0652b02 19538871 19c3f8c4 a26209d7
+491a433d,Rasmus Hojlund,FW,None,192,22,Denmark,19538871,9,2,42,19538871 18050b20 3f4fe568 922493f3
+c9817014,Manuel Ugarte Ribeiro,CM DM,None,182,24,Uruguay,19538871,2,6,36,e2d8892c 13dc44fd 19538871 2de656d5 3a3a612e
+bac46a10,Lisandro Martinez,CB,Left,178,27,Argentina,19538871,2,2,28,19c3f8c4 a4570206 19538871 9bf4eaf4
+4d224fe8,Casemiro,CM DM,Right,184,33,Brazil,19538871,2,2,33,53a2f082 5e876ee6 1b286de7 19538871
+d8931174,Harry Maguire,CB,Right,188,32,England,19538871,3,1,30,e59ddc76 1df6b87e 19538871 bd8769d1 a2d435b3
+9dc96f10,Amad Diallo,FW-MF,Left,173,22,Côte d'Ivoire,19538871,9,6,32,8ef52968 19538871 86b7acd2 92aca032 70483169 922493f3
+028e70b9,Joshua Zirkzee,FW,Right,193,23,Netherlands,19538871,5,2,42,054efa67 8b10a09d a4a1c462 1d8099f8 19538871 9133b975 eab4234c 08ad393c
+c6220452,Kobbie Mainoo,DM,None,175,20,England,19538871,2,1,28,19538871 92aca032 1c067385
+6763f716,Leny Yoro,CB,None,185,19,France,19538871,1,0,26,19538871 cb188c0c
+980522ec,Christian Eriksen,AM CM DM,Right,177,33,Denmark,19538871,2,4,30,d609edc0 19538871 19c3f8c4 cd051869 361ca564
+a1d5bd30,Marcus Rashford,AM,Right,180,27,England,8602292d,7,6,35,8602292d 19538871
+e6536124,Patrick Dorgu,DF-MF,Left,None,20,Denmark,19538871,3,1,35,ffcbe334 19538871
+f5deef4c,Victor Lindelof,CB,Right,187,30,Sweden,19538871,0,0,18,a77c513e a8481ab9 19538871
+072e68ed,Altay Bayindir,GK,Right,198,27,Turkey,19538871,0,0,4,b88463bd 19538871 ae1e2d7d
+9674002f,Mason Mount,AM CM WM,Right,175,26,England,19538871,1,0,21,cff3d9bb 09080694 19538871 209d7fa2 26ab47ee
+f8fcd2a5,Jonny Evans,CB,Right,188,37,Northern Ireland,19538871,0,0,8,8ef52968 a2d435b3 19538871 60c6b05f
+4f9091bc,Toby Collyer,MF,None,None,21,England,1c067385,0,0,10,19538871 1c067385 d2bc69d1
+99127249,Antony,AM,Left,172,25,Brazil,fc536746,7,4,32,5f232eb1 fc536746 19538871 19c3f8c4
+9c94165b,Luke Shaw,FB WM,Left,185,29,England,19538871,0,0,8,33c895d4 92aca032 19538871
+6b6c793c,Tyrell Malacia,FB,Left,175,25,Netherlands,e334d850,0,0,17,e334d850 fb4ca611 19538871
+7b47100c,Harry Amass,DF,None,None,18,England,1c067385,0,0,5,1c067385 19538871
+64e17fab,Ayden Heaven,DF,None,None,18,England,19538871,0,0,3,45bf2fb0 18bb7c10 1c067385 19538871
+0c9bfc3b,Chidozie Obi-Martin,FW,None,None,17,Denmark,19538871,0,0,6,45bf2fb0 1c067385 19538871
+58630379,Tyler Fredricson,DF,None,184,20,England,1c067385,0,0,2,19538871 92aca032 1c067385
+d93c2511,Scott McTominay,CM DM,Right,192,28,Scotland,d48ad4ff,11,2,33,92aca032 19538871 d48ad4ff
+ac7e7b1c,Facundo Pellistri,FW-MF,Right,174,23,Uruguay,f3a5726c,2,3,29,a0435291 f3a5726c 8d6fd021 19538871 e2d73ee6 92aca032
+dbf053da,Jadon Sancho,AM,Right,180,25,England,cff3d9bb,4,9,35,e41e516f d943111d cff3d9bb 19538871 add600ae
+5c368c88,Ethan Wheatley,FW,None,None,19,England,1c067385,0,0,4,1c067385 d96bbc04 19538871
+6175ebf8,Elyh Harrison,GK,None,None,19,England,1c067385,0,0,0,19538871 1c067385
+aa41418a,Hubert Graczyk,GK,None,None,22,Poland,1c067385,0,0,0,45bf2fb0 1c067385 19538871 ad0e69a2
+973d6049,Jack Moorhouse,MF,None,184,19,England,1c067385,0,0,0,19538871 1c067385
+dedb9d04,Sekou Kone,MF,None,176,19,Mali,1c067385,0,0,0,1c067385 19538871
+38a6c944,Jack Fletcher,MF,None,None,18,England,1c067385,0,0,0,1c067385 19538871
+30416cc3,Godwill Kukonki,DF,None,None,17,England,1c067385,0,0,0,1c067385 19538871
+d0cdc0a3,Habeeb Ogunneye,DF,None,None,20,England,1c067385,0,0,0,1c067385 19538871
+861e9b3b,Daniel Gore,MF,None,None,20,England,375d66f1,0,1,3,19538871 1c067385 375d66f1 92aca032 62657aa0
+b15811c7,James Scanlon,FW,None,None,18,Gibraltar,1c067385,0,0,0,1c067385
+e8a55b80,Bendito Mantato,MF,None,None,17,England,1c067385,0,0,0,1c067385
+62619644,Jaydan Kamason,DF,None,None,18,England,1c067385,0,0,0,1c067385
+36930d06,William Murdock,GK,None,None,17,Northern Ireland,1c067385,0,0,0,1c067385
+a6de6361,Tom Heaton,GK,Right,187,39,England,19538871,0,0,0,1b295b25 51e48db2 8602292d 43c2583e 19538871 75fae011 92aca032 93493607 943e8050 5b4413b6
+caa32820,Dermot Mee,GK,None,None,22,Northern Ireland,1c067385,0,0,0,19538871 92aca032 b30f94be 1c067385
+27d0a506,Pedro Porro,DM FB,Right,176,25,Spain,361ca564,3,9,42,9024a00a 13dc44fd 17859612 361ca564
+df3cda47,Dejan Kulusevski,AM,Left,186,25,Sweden,361ca564,8,6,41,361ca564 eab4234c e0652b02 922493f3
+e77dc3b2,Dominic Solanke,FW,Right,187,27,England,361ca564,12,7,36,822bd0ba 4ba7cbea 09080694 cff3d9bb 209d7fa2 071dd6bd 361ca564
+0cd31129,Brennan Johnson,AM,Right,178,23,Wales,361ca564,15,4,42,d76b7bed e4a775cb 361ca564
+92e7e919,Son Heung-min,AM WM,Right,183,32,Korea Republic,361ca564,10,10,37,26790c6a 361ca564 c7a9f859
+f58515f5,Archie Gray,DF-MF,None,183,19,England,361ca564,0,0,35,21823154 a93e668c 361ca564 5bfb9659
+77d6fd4d,Guglielmo Vicario,GK,Right,194,28,Italy,361ca564,0,0,30,37cba288 af5d5982 c4260e09 a3d88bd8 361ca564
+ee38d9c5,James Maddison,AM WM,Right,175,28,England,361ca564,12,10,42,8bbab7cf f7e3dfe9 a2d435b3 1c781004 361ca564
+3b8674e6,Rodrigo Bentancur,CM DM WM,Right,185,27,Uruguay,361ca564,2,0,34,795ca75e e0652b02 361ca564
+feb5d972,Pape Matar Sarr,CM DM,Right,180,22,Senegal,361ca564,5,2,44,361ca564 411a29ac f83960ae
+7cd520e8,Destiny Udogie,FB WM,Left,187,22,Italy,361ca564,0,1,31,0e72edf2 04eea015 361ca564
+a109e5c8,Lucas Bergvall,MF,None,None,19,Sweden,361ca564,0,2,39,bb9e11b2 361ca564 9423c05a
+9bc9a519,Djed Spence,FB,Right,183,24,England,361ca564,1,2,25,b3072e00 415ce479 5bfb9659 e4a775cb 2d860997 658bf2de 7f59c601 361ca564
+6c203af0,Yves Bissouma,CM DM,Right,181,28,Mali,361ca564,2,0,33,d07537b9 361ca564 cb188c0c
+620922ed,Radu Dragusin,CB,Right,191,23,Romania,361ca564,0,0,23,8ff9e3b3 e0652b02 658bf2de c5577084 361ca564
+44781702,Ben Davies,CB FB,Left,181,32,Wales,361ca564,0,0,22,fb10988f 361ca564
+a3d94a58,Cristian Romero,CB,Right,185,27,Argentina,361ca564,1,0,23,658bf2de 361ca564 922493f3 7765008b
+8fe2a392,Micky van de Ven,CB,Left,193,24,Netherlands,361ca564,0,2,18,4eaa11d7 361ca564 8783f4ee
+c3e39f12,Fraser Forster,GK,Right,201,37,England,361ca564,0,0,11,b81aa4fa ed54a8b3 654f3ca6 c6ce4b54 33c895d4 1c781004 361ca564
+829aa60c,Mathys Tel,FW,None,183,20,France,361ca564,2,2,25,b3072e00 361ca564 054efa67
+49fe9070,Timo Werner,AM WM,Right,180,29,Germany,361ca564,0,3,23,acbb6a5b 2959ee71 598bc722 cff3d9bb 361ca564
+6e33125f,Kevin Danso,CB,Right,190,26,Austria,361ca564,0,0,21,41d91186 0cdc4311 33c895d4 b1278397 361ca564 fd4e0f7d
+fa031b34,Richarlison,AM,Right,179,27,Brazil,361ca564,5,2,18,84d9701c 2abfe087 d3fd31cc 361ca564
+35516eac,Wilson Odobert,FW-MF,None,180,20,France,361ca564,4,0,18,54195385 361ca564 943e8050
+b38ac6a4,Antonin Kinsky,GK,None,None,22,Czech Republic,361ca564,0,0,29,7d704744 111cbfb1 361ca564
+00953a9d,Mikey Moore,FW,Right,None,17,England,361ca564,1,2,13,411a29ac 361ca564
+5e253986,Brandon Austin,GK,Right,188,26,England,361ca564,0,0,3,456c5e63 46ef01d0 411a29ac 361ca564
+3353737a,Sergio Reguilon,FB,Left,176,28,Spain,361ca564,0,0,3,19538871 ad2be733 53a2f082 db3b9613 cd051869 361ca564
+92df535b,Will Lankshear,FW,None,None,20,England,60c6b05f,1,0,17,411a29ac 361ca564 60c6b05f
+21945a9e,Dane Scarlett,FW,Right,180,21,England,361ca564,5,2,25,b74092de 76ffc013 411a29ac 456c5e63 604617a2 361ca564
+ac1ef440,Alfie Dorrington,DF,None,None,20,England,8bbab7cf,1,0,12,456c5e63 8bbab7cf 411a29ac 361ca564
+d3a6f5a3,Oyindamola Ajayi,FW,None,None,19,England,411a29ac,1,0,1,411a29ac 361ca564
+d6455444,Callum Olusesi,MF,None,None,18,England,411a29ac,0,0,1,411a29ac 361ca564
+ba08056d,Alfie Devine,AM,Right,179,20,England,57b6cfb8,4,0,21,57b6cfb8 411a29ac 456c5e63 32a1480e 62657aa0 361ca564
+3f2587ee,Alfie Whiteman,GK,Right,190,26,England,361ca564,0,0,0,456c5e63 3692fadf 411a29ac 361ca564
+b00671f2,Maeson King,DF,None,None,19,England,411a29ac,0,0,0,411a29ac 361ca564
+fe3db176,Yang Minhyeok,MF,None,172,19,Korea Republic,a757999c,2,1,14,a757999c 79c65a57 361ca564
+0b8373bb,Dante Cassanova,DF,None,None,20,Jamaica,411a29ac,0,0,0,456c5e63 411a29ac 361ca564
+3478fa17,Malachi Hardy,DF,None,None,17,England,411a29ac,0,0,0,411a29ac 361ca564
+04a1c050,Rio Kyerematen,DF,None,None,19,England,411a29ac,0,0,0,456c5e63 411a29ac
+d0f72bf1,Max Kilman,CB,Left,192,27,England,7c21e445,0,1,35,8cec06e1 79cadc09 7c21e445 7cf2360b
+9e525177,Aaron Wan-Bissaka,FB,Right,182,27,England,7c21e445,2,3,33,47c64c55 7c21e445 19538871
+79c84d1c,Jarrod Bowen,AM WM,Left,178,28,England,7c21e445,10,7,31,bd8769d1 7c21e445 d8736fdd
+6613c819,Tomas Soucek,CM DM,Right,190,30,Czech Republic,7c21e445,8,1,32,7c21e445 111cbfb1 2c9bebcd
+b62878a5,Mohammed Kudus,AM,Left,177,24,Ghana,7c21e445,4,2,29,1850e3f9 a26209d7 7c21e445 19c3f8c4
+9b6f7fd5,Lucas Paqueta,AM CM WM,Left,180,27,Brazil,7c21e445,4,0,31,d53c0b06 7c21e445 639950ae dc56fe14
+e0bc6fdc,Emerson Palmieri,FB,Left,176,30,Italy,7c21e445,2,1,30,ee058a17 cff3d9bb cf74a709 7c21e445 d53c0b06 712c528f
+2f965a72,Alphonse Areola,GK,Right,192,32,France,7c21e445,0,0,24,e2d8892c 2a8183b3 53a2f082 fd962109 7c21e445 6283be2c fd4e0f7d
+00963611,Konstantinos Mavropanos,CB,Right,191,27,Greece,7c21e445,0,0,31,598bc722 6507d2b8 6f2c108c 18bb7c10 7c21e445 ad0e69a2
+8b3ab7ad,Edson Alvarez,CB CM DM,Right,185,27,Mexico,7c21e445,0,1,25,19c3f8c4 7c21e445 18d3c3a3
+88f130ed,Jean-Clair Todibo,CB,Right,190,25,France,7c21e445,0,0,24,a77c513e 132ebc33 206d90db 3f8c4b5f 7c21e445 c539e393
+fed17f5a,Carlos Soler,CM WM,Right,183,28,Spain,7c21e445,1,1,29,e2d8892c 7c21e445 dcc91a7b
+9328b835,Lukasz Fabianski,GK,Right,190,40,Poland,7c21e445,0,0,13,a73408a7 fb10988f 18bb7c10 7c21e445
+fdf3cb77,Vladimir Coufal,FB,Right,174,32,Czech Republic,7c21e445,0,0,19,7c21e445 111cbfb1 2c9bebcd
+34e393f2,Guido Rodriguez,CM DM,Right,185,31,Argentina,7c21e445,0,0,20,ef99c78c a4570206 a42ddf2f 7c21e445 fc536746 18d3c3a3
+df04eb4b,Crysencio Summerville,AM,Right,174,23,Netherlands,7c21e445,1,1,19,a93e668c 5bfb9659 21823154 4e7459b7 7c21e445 70766eab
+3515d404,James Ward-Prowse,AM CM DM,Right,173,30,England,7c21e445,0,2,21,33c895d4 7c21e445 ed54a8b3 e4a775cb
+ac05f970,Michail Antonio,WM,Right,180,35,Jamaica,7c21e445,1,1,14,b17b8146 e4a775cb bba7d733 7c4744f7 33c895d4 7c21e445 b0ac61ff f56127be
+4f974391,Aaron Cresswell,CB FB,Left,170,35,England,7c21e445,0,0,15,b74092de 22327064 7c21e445
+4f16405e,Niclas Fullkrug,FW,Right,188,32,Germany,7c21e445,3,2,15,6f2c108c 12192a4c 7c21e445 62add3bf 27020d71 60b5e41f add600ae
+242e5e6d,Oliver Scarles,MF,None,None,19,England,afa3c276,0,0,14,7c21e445 afa3c276
+07802f7f,Danny Ings,FW,Right,178,32,England,7c21e445,1,2,15,822bd0ba 8602292d 4ba7cbea 33c895d4 7c21e445 943e8050 071dd6bd
+b1be9fc0,Andy Irving,CM,None,None,24,Scotland,7c21e445,0,0,10,7030fffd 7e3a56c4 7c21e445 7c77b0bc
+4596da74,Evan Ferguson,FW,None,183,20,Republic of Ireland,7c21e445,1,0,21,11da5cc7 7c21e445 d07537b9 d2bc69d1
+b7672d43,Luis Guilherme,MF,Left,175,19,Brazil,7c21e445,0,0,11,7c21e445 abdce579
+40aaa04c,Lewis Orford,MF,None,None,19,England,afa3c276,0,0,2,7c21e445 afa3c276
+cd4b2c5f,Kaelan Casey,DF,None,185,20,England,afa3c276,0,0,1,7c21e445 afa3c276
+96cf7b61,Wes Foderingham,GK,Right,185,34,England,7c21e445,0,0,0,1b295b25 1df6b87e cfc6e778 86b7acd2 7c21e445
+9a85a651,Ezra Mayers,DF,None,183,18,Barbados,afa3c276,0,0,0,7c21e445 afa3c276
+1d042188,Dara O'Shea,CB,Right,183,26,Republic of Ireland,b74092de,1,2,34,b74092de 60c6b05f 943e8050 30c24d2d 05791fbc
+a23c0949,Sam Morsy,CM DM,Right,175,33,Egypt,b74092de,1,1,30,e59ddc76 b74092de ce786972 293cb36b 7f59c601 62657aa0
+8574c61f,Leif Davis,FB,Left,166,25,England,b74092de,1,2,31,b74092de a93e668c 4ba7cbea 5bfb9659
+dd897ee7,Liam Delap,FW,Right,186,22,England,b74092de,12,2,34,b74092de 17892952 e41e516f 22df8478 b8fd03ef bd8769d1
+bd9553e6,Omari Hutchinson,AM,Both,174,21,England,b74092de,3,2,28,de731359 b74092de 18bb7c10 cff3d9bb ad0e69a2
+1f169636,Jacob Greaves,CB,None,185,24,England,b74092de,1,0,22,bd8769d1 b74092de 7c4744f7
+928a4a61,Jens Cajuste,CM DM,Right,188,25,Sweden,b74092de,1,0,27,b74092de 1334a86c 7fdd64e0 d48ad4ff 3c4fb635
+da61ca98,Cameron Burgess,CB,Right,194,29,Australia,b74092de,0,2,17,cbc02110 b74092de 3149e189 4cefb8c7 7c4744f7 fd962109 4a04a02b a5298e9f 9172ba36
+99aa1a84,Arijanet Muric,GK,Right,198,26,Kosovo,b74092de,0,0,18,b74092de e41e516f 8ed04be8 b8fd03ef e4a775cb d143cf0a 9024a00a 943e8050 f0479d7b
+9319781b,Ben Johnson,FB,Right,170,25,England,b74092de,1,2,22,b74092de 7c21e445 f56127be afa3c276
+2baec6ce,Axel Tuanzebe,CB,Right,185,27,Congo DR,b74092de,0,1,19,8602292d b74092de 17892952 19538871 d48ad4ff 92aca032
+e28e9bec,Luke Woolfenden,CB,Right,183,26,England,b74092de,0,0,15,1b295b25 b74092de 6a9477ca
+4f565d77,Kalvin Phillips,DM,Right,177,29,England,b74092de,0,0,19,b74092de a93e668c 5bfb9659 b8fd03ef 7c21e445
+e16932d8,Jack Clarke,AM,Right,185,24,England,b74092de,1,5,31,8ef52968 b74092de 17892952 5bfb9659 456c5e63 a757999c
+6ea97fd5,Alex Palmer,GK,Right,188,28,England,b74092de,0,0,41,b74092de 3b27de1f e297cd13 32a1480e 4a04a02b d76b7bed 30c24d2d 60c6b05f
+48eed8d5,Jack Taylor,CM DM,Left,185,26,Republic of Ireland,b74092de,1,0,29,b74092de 2e91bf26 d6e6321c
+39944392,Sammie Szmodics,AM,Right,168,29,Republic of Ireland,b74092de,5,1,20,e090f40b b17b8146 b74092de d6e6321c 6cbef56e 93493607 b4c2d36f
+b3fe23c6,Wes Burns,AM,Right,173,30,Wales,b74092de,0,1,18,8bbab7cf b74092de f1eb9593 d6a369a2 7c4744f7 93493607 604617a2
+4ec55b87,Conor Chaplin,AM,Right,168,28,England,b74092de,1,1,19,b74092de 76ffc013 293cb36b f7e3dfe9
+43309491,Nathan Broadhead,AM,Right,178,27,Wales,b74092de,1,0,16,8ef52968 e59ddc76 b74092de 4d6fce81 b09787c5 d3fd31cc
+4dc4f138,Conor Townsend,FB,Left,168,32,England,b74092de,0,1,6,b74092de 3149e189 ce786972 120cfbbd e986ece7 30c24d2d 60c6b05f a18a87d7
+9cfbad36,Julio Enciso,FW-MF,None,168,21,Paraguay,b74092de,2,3,23,11da5cc7 d07537b9 ae107695 b74092de
+78e87179,George Hirst,FW,Right,172,26,Scotland,b74092de,3,1,23,27e981a3 e090f40b b74092de 76ffc013 90773bc8 cc320bb0 bba7d733 375d66f1 a2d435b3 b4c2d36f
+c666574f,Christian Walton,GK,Right,196,29,England,b74092de,0,0,6,e59ddc76 2b9f86b0 cbc02110 e090f40b b74092de d07537b9 e297cd13 d2bc69d1 32a1480e
+19f4d211,Jaden Philogene Bidace,FW-MF,Both,174,23,England,b74092de,2,0,24,8602292d b74092de 17892952 75fae011 bd8769d1 5b4413b6
+967ac6e1,Massimo Luongo,AM CM DM,Both,176,32,Australia,b74092de,0,0,9,1b295b25 b74092de bba7d733 d795b1d0 7f59c601 a757999c
+a64f2573,Harry Clarke,FB,None,None,24,England,1df6b87e,0,0,13,b74092de 17892952 1df6b87e 4a04a02b f3aacc58 a5298e9f ad0e69a2
+9f7c837d,Ben Godfrey,CB FB,Right,183,27,England,b74092de,0,0,6,b74092de e272e7a8 d3fd31cc 8de86c22 1c781004 b435dbf5 922493f3
+788c0277,Chiedozie Ogbene,AM,Right,177,28,Republic of Ireland,b74092de,0,0,8,b74092de e297cd13 375d66f1 cd051869 05791fbc
+8450467d,Ali Al Hamadi,FW,None,183,23,Iraq,17892952,2,0,26,b74092de e4936888 17892952 43c2583e 6a9477ca 8b9bf22a
+90e9ca3d,Marcus Harness,AM,Right,173,29,England,26ab47ee,4,3,43,b74092de 76ffc013 a8290768 b09787c5 62657aa0 26ab47ee
+02aed921,Cieran Slicker,GK,Right,187,22,Scotland,b74092de,0,0,0,b74092de 51e48db2 e41e516f a324bb9a b8fd03ef
+46ff3923,George Edmundson,CB,Right,169,27,England,7f59c601,1,0,25,b74092de 60d44c62 86b7acd2 4a04a02b 7f59c601 26ab47ee
+6115a18a,Somto Boniface,DF,None,None,19,England,b74092de,0,0,0,de731359 b74092de
+fb614c44,James Justin,FB,Right,183,27,England,a2d435b3,2,1,33,a2d435b3 e297cd13 90773bc8
+9c221d14,Wout Faes,CB,Right,188,27,Belgium,a2d435b3,1,0,31,740cb7d4 7fdd64e0 95b895fe a2d435b3 193ff7aa 08ad393c
+45963054,Jamie Vardy,FW,Right,178,38,England,a2d435b3,8,3,33,d6a369a2 a2d435b3
+c924b17d,Mads Hermansen,GK,None,None,24,Denmark,a2d435b3,0,0,27,ab75e049 a2d435b3
+505486d6,Victor Bernth Kristiansen,FB,Left,None,22,Denmark,a2d435b3,0,1,28,a2d435b3 18050b20 1d8099f8
+ae59b359,Boubakary Soumare,CM DM,Right,188,26,France,a2d435b3,0,0,28,a2d435b3 ad2be733 cb188c0c
+6b47c5db,Wilfred Ndidi,CM DM,Right,188,28,Nigeria,a2d435b3,0,4,26,a2d435b3 1e972a99
+f7042636,Bilal El Khannouss,AM,Right,180,20,Morocco,a2d435b3,2,4,31,a2d435b3 1e972a99
+30144daa,Stephy Mavididi,AM,Right,177,26,England,a2d435b3,4,1,30,281b0e73 22df8478 8dfb7350 e0652b02 a2d435b3 7a8db6d4 ad0e69a2
+2928dca2,Conor Coady,CB DM WM,Right,185,32,England,a2d435b3,0,0,19,822bd0ba 8cec06e1 1df6b87e a2d435b3 f5922ca5 d3fd31cc
+2f7acede,Harry Winks,CM DM,Right,178,29,England,a2d435b3,0,2,22,8ff9e3b3 a2d435b3 361ca564
+da052c14,Jordan Ayew,AM,Right,182,33,Ghana,a2d435b3,5,0,28,47c64c55 8602292d b9cd3c9a fb10988f a2d435b3 5725cc7b d2c87802
+468a7a91,Facundo Buonanotte,AM,Left,None,20,Argentina,a2d435b3,4,2,29,a2d435b3 d07537b9 87a920fa
+8ec109e6,Caleb Okoli,CB,None,191,23,Italy,a2d435b3,1,0,18,1d2fe027 9aad3a77 a2d435b3 6a7ad59d 922493f3
+1900032e,Jannik Vestergaard,CB,Right,199,32,Denmark,a2d435b3,0,0,18,cc320bb0 33c895d4 32f3ee20 a2d435b3 033ea6b8 62add3bf
+fc027d02,Luke Thomas,FB,Left,181,23,England,a2d435b3,0,0,11,a2d435b3 7f59c601 1df6b87e 90773bc8
+6250083a,Oliver Skipp,DM,Right,177,24,England,a2d435b3,0,0,21,456c5e63 1c781004 a2d435b3 361ca564
+0f7533cd,Bobby De Cordova-Reid,AM,Right,170,32,Jamaica,a2d435b3,1,2,23,7c4744f7 75fae011 fd962109 32a1480e 4a04a02b a2d435b3 93493607
+b2c66859,Kasey McAteer,MF,None,None,23,Republic of Ireland,a2d435b3,0,1,15,90773bc8 f1eb9593 cc320bb0 a2d435b3 8b9bf22a
+ca45605e,Patson Daka,FW,Right,180,26,Zambia,a2d435b3,1,0,21,a2d435b3 50f2a074
+a4a76b3d,Jakub Stolarczyk,GK,Right,194,24,Poland,a2d435b3,0,0,7,90773bc8 2af58c3d d6a369a2 cc320bb0 4577342f a2d435b3
+bceda5ff,Abdul Fatawu Issahaku,FW-MF,Left,177,21,Ghana,a2d435b3,0,2,11,13dc44fd a2d435b3
+75a72a99,Ricardo Pereira,FB WM,Right,175,31,Portugal,a2d435b3,0,0,8,132ebc33 90773bc8 a2d435b3 3f319bc9 5e876ee6
+d3ce0e89,Danny Ward,GK,Right,191,31,Wales,a2d435b3,0,0,2,822bd0ba 8bbab7cf 6711b681 cc320bb0 6ca73159 a2d435b3 f5922ca5 071dd6bd
+7d2d3329,Hamza Choudhury,CM DM,Right,178,27,Bangladesh,1df6b87e,0,0,20,2abfe087 1df6b87e 90773bc8 a2d435b3 b09787c5
+beb6e3a6,Woyo Coulibaly,FB,None,180,25,France,a2d435b3,0,1,18,a2d435b3 eab4234c 5c2737db
+0562b7f1,Odsonne Edouard,FW,Right,187,27,France,a2d435b3,0,0,6,b81aa4fa 47c64c55 e2d8892c 3f8c4b5f a2d435b3
+4c168d3a,Jeremy Monga,FW,None,None,None,None,cc320bb0,0,0,4,cc320bb0 a2d435b3
+39ef5a7b,Will Alves,MF,None,192,20,England,75fae011,1,3,15,75fae011 cc320bb0 a2d435b3 90773bc8
+1860d243,Christopher Popov,FW,None,None,20,Wales,8efa4cdf,0,0,11,cc320bb0 8efa4cdf 90773bc8
+cb7bcef0,Jake Evans,MF,None,None,None,None,cc320bb0,0,0,2,cc320bb0 a2d435b3
+67c5e0e8,Michael Golding,MF,None,178,18,England,cc320bb0,0,0,1,de731359 cc320bb0 a2d435b3
+7be10897,Benjamin Nelson,CB,Left,190,21,England,604617a2,1,0,17,51e48db2 90773bc8 cc320bb0 a2d435b3 604617a2 03d10d77
+4506aec5,Thomas Cannon,FW,None,178,22,Republic of Ireland,1df6b87e,10,2,37,17892952 1df6b87e 4d6fce81 2e99ee2e 22df8478 a2d435b3 d3fd31cc
+10d221cd,Daniel Iversen,GK,Right,193,27,Denmark,a2d435b3,0,0,0,27e981a3 17892952 90773bc8 22df8478 375d66f1 4a04a02b a2d435b3
+0b6dfc4f,Henry Cartwright,MF,None,None,20,England,cc320bb0,0,0,0,cc320bb0 a2d435b3 90773bc8
+b495353c,Thomas Wilson-Brown,MF,None,None,20,England,25f1fd26,0,0,0,25f1fd26 cc320bb0 a2d435b3
+12bb637a,Olabade Aluko,MF,None,None,None,None,cc320bb0,0,0,0,cc320bb0 a2d435b3
+984a5a64,Kyle Walker-Peters,FB,Right,173,28,England,33c895d4,0,2,33,456c5e63 33c895d4 361ca564
+ef491564,Mateus Fernandes,MF,Right,178,20,Portugal,33c895d4,2,3,34,33c895d4 13dc44fd 00c41b75
+47327321,Taylor Harwood-Bellis,CB,Right,188,23,England,33c895d4,1,0,32,e090f40b 17892952 e41e516f b8fd03ef 33c895d4 943e8050 08ad393c
+4115ce4e,Jan Bednarek,CB,Right,190,29,Poland,33c895d4,2,0,29,8602292d fdba14df ed54a8b3 2d9ff02d 33c895d4
+466fb2c5,Aaron Ramsdale,GK,Right,195,26,England,33c895d4,0,0,27,ce786972 1df6b87e 4ba7cbea 18bb7c10 33c895d4 8b9bf22a
+328f7d51,Joe Aribo,CM DM,Left,183,28,Nigeria,33c895d4,3,0,30,33c895d4 86b7acd2 179c33c7 7a8db6d4
+bdcc89ae,Tyler Dibling,MF,None,None,19,England,33c895d4,2,0,31,33c895d4 ed54a8b3 179c33c7
+69fdb896,Flynn Downes,CM DM,Right,172,26,England,33c895d4,1,0,24,b74092de fb10988f e297cd13 33c895d4 7c21e445
+1df4a109,Lesley Ugochukwu,MF,Right,188,21,France,33c895d4,1,1,24,b3072e00 33c895d4 cff3d9bb
+847b53eb,Ryan Manning,DM FB,Left,171,28,Republic of Ireland,33c895d4,0,1,23,fb10988f 375d66f1 33c895d4 179c33c7 a757999c
+05e8ca6d,Cameron Archer,FW,None,175,23,England,33c895d4,2,0,32,9e85547f 8602292d 1df6b87e 22df8478 33c895d4 7f59c601 5b4413b6
+580bcd18,Yukinari Sugawara,FB,Right,179,24,Japan,33c895d4,1,1,29,c2f85bbb 3986b791 33c895d4 9c584cf2
+68c720b5,Adam Armstrong,AM,Right,172,28,England,60c6b05f,5,2,36,e090f40b b2b47a98 f7e3dfe9 293cb36b 33c895d4 445d3104 179c33c7 60c6b05f
+c07b7c5c,James Bree,FB,Right,178,27,England,33c895d4,0,1,15,8602292d b74092de 293cb36b e297cd13 33c895d4 179c33c7 5b4413b6
+a62f8bf1,Kamaldeen Sulemana,FW-MF,Right,175,23,Ghana,33c895d4,1,1,23,1850e3f9 b3072e00 33c895d4
+6adbc307,Jack Stephens,CB,Right,185,31,England,33c895d4,1,0,17,1b295b25 ed54a8b3 f7e3dfe9 4ba7cbea 33c895d4 32a1480e 7f59c601
+c06d1086,Paul Onuachu,FW,Right,202,30,Nigeria,33c895d4,4,1,24,c8ad3091 33c895d4 3c4fb635 1e972a99
+4ccf2d5b,Nathan Wood-Gordon,CB,Right,188,22,England,33c895d4,0,0,9,f13a527f fb10988f 2d860997 33c895d4 f3aacc58 7f59c601 179c33c7
+36c2ca73,Alex McCarthy,GK,Right,193,35,England,33c895d4,0,0,5,47c64c55 bd5179b9 b74092de ed54a8b3 c30e88bc 41da1cf3 5bfb9659 a8290768 33c895d4 cd051869 179c33c7 b0ac61ff a757999c
+5e105217,William Smallbone,CM,Right,173,25,Republic of Ireland,33c895d4,1,0,15,33c895d4 ed54a8b3 17892952
+57827369,Ben Brereton,AM,Right,183,26,Chile,1df6b87e,4,3,27,e090f40b 1df6b87e e4a775cb b6e0c777 2a8183b3 33c895d4 179c33c7
+cc2d7ad5,Charlie Taylor,FB,Left,175,31,England,33c895d4,0,0,7,5bfb9659 d6a369a2 4463fecb e272e7a8 33c895d4 3148d79f 943e8050 179c33c7
+99813635,Adam Lallana,AM CM WM,Right,173,36,England,33c895d4,0,2,14,822bd0ba 4ba7cbea d07537b9 33c895d4 071dd6bd
+d56543a0,Ryan Fraser,WM,Right,163,31,Scotland,33c895d4,0,0,8,b74092de 8bbab7cf b2b47a98 4ba7cbea 33c895d4 3ea79db4
+bdf3a08e,Joe Lumley,GK,Right,176,30,England,33c895d4,0,0,3,7cbf5cb4 654f3ca6 5f01284a 6ca73159 33c895d4 7f59c601 aca0450a 179c33c7 a757999c b0ac61ff 03d10d77 9172ba36
+a39d11bc,Armel Bella Kotchap,CB,Right,190,23,Germany,33c895d4,0,0,4,37a68655 5f0284ea e334d850 8e1ea572 33c895d4 05ebd479 b42c6323
+a7f95b1f,Welington,FB,Left,175,24,Brazil,33c895d4,0,0,7,5f232eb1 33c895d4 179c33c7
+18986367,Ross Stewart,FW,None,188,28,Scotland,33c895d4,0,0,9,8ef52968 3568ad4c 33c895d4 179c33c7 a5298e9f
+beb391dd,Maxwel Cornet,AM,Left,179,28,Côte d'Ivoire,658bf2de,2,1,8,658bf2de 33c895d4 7c21e445 afa3c276 943e8050 d53c0b06 f83960ae
+007414dd,Samuel Edozie,FW-MF,None,179,22,England,08ad393c,3,2,24,e41e516f a324bb9a b8fd03ef 33c895d4 179c33c7 08ad393c
+0da5076f,Albert Gronbaek,CM,Right,176,23,Denmark,33c895d4,2,1,20,33c895d4 9ae196bd b3072e00 d86248bd
+9eedf0e0,Samuel Amo-Ameyaw,FW,None,174,18,England,c0d3eab4,2,0,9,33c895d4 c0d3eab4 179c33c7
+be90c4b0,Ronnie Edwards,CB,None,180,22,England,a757999c,2,0,22,33c895d4 179c33c7 d6e6321c a757999c 2e91bf26
+2a616c85,Jay Robinson,FW,None,None,18,England,179c33c7,0,0,2,33c895d4 179c33c7
+4abac767,Carlos Alcaraz,FW-MF,None,176,22,Argentina,d3fd31cc,1,2,13,8e20e13d e0652b02 33c895d4 d3fd31cc 639950ae
+e964b8f3,Romeo Akachukwu,MF,None,None,18,Republic of Ireland,179c33c7,0,0,0,179c33c7
+fd1c27b8,Joe O'Brien-Whitmarsh,FW,None,None,None,Republic of Ireland,179c33c7,3,0,13,9172ba36 33c895d4 179c33c7
+cf7fb13a,Juan Larios,DF,None,170,21,Spain,179c33c7,0,0,0,33c895d4 a324bb9a 179c33c7 e41e516f
+ed23d14e,Jayden Moore,DF,None,None,None,None,179c33c7,0,0,0,179c33c7
