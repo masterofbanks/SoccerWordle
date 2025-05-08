@@ -10,6 +10,15 @@ def calculateAge(birthDate):
     age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
  
     return age
+def findClubName(hrefString):
+    sub_str = "/"
+    val = -1
+    for i in range(0, 6): 
+        val = hrefString.find(sub_str, val + 1) 
+
+    outer = hrefString.find('Stats')-1
+    print(hrefString[val+1:outer])
+    return hrefString[val+1:outer]
 
 #open files
 clubFile = open("bruhclubs.csv", "w")
@@ -24,9 +33,9 @@ playerFile.write(firstPlayerLine)
 
 top_url = 'https://fbref.com/'
 
-player_url = "https://fbref.com/en/players/6eaed4eb/Florian-Lejeune"
+player_url = "https://fbref.com/en/players/da8b19e2/John-Ruddy"
 
-
+allClubs = set()
 
 
 
@@ -118,6 +127,7 @@ for data in metaDeta:
                     #print(country)
                 elif(title.find("Club") != -1):
                     currentClub = data.find('a').get('href')[11:19]
+                    
                     #print(currentClub)
                 continue
     elif(data.find('span')):
@@ -174,7 +184,12 @@ if(primer is not None):
                 if(club_id in set_of_clubs):
                     continue
                 else:
+                    link = entry.find('a').get('href')
+                    cN = findClubName(link)
+
                     set_of_clubs.add(club_id)
+                    clubEntry = club_id + ',' + cN + '\n'
+                    clubFile.write(clubEntry)
         
         for i in set_of_clubs:
             c+= (i + " ")
