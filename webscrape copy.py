@@ -10,10 +10,20 @@ def calculateAge(birthDate):
     age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
  
     return age
-
+def getClubName(href):
+    ns = 0
+    i = 0
+    numSlashes = href.count('/')
+    if(numSlashes > 5):
+        while(ns < numSlashes):
+            if(href[i] == '/'):
+                ns += 1
+            i+=1
+    print(href[i:href.find('Stats')-1])
+    return href[i:href.find('Stats')-1]
 #open files
 clubFile = open("bruhclubs.csv", "w")
-firstClubLine = "id,name"
+firstClubLine = "id,name\n"
 clubFile.write(firstClubLine)
 playerFile = open("bruhplayers.csv", "w")
 firstPlayerLine = "id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf\n"
@@ -41,7 +51,7 @@ player_url = "https://fbref.com/en/players/6eaed4eb/Florian-Lejeune"
 
 
 
-
+allClubs = set()
 
 playerLine = ""
 newRequest = requests.get(player_url)
@@ -175,6 +185,11 @@ if(primer is not None):
                     continue
                 else:
                     set_of_clubs.add(club_id)
+                    cn = getClubName(entry.find('a').get('href'))
+                    if(club_id not in allClubs):
+                        allClubs.add(club_id)
+                        cL = club_id + ',' + cn + '\n'
+                        clubFile.write(cL)
         
         for i in set_of_clubs:
             c+= (i + " ")

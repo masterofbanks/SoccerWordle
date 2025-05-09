@@ -22,6 +22,18 @@ def calculateAge(birthDate):
  
     return age
 
+def getClubName(href):
+    ns = 0
+    i = 0
+    numSlashes = href.count('/')
+    if(numSlashes > 5):
+        while(ns < numSlashes):
+            if(href[i] == '/'):
+                ns += 1
+            i+=1
+    #print(href[i:href.find('Stats')-1])
+    return href[i:href.find('Stats')-1]
+
 #open files
 clubFile = open("allClubs.csv", "w")
 firstClubLine = "id,name\n"
@@ -42,7 +54,7 @@ print(r.ok)
 # Parsing the HTML
 soup = BeautifulSoup(r.content, 'html.parser')
 
-
+allClubs = set()
 s = soup.find('table', id = 'big5_table') 
 subMenu = s.find('tbody')
 clubs = subMenu.find_all('tr')
@@ -58,7 +70,9 @@ for td in clubs:
     new_url = top_url + newEnding[1:]
 
     clubLine = id + "," + name +'\n'
-    clubFile.write(clubLine)
+    if(id not in allClubs):
+        clubFile.write(clubLine)
+        allClubs.add(id)
 
     # #navigate to club's website
 
@@ -234,6 +248,12 @@ for td in clubs:
                             continue
                         else:
                             set_of_clubs.add(club_id)
+                            cn = getClubName(entry.find('a').get('href'))
+                            if(club_id not in allClubs):
+                                allClubs.add(club_id)
+                                cL = club_id + ',' + cn + '\n'
+                                clubFile.write(cL)
+
                 
                 for i in set_of_clubs:
                     c+= (i + " ")
