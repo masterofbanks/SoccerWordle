@@ -34,7 +34,7 @@ playerFile.write(firstPlayerLine)
 
 top_url = 'https://fbref.com/'
 
-player_url = "https://fbref.com/en/players/6eaed4eb/Florian-Lejeune"
+player_url = "https://fbref.com/en/players/4535e4bb/Mathew-Ryan"
 
 
 
