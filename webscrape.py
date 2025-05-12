@@ -141,36 +141,20 @@ for td in clubs:
                 match data.find('strong').text:
                     case "Position:":
                         playerPositions = data.find('strong').next_sibling.string
-                        firstComma = playerPositions.find(',') 
-                        endingParentheses = playerPositions.find(')')
-                        if(firstComma == -1 and endingParentheses == -1):
-                            endingDot = playerPositions.find('▪')
-                            if(endingDot == -1):
-                                endingDot = 10000000000
-                            playerPositions = playerPositions[1:endingDot-1]
-                            if(data.find('strong').next_sibling.next_sibling is not None):
-                                if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
-                                    foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
-                            #print(playerPositions)
-                        else:
-                            if(firstComma == -1):
-                                firstComma = 1000000000000
-                                    
-                            startingParentheses = playerPositions.find('(') + 1
-                            
-                            playerPositions = playerPositions[startingParentheses:min(firstComma, endingParentheses)]
-                            l = list(playerPositions)
-                            i = 0
-                            while( i < len(l)):
-                                if(l[i] == '-'):
-                                    l[i] = ' '
-                                i+=1
-                            playerPositions = ''.join(l)
-                            #print(playerPositions)
-                            if(data.find('strong').next_sibling.next_sibling is not None):
-                                if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
-                                    foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
-                                    #print(foot[1:])
+                        result = ""
+                        if(playerPositions.find('DF') != -1):
+                            result += 'Defender '
+                        if(playerPositions.find('MF') != -1):
+                            result += 'Midfielder '
+                        if(playerPositions.find('FW') != -1):
+                            result += 'Forward '
+                        if(playerPositions.find('GK') != -1):
+                            result += 'Goalkeeper '
+                        playerPositions = result[:len(result) - 1]
+                        if(data.find('strong').next_sibling.next_sibling is not None):
+                            if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
+                                foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
+                                #print(foot[1:])
                     case "Born:":
                         birthdate = data.find('span')['data-birth']
                         year = int(birthdate[:4])
@@ -186,7 +170,9 @@ for td in clubs:
                         #print(data.find('strong').text)
                         title = data.find('strong').text
                         if(title.find("Nation") != -1 or title.find("Citizen") != -1):
-                            country = data.find('a').text
+                            if(country.find("Ivoire") != -1):
+                                country = "Ivory Coast"
+                            country = unidecode(data.find('a').text)
                             #print(country)
                         elif(title.find("Club") != -1):
                             currentClub = data.find('a').get('href')[11:19]

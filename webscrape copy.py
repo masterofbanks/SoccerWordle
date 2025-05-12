@@ -19,7 +19,7 @@ def getClubName(href):
             if(href[i] == '/'):
                 ns += 1
             i+=1
-    print(href[i:href.find('Stats')-1])
+    #print(href[i:href.find('Stats')-1])
     return href[i:href.find('Stats')-1]
 #open files
 clubFile = open("bruhclubs.csv", "w")
@@ -79,36 +79,21 @@ for data in metaDeta:
         match data.find('strong').text:
             case "Position:":
                 playerPositions = data.find('strong').next_sibling.string
-                firstComma = playerPositions.find(',') 
-                endingParentheses = playerPositions.find(')')
-                if(firstComma == -1 and endingParentheses == -1):
-                    endingDot = playerPositions.find('▪')
-                    if(endingDot == -1):
-                        endingDot = 10000000000
-                    playerPositions = playerPositions[1:endingDot-1]
-                    if(data.find('strong').next_sibling.next_sibling is not None):
-                        if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
-                            foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
-                    #print(playerPositions)
-                else:
-                    if(firstComma == -1):
-                        firstComma = 1000000000000
-                            
-                    startingParentheses = playerPositions.find('(') + 1
-                    
-                    playerPositions = playerPositions[startingParentheses:min(firstComma, endingParentheses)]
-                    l = list(playerPositions)
-                    i = 0
-                    while( i < len(l)):
-                        if(l[i] == '-'):
-                            l[i] = ' '
-                        i+=1
-                    playerPositions = ''.join(l)
-                    #print(playerPositions)
-                    if(data.find('strong').next_sibling.next_sibling is not None):
-                        if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
-                            foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
-                            #print(foot[1:])
+                result = ""
+                if(playerPositions.find('DF') != -1):
+                    result += 'Defender '
+                if(playerPositions.find('MF') != -1):
+                    result += 'Midfielder '
+                if(playerPositions.find('FW') != -1):
+                    result += 'Forward '
+                if(playerPositions.find('GK') != -1):
+                    result += 'Goalkeeper '
+                playerPositions = result[:len(result) - 1]
+                print(playerPositions)
+                if(data.find('strong').next_sibling.next_sibling is not None):
+                    if(data.find('strong').next_sibling.next_sibling.next_sibling is not None):
+                        foot = data.find('strong').next_sibling.next_sibling.next_sibling.string[1:]
+                        #print(foot[1:])
             case "Born:":
                 birthdate = data.find('span')['data-birth']
                 year = int(birthdate[:4])

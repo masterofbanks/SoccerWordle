@@ -223,7 +223,7 @@ c678ddd7,Jeanuel Belocian,DF,None,186,20,France,c7a9f859,0,0,7,c7a9f859 b3072e00
 f3d9291e,Kerim Alajbegovic,FW,None,None,17,Bosnia and Herzegovina,ecf53eea,0,0,0,45a67fe8 ecf53eea c7a9f859
 8b2e67ca,Ben Hawighorst,DF,None,None,17,Germany,45a67fe8,0,0,0,45a67fe8 ecf53eea
 9321b8ed,Niklas Lomb,GK,Right,188,31,Germany,c7a9f859,0,0,0,d69d0df7 c241ee1a c7a9f859 bbcef8c7
-1f3afdcb,Odilon Kossounou,CB,Right,188,24,Côte d'Ivoire,922493f3,0,2,19,922493f3 f1e6c5f1 c7a9f859 92bfd7f0
+1f3afdcb,Odilon Kossounou,CB,Right,188,24,Ivory Coast,922493f3,0,2,19,922493f3 f1e6c5f1 c7a9f859 92bfd7f0
 ec756d03,Alejo Sarco,FW,None,None,19,Argentina,ecf53eea,0,0,4,ecf53eea c7a9f859 41c139b6
 1bdba8e4,Andrea Natali,DF,None,None,17,Italy,ecf53eea,0,0,0,45a67fe8 ecf53eea c7a9f859
 f3eb2f17,Othniel Raterink,MF,None,None,19,Netherlands,ecf53eea,0,0,0,c6f58d53 ecf53eea
@@ -302,7 +302,7 @@ e3756e72,Raoul Bellanova,DM,Right,185,24,Italy,922493f3,1,8,40,b985784c 105360fe
 e599253a,Mario Pasalic,AM CM DM,Right,188,30,Croatia,922493f3,6,5,41,8c635914 fd6114db 6777e16d dc56fe14 922493f3 6c8b07df
 ae9898c5,Matteo Ruggeri,DM,Left,179,22,Italy,922493f3,0,2,33,c5577084 922493f3
 217c93a1,Lazar Samardzic,CM,Left,184,23,Serbia,922493f3,3,2,37,81d83299 04eea015 2818f8bc b7f03da0 acbb6a5b 922493f3
-1f3afdcb,Odilon Kossounou,CB,Right,188,24,Côte d'Ivoire,922493f3,0,2,19,922493f3 f1e6c5f1 c7a9f859 92bfd7f0
+1f3afdcb,Odilon Kossounou,CB,Right,188,24,Ivory Coast,922493f3,0,2,19,922493f3 f1e6c5f1 c7a9f859 92bfd7f0
 0ab1f153,Juan Cuadrado,AM FB WM,Right,178,36,Colombia,922493f3,0,3,30,cff3d9bb ffcbe334 04eea015 922493f3 d609edc0 421387cf e0652b02
 dfd56738,Marco Brescianini,MF,Left,None,25,Italy,922493f3,5,2,32,34963d0d 21680aa4 6a7ad59d dc56fe14 f201f5dd 922493f3
 c56dc39e,Rafael Toloi,CB,Right,185,34,Italy,922493f3,0,0,15,5f232eb1 922493f3 cf74a709
@@ -392,7 +392,7 @@ c31cf14b,Jeffrey De Lange,GK,Right,188,27,Netherlands,5725cc7b,0,0,0,e33d6108 a2
 707b98f1,Valentin Carboni,MF,None,178,20,Argentina,5725cc7b,0,0,4,d609edc0 5725cc7b 21680aa4
 74fb9321,Robinio Vaz,FW,None,None,18,France,5725cc7b,0,0,2,5725cc7b
 15d0c248,Luiz Felipe,CB,Right,187,28,Italy,5725cc7b,0,0,3,fc536746 e00d111d 5725cc7b c5577084 7213da33
-04ac78d2,Bamo Meite,DF,None,183,23,Côte d'Ivoire,281b0e73,0,0,10,281b0e73 5725cc7b d2c87802
+04ac78d2,Bamo Meite,DF,None,183,23,Ivory Coast,281b0e73,0,0,10,281b0e73 5725cc7b d2c87802
 c2e3ceb7,Enzo Sternal,FW,Right,None,17,France,19c8caf5,2,0,8,19c8caf5 5725cc7b
 57de24a3,Darryl Bakola,MF,None,None,17,France,5725cc7b,0,0,2,5725cc7b
 cb3c6ca9,Emmanuel Koum Mbondo,FW,None,None,19,France,5725cc7b,0,0,1,5725cc7b
@@ -447,7 +447,7 @@ f833a830,Takumi Minamino,AM,Right,174,30,Japan,fd6114db,8,4,38,fd6114db bd03cdde
 384d58d9,Denis Zakaria,CM DM,Right,191,28,Switzerland,fd6114db,6,4,31,cff3d9bb fd6114db 32f3ee20 4b682260 e0652b02
 0b4f388a,Breel Embolo,FW-MF,Right,185,28,Switzerland,fd6114db,7,7,38,c539e393 32f3ee20 d3d9424a fd6114db
 19c2ffa4,Lamine Camara,MF,Right,173,21,Senegal,fd6114db,2,6,36,f83960ae fd6114db
-8b609c34,Wilfried Singo,CB DM,Right,190,24,Côte d'Ivoire,fd6114db,3,3,31,105360fe fd6114db
+8b609c34,Wilfried Singo,CB DM,Right,190,24,Ivory Coast,fd6114db,3,3,31,105360fe fd6114db
 30af8b93,Caio Henrique Oliveira Silva,FB,Left,178,27,Brazil,fd6114db,0,6,33,ab17f2e9 db3b9613 84d9701c fd6114db
 3bd65247,Eliesse Ben Seghir,FW-MF,Right,None,20,Morocco,fd6114db,8,3,41,fd6114db
 20de219a,Radoslaw Majecki,GK,Right,191,25,Poland,fd6114db,0,0,23,e8d2adc4 a73408a7 fd6114db
@@ -583,7 +583,7 @@ b2f3d550,Lorenzo Anghele,FW,None,None,20,Italy,e0652b02,0,0,1,e0652b02
 388a593c,Alessandro Pietrelli,MF,None,192,22,Italy,e0652b02,0,0,0,c41460da
 e19bc88c,Christos Papadopoulos,MF,None,None,20,Greece,e0652b02,0,0,0,e0652b02 658bf2de
 f6a06749,Carlo Pinsoglio,GK,Left,192,35,Italy,e0652b02,0,0,0,b985784c 939201df 2591250b c4afcbfa 71a3700b e0652b02
-441197b8,Obite N'Dicka,CB,Left,190,25,Côte d'Ivoire,cf74a709,1,1,46,cf74a709 5ae09109 f0ac8ee6
+441197b8,Obite N'Dicka,CB,Left,190,25,Ivory Coast,cf74a709,1,1,46,cf74a709 5ae09109 f0ac8ee6
 bcf5058a,Mile Svilar,GK,Right,189,25,Serbia,cf74a709,0,0,47,08ad393c cf74a709 a77c513e
 30941e96,Angelino,DM FB,Left,175,28,Spain,cf74a709,4,4,46,64e81410 e334d850 033ea6b8 e41e516f 8ed04be8 ecd11ca2 cf74a709 b8fd03ef acbb6a5b 2aa12281
 5aa53281,Gianluca Mancini,CB,Right,190,29,Italy,cf74a709,2,1,43,cf74a709 922493f3 37cba288
@@ -646,7 +646,7 @@ e97adead,Oliver Nielsen,DF,None,None,21,Denmark,7213da33,0,0,18,7213da33 cb89181
 f5c4fd91,Arijon Ibrahimovic,FW,None,179,19,Germany,7213da33,0,0,3,6a7ad59d 054efa67 8b10a09d a4a1c462 7213da33
 6841bd6e,Mahmadou Balde,FW,None,None,21,Spain,7213da33,0,0,2,7213da33
 c0a7743b,Matteo Zazza,DF,None,None,19,Italy,7213da33,0,0,1,7213da33
-fdf4b948,Jean-Daniel Akpa-Akpro,CM FB,Right,180,32,Côte d'Ivoire,21680aa4,0,0,11,21680aa4 a3d88bd8 c5577084 3f8c4b5f 7213da33
+fdf4b948,Jean-Daniel Akpa-Akpro,CM FB,Right,180,32,Ivory Coast,21680aa4,0,0,11,21680aa4 a3d88bd8 c5577084 3f8c4b5f 7213da33
 ba3d3bea,Danilo Cataldi,CM,Right,180,30,Italy,421387cf,3,0,32,7213da33 3074d7b1 658bf2de 4fcb34fd 421387cf
 80556f08,Toma Basic,MF,Left,189,28,Croatia,7213da33,1,3,15,7213da33 c5577084 123f3efe 6777e16d
 6a99e0b1,Inaki Williams,AM,Right,186,30,Ghana,2b390eca,11,9,45,2b390eca
@@ -682,7 +682,7 @@ a461f098,Adu Ares,FW,None,183,23,Spain,800303a0,2,1,27,800303a0 2b390eca
 b7e92b0e,Aingeru Olabarrieta,FW,None,None,19,Spain,2b390eca,0,0,0,2b390eca
 bb33af5c,Unai Eguiluz,DF,None,None,23,Spain,3640715c,0,0,24,3640715c 2b390eca
 db87a2c4,Marcin Bulka,GK,Right,198,25,Poland,132ebc33,0,0,38,bbd9ac49 43d17b20 e2d8892c 132ebc33 09080694
-b73f17f8,Evann Guessand,FW-MF,None,185,23,Côte d'Ivoire,132ebc33,12,7,38,2864c5a0 132ebc33 d7a486cd
+b73f17f8,Evann Guessand,FW-MF,None,185,23,Ivory Coast,132ebc33,12,7,38,2864c5a0 132ebc33 d7a486cd
 c2f23fc8,Moise Bombito,CB,None,None,25,Canada,132ebc33,0,0,31,132ebc33 415b4465
 5219ab4a,Jonathan Clauss,DM FB,Right,178,32,France,132ebc33,3,9,33,247c4b67 fd4e0f7d 5725cc7b 34e7850d 132ebc33
 f9d5908e,Hicham Boudaoui,CM WM,Right,175,25,Algeria,132ebc33,2,2,32,132ebc33
@@ -698,7 +698,7 @@ ad7cdb35,Ali Abdi,FB,Left,178,31,Tunisia,132ebc33,4,2,29,132ebc33 056a5a75 74229
 5cdddffa,Tanguy Ndombele,CM DM WM,Right,181,28,France,132ebc33,1,2,23,361ca564 25622401 d48ad4ff 132ebc33 ecd11ca2 d53c0b06
 f999e9be,Tom Louchet,MF,None,176,22,France,132ebc33,1,0,27,132ebc33
 bff15d74,Mohamed Abdelmoneim,DF,Left,183,26,Egypt,132ebc33,0,0,16,132ebc33
-fe012aca,Jeremie Boga,AM,Right,172,28,Côte d'Ivoire,132ebc33,3,2,23,ec79b7c2 cff3d9bb a0435291 b3072e00 e2befd26 132ebc33 922493f3
+fe012aca,Jeremie Boga,AM,Right,172,28,Ivory Coast,132ebc33,3,2,23,ec79b7c2 cff3d9bb a0435291 b3072e00 e2befd26 132ebc33 922493f3
 3322e296,Antoine Mendy,DF,Right,177,20,Senegal,132ebc33,0,0,19,132ebc33
 5e22e2a4,Baptiste Santamaria,CM DM,Right,183,30,France,132ebc33,0,1,22,b3072e00 132ebc33 69236f98 c96d05af a486e511
 6ce43701,Youssoufa Moukoko,FW,Left,179,20,Germany,132ebc33,2,2,19,d943111d 132ebc33 40347053 6c254a38 add600ae
@@ -752,7 +752,7 @@ cd2cb5bb,Andrej Ilic,FW,Right,184,25,Serbia,7a41008f,5,0,14,386c1777 60aa17d7 7a
 3eed9821,Samuel Umtiti,CB FB,Left,181,31,France,cb188c0c,0,0,0,ffcbe334 d53c0b06 206d90db cb188c0c
 5ee6e943,Marc-Aurele Caillard,GK,Right,191,30,France,cb188c0c,0,0,0,d41b5f53 fd6114db cb188c0c f83960ae d9676424
 dd745366,Andrey Santos,MF,Right,176,21,Brazil,c0d3eab4,9,3,30,e4a775cb cff3d9bb 83f55dbe c0d3eab4
-b4ef3fb5,Guela Doue,DF,Right,183,22,Côte d'Ivoire,c0d3eab4,1,1,30,c0d3eab4 b3072e00
+b4ef3fb5,Guela Doue,DF,Right,183,22,Ivory Coast,c0d3eab4,1,1,30,c0d3eab4 b3072e00
 0cf321c8,Dorde Petrovic,GK,Right,194,25,Serbia,c0d3eab4,0,0,29,42e847bc cff3d9bb 3c079def c0d3eab4
 0512a60a,Ismael Doukoure,CB,None,182,21,France,c0d3eab4,1,1,29,259d3345 c0d3eab4
 12de1b0d,Diego Moreira,DF-MF,None,None,20,Portugal,c0d3eab4,2,7,30,cff3d9bb de731359 d53c0b06 a77c513e c0d3eab4
@@ -762,7 +762,7 @@ a0c590b9,Emanuel Emegha,FW,Both,195,22,Netherlands,c0d3eab4,14,3,27,c0d3eab4 3f4
 61f80c89,Mamadou Sarr,DF,None,196,19,France,c0d3eab4,0,1,25,e423ea45 d53c0b06 c0d3eab4
 ce747d2a,Sebastian Nanasi,FW-MF,Right,178,22,Sweden,c0d3eab4,5,4,29,74780d66 f3d8c8b9 9f13771c c0d3eab4
 8ca9415f,Felix Lemarechal,MF,Right,181,21,France,c0d3eab4,4,3,25,e8d2adc4 fd6114db fb08dbb3 c0d3eab4
-29c91632,Abakar Sylla,CB,None,None,22,Côte d'Ivoire,c0d3eab4,1,0,20,f1e6c5f1 c0d3eab4
+29c91632,Abakar Sylla,CB,None,None,22,Ivory Coast,c0d3eab4,1,0,20,f1e6c5f1 c0d3eab4
 f6b94e8d,Saidou Sow,CB,Right,184,22,Guinea,d7a486cd,1,1,21,c0d3eab4 d7a486cd d298ef2c
 b9f282ec,Valentin Barco,MF,Left,168,20,Argentina,c0d3eab4,0,2,19,795ca75e d07537b9 ad2be733 c0d3eab4
 3544641e,Sekou Mara,FW,Right,184,22,France,c0d3eab4,1,1,23,33c895d4 123f3efe 179c33c7 c0d3eab4
@@ -871,10 +871,10 @@ c1fe2a48,Ryan Yates,CM DM,Right,190,27,England,e4a775cb,2,1,32,3b27de1f 3149e189
 0f41e2ee,Morato,CB,Left,190,23,Brazil,e4a775cb,0,0,25,e4a775cb a77c513e 5f232eb1
 e5478b87,Taiwo Awoniyi,FW,Right,178,27,Nigeria,e4a775cb,1,0,25,51e5a603 e4a775cb a224b06a 7a41008f 63330a03 f780fd06 fc629994
 2d3417a1,Ramon Sosa,AM WM,Right,None,25,Paraguay,e4a775cb,1,0,19,979102f4 950a95f2 4d4fc0b8 e4a775cb ceda2145
-bced0375,Ibrahim Sangare,CM DM,Right,191,27,Côte d'Ivoire,e4a775cb,0,1,10,e334d850 e4a775cb 3f8c4b5f
+bced0375,Ibrahim Sangare,CM DM,Right,191,27,Ivory Coast,e4a775cb,0,1,10,e334d850 e4a775cb 3f8c4b5f
 a816dbfb,Danilo,DM,Left,177,24,Brazil,e4a775cb,0,0,7,abdce579 e4a775cb
 3515d404,James Ward-Prowse,AM CM DM,Right,173,30,England,7c21e445,0,2,21,33c895d4 ed54a8b3 e4a775cb 7c21e445
-a4ac4b8f,Willy Boly,CB,Right,195,34,Côte d'Ivoire,e4a775cb,0,0,6,5ae09109 69d84c29 5e876ee6 8cec06e1 e4a775cb
+a4ac4b8f,Willy Boly,CB,Right,195,34,Ivory Coast,e4a775cb,0,0,6,5ae09109 69d84c29 5e876ee6 8cec06e1 e4a775cb
 a105d46a,Harry Toffolo,FB,Left,183,29,England,e4a775cb,0,0,4,e3c537a1 1b295b25 375d66f1 d6e6321c 3149e189 f5922ca5 03d10d77 8de86c22 d76b7bed 3cc6b990 e4a775cb
 0a4f579a,Eric da Silva Moreira,DF,None,185,19,Germany,e4a775cb,0,0,2,22c72f0b d9dd39c9 54864664 3cc6b990 e4a775cb
 84454067,Carlos Miguel,GK,None,None,26,Brazil,e4a775cb,0,0,0,bf4acd28 e4a775cb
@@ -896,13 +896,13 @@ e5d01ecf,Kiko Femenia,FB WM,Right,174,34,Spain,2a8183b3,0,1,28,ea1d7427 045c971f
 540ec57b,Yeremi Pino,WM,Right,172,22,Spain,2a8183b3,3,5,30,2a8183b3
 d0530e29,Luiz Lucio Reis Junior,GK,Left,192,24,Brazil,2a8183b3,0,0,15,2a8183b3 2de656d5
 6c7762c3,Juan Foyth,CB FB,Right,190,27,Argentina,2a8183b3,1,0,16,361ca564 2a8183b3 df734df9
-57e3f0c7,Nicolas Pepe,AM,Left,178,29,Côte d'Ivoire,2a8183b3,2,5,24,cb188c0c 132ebc33 18bb7c10 69236f98 2a8183b3 c8ad3091
+57e3f0c7,Nicolas Pepe,AM,Left,178,29,Ivory Coast,2a8183b3,2,5,24,cb188c0c 132ebc33 18bb7c10 69236f98 2a8183b3 c8ad3091
 4bd414c1,Raul Albiol,CB,Right,190,39,Spain,2a8183b3,0,0,15,53a2f082 d48ad4ff dcc91a7b 2a8183b3 7848bd64
 6a7353d7,Willy Kambwala,DF,None,None,20,France,2a8183b3,0,0,15,2a8183b3 1c067385 19538871 92aca032
 3171351c,Pau Navarro,DF,None,None,20,Spain,2a8183b3,0,0,13,2a8183b3 408a9724
 81f0781e,Gerard Moreno,FW-MF,Left,177,33,Spain,2a8183b3,3,1,14,2a8183b3 a8661628 408a9724 2aa12281
 12c50af5,Denis Suarez,AM CM WM,Right,181,31,Spain,2a8183b3,1,1,20,ea1d7427 ad2be733 206d90db 18bb7c10 f25da7fb 2a8183b3 a8661628
-a1232f4e,Eric Bailly,CB,Right,187,31,Côte d'Ivoire,2a8183b3,0,0,12,19538871 5725cc7b 0f9294bd 2a8183b3 a8661628 92aca032
+a1232f4e,Eric Bailly,CB,Right,187,31,Ivory Coast,2a8183b3,0,0,12,19538871 5725cc7b 0f9294bd 2a8183b3 a8661628 92aca032
 b8bd60fe,Ilias Akhomach,MF,None,175,21,Morocco,2a8183b3,1,0,11,2a8183b3 408a9724 206d90db
 433dc9a2,Juan Bernat,FB WM,Left,170,32,Spain,7848bd64,0,2,22,e2d8892c 054efa67 dcc91a7b a77c513e 2a8183b3 7848bd64
 53440b64,Pau Cabanes,FW,None,None,20,Spain,8d6fd021,1,0,15,2a8183b3 408a9724 8d6fd021
@@ -911,7 +911,7 @@ b8bd60fe,Ilias Akhomach,MF,None,175,21,Morocco,2a8183b3,1,0,11,2a8183b3 408a9724
 f36016a5,Ramon Terrats,MF,None,181,24,Spain,7848bd64,4,0,22,2a8183b3 408a9724 9024a00a 7848bd64
 f08490a6,Arnaut Danjuma,FW-MF,Right,187,28,Netherlands,9024a00a,5,2,33,9024a00a 4ba7cbea 361ca564 2e99ee2e 8e1ea572 f1e6c5f1 2a8183b3 d3fd31cc fc629994
 2163e29b,Alassane Diatta,MF,None,190,19,Senegal,2a8183b3,0,0,0,2a8183b3
-3d5e4f26,Jean Valou,DF,None,None,None,Côte d'Ivoire,2a8183b3,0,0,0,2a8183b3
+3d5e4f26,Jean Valou,DF,None,None,None,Ivory Coast,2a8183b3,0,0,0,2a8183b3
 c8c8ce16,Arnau Sola,DF,None,None,22,Spain,2a8183b3,0,0,1,2a8183b3 bbd9ac49
 06bb141c,Thiago Ojeda,MF,None,187,22,Argentina,2a8183b3,0,0,1,2a8183b3 408a9724
 f0f499ea,Karl Etta,FW,None,None,21,Cameroon,2a8183b3,0,0,2,2a8183b3 ee7c297c
@@ -982,8 +982,8 @@ f81ef10d,Maxence Caqueret,CM DM WM,Right,174,25,France,28c9c3cd,0,3,28,28c9c3cd 
 4534a352,Warmed Omari,CB,Right,180,25,Comoros,d53c0b06,0,0,3,d53c0b06 b3072e00
 477e50ce,Remy Descamps,GK,Left,194,28,France,d53c0b06,0,0,2,140e320a e2d8892c d7a486cd d53c0b06 c96d05af d9676424
 de17db90,Gift Orban,FW,None,None,22,Nigeria,033ea6b8,6,0,18,033ea6b8 51e5a603 d53c0b06
-31f5b89b,Paul Akouokou,MF,Right,190,27,Côte d'Ivoire,d53c0b06,0,0,5,fc536746 d53c0b06
-b2bc3b1f,Wilfried Zaha,AM WM,Right,180,32,Côte d'Ivoire,eb57545a,3,0,9,19538871 47c64c55 ecd11ca2 d53c0b06 eb57545a 75fae011
+31f5b89b,Paul Akouokou,MF,Right,190,27,Ivory Coast,d53c0b06,0,0,5,fc536746 d53c0b06
+b2bc3b1f,Wilfried Zaha,AM WM,Right,180,32,Ivory Coast,eb57545a,3,0,9,19538871 47c64c55 ecd11ca2 d53c0b06 eb57545a 75fae011
 a572e291,Orel Mangala,CM DM,Right,178,27,Belgium,d3fd31cc,1,0,20,d943111d 598bc722 3cc6b990 d53c0b06 26790c6a d3fd31cc e4a775cb
 1906b842,Mahamadou Diawara,MF,None,None,20,France,5c2737db,0,1,17,5c2737db d53c0b06
 fb14aa28,Mama Samba Balde,AM,Right,176,29,Guinea-Bissau,fb08dbb3,2,4,37,54195385 cfdb925a fb08dbb3 8dfb7350 d53c0b06
@@ -1007,7 +1007,7 @@ b79858d5,Albert Gudmundsson,FW-MF,Right,177,27,Iceland,421387cf,8,1,30,658bf2de 
 26777636,Yacine Adli,MF,Right,186,24,France,421387cf,5,5,33,dc56fe14 e2d8892c 123f3efe 421387cf
 6499048c,Andrea Colpani,AM,Left,186,25,Italy,421387cf,2,1,25,a6a65dea 21680aa4 922493f3 421387cf
 2b7cdb79,Amir Richardson,CM,Left,195,23,Morocco,421387cf,1,0,33,5c2737db 7fdd64e0 421387cf
-58e933d2,Christian Kouame,FW-MF,Right,185,27,Côte d'Ivoire,a3d88bd8,2,1,32,658bf2de a3d88bd8 08ad393c 1a8d4355 421387cf
+58e933d2,Christian Kouame,FW-MF,Right,185,27,Ivory Coast,a3d88bd8,2,1,32,658bf2de a3d88bd8 08ad393c 1a8d4355 421387cf
 94816803,Riccardo Sottil,FW-MF,Right,180,25,Italy,dc56fe14,3,1,27,b985784c c4260e09 dc56fe14 421387cf
 366be751,Nicolo Fagioli,CM,Right,178,24,Italy,421387cf,1,3,38,421387cf 9aad3a77 e0652b02
 ae94a6c5,Edoardo Bove,MF,Right,171,22,Italy,421387cf,1,2,15,421387cf cf74a709
@@ -1111,7 +1111,7 @@ b98330f8,Noah Raveyre,GK,None,None,19,France,dc56fe14,0,0,0,dc56fe14 d298ef2c
 72603d10,Silvano Vos,MF,Right,None,20,Netherlands,dc56fe14,0,0,1,dc56fe14 a26209d7 19c3f8c4
 c0f732e1,Lapo Nava,GK,None,189,21,Italy,dc56fe14,0,0,0,dc56fe14
 fde33205,Hugo Cuenca,MF,None,183,20,Paraguay,658bf2de,0,0,0,d2043442
-ee6e2b92,Chaka Traore,FW,Right,175,20,Côte d'Ivoire,dc56fe14,0,0,0,dc56fe14 ee058a17 eab4234c
+ee6e2b92,Chaka Traore,FW,Right,175,20,Ivory Coast,dc56fe14,0,0,0,dc56fe14 ee058a17 eab4234c
 beb882a8,Maximilian Eggestein,AM CM DM WM,Right,181,28,Germany,a486e511,2,0,31,27020d71 a486e511 62add3bf
 d01bbb6f,Ritsu Doan,AM WM,Left,172,26,Japan,a486e511,9,7,32,247c4b67 e2948349 e334d850 bec05adb a486e511
 302527b2,Philipp Lienhart,CB,Right,185,28,Austria,a486e511,1,0,30,a486e511 53a2f082
@@ -1174,7 +1174,7 @@ f8f35f82,Jordi Paulina,FW,None,None,20,Netherlands,40347053,5,3,29,40347053 add6
 afe096da,Elias Benkara,DF,None,None,18,Germany,d943111d,0,0,0,d943111d 6c254a38
 1528c21a,Robin Lisewski,GK,None,195,19,Poland,d943111d,0,0,0,d943111d 6c254a38 40347053
 66642968,Filippo Mane,DF,Right,188,20,Italy,d943111d,0,0,5,d943111d 6c254a38 40347053 add600ae
-ba115a40,Sebastien Haller,FW,Right,187,30,Côte d'Ivoire,2a428619,4,1,22,5ae09109 2a428619 f0ac8ee6 7c21e445 add600ae 7c6f2c78 19c3f8c4
+ba115a40,Sebastien Haller,FW,Right,187,30,Ivory Coast,2a428619,4,1,22,5ae09109 2a428619 f0ac8ee6 7c21e445 add600ae 7c6f2c78 19c3f8c4
 5584552e,Marcel Lotka,GK,Right,190,23,Poland,40347053,0,0,24,ecf53eea 598306fb 45a67fe8 40347053 12062e3e 2818f8bc add600ae
 993a4aa1,David Lelle,DF,None,None,22,Germany,40347053,0,1,20,e850256c a4988f5e 40347053 add600ae
 f98df46a,Rodney Elongo-Yombo,FW,None,None,23,Germany,40347053,1,4,36,ce50e2f4 40347053 add600ae
@@ -1247,7 +1247,7 @@ ba31eee2,Ben Winterburn,MF,None,None,20,England,4ba7cbea,0,0,3,4ba7cbea
 2f5fa231,Zain Silcott-Duberry,MF,None,None,19,Montserrat,4ba7cbea,0,0,1,4ba7cbea de731359
 ed46ab76,Maxwell Wellings,DF,None,None,20,England,4ba7cbea,0,0,0,4ba7cbea
 d8edc4be,Will Dennis,GK,None,188,24,England,4ba7cbea,0,0,0,6598bf6b 4ba7cbea 25f1fd26
-570bb4b9,Hamed Junior Traore,AM,Right,177,25,Côte d'Ivoire,5ae09109,10,2,24,4ba7cbea 5ae09109 a3d88bd8 d48ad4ff e2befd26
+570bb4b9,Hamed Junior Traore,AM,Right,177,25,Ivory Coast,5ae09109,10,2,24,4ba7cbea 5ae09109 a3d88bd8 d48ad4ff e2befd26
 e4238fb1,Jaidon Anthony,AM,Right,183,25,England,943e8050,8,7,43,5bfb9659 943e8050 4ba7cbea
 cfed08d5,Matai Akinmboni,DF,None,191,18,United States,4ba7cbea,0,0,0,44117292 4ba7cbea f70f4c6e
 54778940,Dominic Sadi,MF,None,None,21,England,4ba7cbea,2,1,22,4ba7cbea 120cfbbd
@@ -1362,7 +1362,7 @@ f173303a,Yasin Ayari,MF,None,172,21,Sweden,d07537b9,1,1,31,f7e3dfe9 d07537b9 e09
 c3cf087d,Yankuba Minteh,AM,Left,None,20,Gambia,d07537b9,6,4,29,3f5150ef d07537b9 fb4ca611
 c64c01fc,Georginio Rutter,FW-MF,Both,182,23,France,d07537b9,5,4,29,5bfb9659 b3072e00 d07537b9 033ea6b8 21823154
 dad4b285,Joel Veltman,CB FB,Right,182,33,Netherlands,d07537b9,0,0,20,d07537b9 a26209d7 19c3f8c4
-4dcec659,Simon Adingra,AM,Right,175,23,Côte d'Ivoire,d07537b9,2,1,26,e14f61a5 1850e3f9 d07537b9
+4dcec659,Simon Adingra,AM,Right,175,23,Ivory Coast,d07537b9,2,1,26,e14f61a5 1850e3f9 d07537b9
 a4e85758,Igor,CB,Left,185,27,Brazil,d07537b9,0,0,12,ee0bccc5 1d2fe027 d07537b9 426658a6 421387cf 50f2a074
 f4e433d4,Tariq Lamptey,FB,Right,175,24,Ghana,d07537b9,2,2,14,d07537b9 11da5cc7 09080694 cff3d9bb
 c40b6180,Adam Webster,CB,Right,192,30,England,d07537b9,0,0,11,b74092de 76ffc013 d07537b9 11da5cc7 a8290768 93493607
@@ -1394,7 +1394,7 @@ c1a271b9,Freddie Simmonds,DF,None,None,17,England,11da5cc7,0,0,0,d07537b9 11da5c
 4eb2d015,Thomas Mcgill,GK,Right,185,25,England,d07537b9,0,0,25,d2bc69d1 d07537b9 0cd8eef2 11da5cc7 fcf5b1e1
 9bbef03e,Ed Turns,CB,Left,182,22,Wales,05791fbc,0,0,13,d2bc69d1 f13a527f d07537b9 590e9120 11da5cc7 05791fbc
 04eb7d82,Amario Duberry,FW,None,170,19,England,e090f40b,1,0,22,45bf2fb0 18bb7c10 ad0e69a2 e090f40b
-e295402e,Malick Yalcouye,MF,None,169,19,Côte d'Ivoire,3f4fe568,4,1,31,3f4fe568 ef1ab26a
+e295402e,Malick Yalcouye,MF,None,169,19,Ivory Coast,3f4fe568,4,1,31,3f4fe568 ef1ab26a
 4352b7be,Killian Cahill,GK,None,None,21,Republic of Ireland,11da5cc7,0,0,0,d07537b9 11da5cc7
 810912d5,Carl Rushworth,GK,None,None,23,England,d07537b9,0,0,2,d2bc69d1 bd8769d1 d07537b9 fb10988f d76b7bed d96bbc04
 b9f282ec,Valentin Barco,MF,Left,168,20,Argentina,c0d3eab4,0,2,19,795ca75e d07537b9 ad2be733 c0d3eab4
@@ -1416,7 +1416,7 @@ fb14aa28,Mama Samba Balde,AM,Right,176,29,Guinea-Bissau,fb08dbb3,2,4,37,54195385
 0be95d34,Romain Del Castillo,AM,Left,172,29,France,fb08dbb3,6,3,31,724d8770 b3072e00 fb08dbb3 d53c0b06 1cbf5f9e
 745ca0a3,Romain Faivre,AM WM,Left,180,26,France,fb08dbb3,3,2,28,4ba7cbea fd6114db fb08dbb3 d53c0b06 d2c87802
 9dff291c,Soumaila Coulibaly,DF,Left,190,21,France,fb08dbb3,0,0,15,fb08dbb3 40347053 c2e6b53b add600ae
-3725b44f,Luc Zogbe,DF,None,None,20,Côte d'Ivoire,fb08dbb3,0,0,14,fb08dbb3
+3725b44f,Luc Zogbe,DF,None,None,20,Ivory Coast,fb08dbb3,0,0,14,fb08dbb3
 22721b88,Jordan Amavi,FB,Left,176,31,France,fb08dbb3,0,0,12,8602292d 5725cc7b fb08dbb3 132ebc33 7848bd64
 cad3fd4d,Ibrahim Salah,FW,Right,None,23,Morocco,fb08dbb3,1,1,18,51e5a603 fb08dbb3 b3072e00
 ca95200f,Gregoire Coudert,GK,None,188,26,France,fb08dbb3,0,0,3,25622401 fb08dbb3 c96d05af
@@ -1573,7 +1573,7 @@ f4c69aa6,Ilaix Moriba,CM,Right,185,22,Guinea,f25da7fb,0,1,29,206d90db dcc91a7b f
 184fe4b2,Williot Swedberg,FW,Right,185,21,Sweden,f25da7fb,4,3,28,f25da7fb 92bfd7f0
 3521abfe,Carlos Dominguez,DF,Left,187,24,Spain,f25da7fb,0,0,15,f25da7fb
 22371dee,Damian Rodriguez,MF,None,190,22,Spain,f25da7fb,0,0,16,f25da7fb
-b2bd0f6c,Jonathan Bamba,AM WM,Right,175,29,Côte d'Ivoire,f9940243,1,4,11,cb188c0c 056a5a75 69236f98 f25da7fb 80328a1e f9940243 d298ef2c
+b2bd0f6c,Jonathan Bamba,AM WM,Right,175,29,Ivory Coast,f9940243,1,4,11,cb188c0c 056a5a75 69236f98 f25da7fb 80328a1e f9940243 d298ef2c
 853ca71c,Anastasios Douvikas,FW,None,186,25,Greece,28c9c3cd,5,2,30,28c9c3cd 4a2c27a3 d884c383 2a428619 f25da7fb
 cde52ef5,Ivan Villar,GK,Right,183,27,Spain,f25da7fb,0,0,4,9800b6a1 f25da7fb 7c6f2c78
 675cacff,Fer Lopez,MF,None,None,None,None,f25da7fb,2,0,14,f25da7fb
@@ -1694,7 +1694,7 @@ cace4967,Fellipe Jack,DF,Left,187,19,Brazil,28c9c3cd,0,0,7,28c9c3cd
 0375723e,Simone Verdi,AM,Both,171,32,Italy,e2befd26,2,0,16,28c9c3cd 105360fe a3d88bd8 0e72edf2 1d8099f8 c5577084 d48ad4ff 9144bbcf e2befd26 bea5c710 71f07916
 1079c685,Alberto Cerri,FW,Right,194,29,Italy,c5577084,3,0,21,b985784c 28c9c3cd 1d2fe027 c4260e09 a3d88bd8 c5577084 37cba288 eab4234c 215a8f32
 ea06dd97,Daniele Baselli,CM,Right,182,33,Italy,28c9c3cd,0,0,2,28c9c3cd 105360fe c4260e09 1a8d4355 922493f3
-7452c7a8,Ben Lhassine Kone,MF,None,None,25,Côte d'Ivoire,6a7ad59d,1,1,11,3074d7b1 28c9c3cd 34963d0d 105360fe 6a7ad59d
+7452c7a8,Ben Lhassine Kone,MF,None,None,25,Ivory Coast,6a7ad59d,1,1,11,3074d7b1 28c9c3cd 34963d0d 105360fe 6a7ad59d
 9f8e9423,Raphael Varane,CB DM,Both,194,32,France,None,0,0,0,19538871 fd4e0f7d 53a2f082
 1a927a6f,Ali Jasim,MF,None,178,21,Iraq,2b41acb5,1,0,10,28c9c3cd 2b41acb5
 cea4ee8f,Dele Alli,AM,Right,188,29,England,28c9c3cd,0,0,1,28c9c3cd 361ca564 0f9294bd d3fd31cc fcf5b1e1
@@ -1798,13 +1798,13 @@ d80d7f17,Inigo Arguibide,FW,Right,178,20,Spain,03c57e2b,0,0,0,03c57e2b
 51c83a90,Donovan Leon,GK,Right,186,32,French Guiana,5ae09109,0,0,30,fb08dbb3 5ae09109
 10dd88f9,Gaetan Perrin,AM,Right,169,28,France,5ae09109,9,10,32,48dd5b1b d53c0b06 5ae09109
 56ae428b,Jubal,CB,Right,190,31,Brazil,5ae09109,6,0,29,f205258a 712c528f 0d36ddd4 37b7e9e2 5ae09109 3f319bc9 4cb59dcf
-0abb5072,Clement Akpa,DF,Left,69,23,Côte d'Ivoire,5ae09109,0,1,29,5ae09109
+0abb5072,Clement Akpa,DF,Left,69,23,Ivory Coast,5ae09109,0,1,29,5ae09109
 e2781082,Elisha Owusu,CM DM,Right,179,27,Ghana,5ae09109,1,3,26,b9cd3c9a 51e5a603 d53c0b06 5ae09109
 5e5249c8,Lassine Sinayoko,FW-MF,Right,186,25,Mali,5ae09109,4,7,32,5ae09109
 9bdd8118,Gideon Mensah,FB,Left,178,26,Ghana,5ae09109,0,1,27,ecd34b98 5ae09109 3f319bc9 123f3efe 3f4fe568 50f2a074
 9a71e978,Ki-Jana Hoever,FB,Right,180,23,Netherlands,5ae09109,1,2,29,5ae09109 e334d850 8e1ea572 17892952 8cec06e1 79cadc09 071dd6bd 822bd0ba
-570bb4b9,Hamed Junior Traore,AM,Right,177,25,Côte d'Ivoire,5ae09109,10,2,24,4ba7cbea 5ae09109 a3d88bd8 d48ad4ff e2befd26
-6de23ab0,Sinaly Diomande,CB,Right,184,24,Côte d'Ivoire,5ae09109,3,2,21,d53c0b06 5ae09109
+570bb4b9,Hamed Junior Traore,AM,Right,177,25,Ivory Coast,5ae09109,10,2,24,4ba7cbea 5ae09109 a3d88bd8 d48ad4ff e2befd26
+6de23ab0,Sinaly Diomande,CB,Right,184,24,Ivory Coast,5ae09109,3,2,21,d53c0b06 5ae09109
 cd889153,Gabriel Osho,CB,Right,None,26,Nigeria,5ae09109,1,0,19,5ae09109 bd5179b9 51e48db2 e297cd13 654f3ca6 b0ac61ff 67909e74 a8290768 7cf2360b
 e76f6fbe,Kevin Danois,FW,None,173,20,France,5ae09109,0,0,22,5ae09109
 ff4df82e,Ado Onaiwu,FW-MF,None,180,29,Japan,5ae09109,4,1,29,3ded797c 5ae09109 226ca873 3f8c4b5f 21bf1e40 098f39a8 f812e711
@@ -1819,7 +1819,7 @@ afbb55d2,Theo De Percin,GK,Right,180,24,Martinique,5ae09109,0,0,2,5ae09109
 885430a6,Tom Negrel,GK,None,None,22,France,5ae09109,0,0,0,5ae09109
 64b170af,Rudy Matondo,MF,None,None,17,France,5ae09109,0,0,5,5ae09109
 97fb4608,Theo Pellenard,CB,Left,182,31,France,66cc304a,0,0,16,5ae09109 66cc304a 123f3efe 056a5a75 69236f98 259d3345
-3dcd9017,Aristide Zossou,FW,None,None,19,Côte d'Ivoire,5ae09109,0,0,3,5ae09109
+3dcd9017,Aristide Zossou,FW,None,None,19,Ivory Coast,5ae09109,0,0,3,5ae09109
 78310540,Lasso Coulibaly,MF,None,None,22,Ghana,5ae09109,1,0,2,d06bc460 1850e3f9 5ae09109
 0ed50019,Eros Maddy,FW,None,None,24,Netherlands,5ae09109,0,0,2,69574c30 5ae09109 9eb5fbc7 2a428619 a26209d7
 b1fe3000,Loic N'Gatta,DF,None,None,21,France,5ae09109,0,0,2,5ae09109
@@ -1907,7 +1907,7 @@ e0a1f4eb,Jesper Karlstrom,CM DM,Right,179,29,Sweden,04eea015,0,2,36,04eea015 bb9
 76b2817e,Kingsley Ehizibue,FB,Right,189,29,Netherlands,04eea015,0,1,31,e3db180b bc357bf7 04eea015
 966eea58,Sandi Lovric,CM,Right,180,27,Slovenia,04eea015,2,3,34,3f4fe568 4dcf77da 04eea015
 ab5c36dd,Maduka Okoye,GK,Right,197,25,Nigeria,04eea015,0,0,22,ecf53eea e2bede9e 04eea015 146a68ce b1278397 2abfe087
-19a12bed,Hassane Kamara,DM FB WM,Left,166,31,Côte d'Ivoire,04eea015,1,4,28,04eea015 43d17b20 132ebc33 7fdd64e0 2abfe087
+19a12bed,Hassane Kamara,DM FB WM,Left,166,31,Ivory Coast,04eea015,1,4,28,04eea015 43d17b20 132ebc33 7fdd64e0 2abfe087
 2b9fdeea,Florian Thauvin,AM WM,Left,179,32,France,04eea015,8,3,25,b2b47a98 04eea015 d9e1bd51 40aa7280 5725cc7b 6283be2c
 73d6a176,Jurgen Ekkelenkamp,AM CM,Right,188,25,Netherlands,04eea015,3,2,32,04eea015 c2e6b53b a26209d7 2818f8bc 19c3f8c4
 fadf9a05,Thomas Kristensen,DF,None,None,23,Denmark,04eea015,1,0,22,04eea015 9ae196bd
@@ -2030,7 +2030,7 @@ aad56ca3,Amine Gouiri,FW-MF,Right,180,25,Algeria,5725cc7b,11,5,31,132ebc33 5725c
 5b146df3,Lilian Brassier,CB,Left,184,25,France,b3072e00,1,0,24,259d3345 5725cc7b fb08dbb3 b3072e00
 576ca93f,Djaoui Cisse,MF,None,None,21,France,b3072e00,1,0,12,b3072e00
 0da5076f,Albert Gronbaek,CM,Right,176,23,Denmark,33c895d4,2,1,20,33c895d4 d86248bd 9ae196bd b3072e00
-5313ed43,Seko Fofana,CM DM,Right,183,30,Côte d'Ivoire,b3072e00,1,1,27,fd962109 04eea015 b3072e00 6baef27f fd4e0f7d 11be4c0a 6283be2c
+5313ed43,Seko Fofana,CM DM,Right,183,30,Ivory Coast,b3072e00,1,1,27,fd962109 04eea015 b3072e00 6baef27f fd4e0f7d 11be4c0a 6283be2c
 cea59f02,Alidu Seidu,CB,Right,173,24,Ghana,b3072e00,0,0,11,b3072e00 d9676424
 9b545925,Anthony Rouault,CB,Right,186,23,France,b3072e00,1,0,34,598bc722 3f8c4b5f b3072e00
 b37ae816,Mikayil Ngor Faye,MF,None,None,20,Senegal,b3072e00,0,0,11,206d90db b3072e00
@@ -2094,7 +2094,7 @@ d557d734,Matt Doherty,DM FB WM,Right,182,33,Republic of Ireland,8cec06e1,2,1,28,
 edc98fac,Santiago Bueno,CB,Right,190,26,Uruguay,8cec06e1,0,0,28,ea1d7427 8cec06e1 a8fbbb12 9024a00a
 10f0fdd3,Jean-Ricner Bellegarde,CM,Right,170,26,France,8cec06e1,2,6,32,8cec06e1 fd4e0f7d c0d3eab4
 2b471f99,Mario Lemina,CM DM FB,Right,183,31,Gabon,ecd11ca2,2,5,27,fd962109 5725cc7b 132ebc33 ecd11ca2 33c895d4 8cec06e1 d2c87802 e0652b02
-75f1ed80,Emmanuel Agbadou,CB,Right,192,27,Côte d'Ivoire,8cec06e1,0,0,27,5809ddc3 7fdd64e0 8cec06e1
+75f1ed80,Emmanuel Agbadou,CB,Right,192,27,Ivory Coast,8cec06e1,0,0,27,5809ddc3 7fdd64e0 8cec06e1
 e6bc67d7,Goncalo Guedes,WM,Right,178,28,Portugal,8cec06e1,2,4,26,e2d8892c dcc91a7b a77c513e 2a8183b3 8cec06e1
 3e9e06cb,Craig Dawson,CB FB,Right,188,35,England,8cec06e1,0,0,15,60c6b05f 445d3104 51e48db2 7c21e445 8cec06e1 2abfe087
 9744ff80,Pablo Sarabia,AM WM,Left,176,32,Spain,8cec06e1,3,2,21,13dc44fd e2d8892c ad2be733 8cec06e1 7848bd64
@@ -2344,7 +2344,7 @@ c9817014,Manuel Ugarte Ribeiro,CM DM,None,182,24,Uruguay,19538871,2,6,36,1953887
 bac46a10,Lisandro Martinez,CB,Left,178,27,Argentina,19538871,2,2,28,19538871 9bf4eaf4 a4570206 19c3f8c4
 4d224fe8,Casemiro,CM DM,Right,184,33,Brazil,19538871,2,2,33,19538871 5e876ee6 53a2f082 1b286de7
 d8931174,Harry Maguire,CB,Right,188,32,England,19538871,3,1,30,1df6b87e 19538871 bd8769d1 a2d435b3 e59ddc76
-9dc96f10,Amad Diallo,FW-MF,Left,173,22,Côte d'Ivoire,19538871,9,6,32,19538871 92aca032 8ef52968 922493f3 70483169 86b7acd2
+9dc96f10,Amad Diallo,FW-MF,Left,173,22,Ivory Coast,19538871,9,6,32,19538871 92aca032 8ef52968 922493f3 70483169 86b7acd2
 028e70b9,Joshua Zirkzee,FW,Right,193,23,Netherlands,19538871,5,2,42,19538871 9133b975 054efa67 8b10a09d 1d8099f8 08ad393c eab4234c a4a1c462
 c6220452,Kobbie Mainoo,DM,None,175,20,England,19538871,2,1,28,1c067385 19538871 92aca032
 6763f716,Leny Yoro,CB,None,185,19,France,19538871,1,0,26,19538871 cb188c0c
@@ -2403,7 +2403,7 @@ f0f7f62f,Pierluigi Gollini,GK,Right,188,30,Italy,cf74a709,0,0,7,8602292d 658bf2d
 7afbd2c3,Caleb Ekuban,AM,Right,182,31,Ghana,658bf2de,1,3,16,5bfb9659 c8ad3091 658bf2de
 54f5b2bd,Brooke Norton-Cuffy,DF-MF,Right,187,21,England,658bf2de,0,0,11,f7e3dfe9 e3c537a1 375d66f1 658bf2de d76b7bed ad0e69a2
 48d5bd33,Ruslan Malinovskyi,AM CM DM,Left,181,32,Ukraine,658bf2de,0,2,9,658bf2de 1e972a99 946a30cb 5725cc7b 922493f3
-beb391dd,Maxwel Cornet,AM,Left,179,28,Côte d'Ivoire,658bf2de,2,1,8,afa3c276 658bf2de 943e8050 7c21e445 d53c0b06 33c895d4 f83960ae
+beb391dd,Maxwel Cornet,AM,Left,179,28,Ivory Coast,658bf2de,2,1,8,afa3c276 658bf2de 943e8050 7c21e445 d53c0b06 33c895d4 f83960ae
 7987ef17,Lior Kasa,MF,None,None,19,Israel,658bf2de,0,0,7,658bf2de
 c83c203f,Emil Bohinen,CM,Left,185,26,Norway,6a7ad59d,2,1,13,f0c0c2c2 658bf2de 6a7ad59d c5577084 c2153ae4
 42ff58c3,Honest Ahanor,DF,None,None,17,Italy,658bf2de,0,0,5,658bf2de
@@ -2528,15 +2528,15 @@ eedea60b,Yehvann Diouf,GK,Right,185,25,France,7fdd64e0,0,0,32,54195385 7fdd64e0
 dbd3a428,Junya Ito,AM,Right,176,32,Japan,7fdd64e0,4,3,31,1e972a99 7fdd64e0 aed4d20f c1132314
 d97af612,Keito Nakamura,AM,Right,180,24,Japan,7fdd64e0,11,2,31,a1f721d3 e2948349 d20821dd 80328a1e 7fdd64e0
 06efa9dc,Sergio Akieme,FB,Left,175,27,Spain,7fdd64e0,1,3,28,78ecf4bb 7fdd64e0 98e8af82 206d90db
-9f30e7ed,Cedric Kipre,CB,Right,191,28,Côte d'Ivoire,7fdd64e0,0,1,26,140e320a 60c6b05f 90773bc8 e59ddc76 7fdd64e0 30c24d2d 9d04848a 75fae011
+9f30e7ed,Cedric Kipre,CB,Right,191,28,Ivory Coast,7fdd64e0,0,1,26,140e320a 60c6b05f 90773bc8 e59ddc76 7fdd64e0 30c24d2d 9d04848a 75fae011
 b4705807,Aurelio Buta,FB,Right,172,28,Portugal,7fdd64e0,0,1,26,f0ac8ee6 7fdd64e0 c2e6b53b
 2acf0cd7,Marshall Munetsi,CM DM,Right,187,28,Zimbabwe,8cec06e1,5,3,30,b8a68959 8cec06e1 7fdd64e0 3772159d
-44435c8f,Oumar Diakite,FW,None,178,21,Côte d'Ivoire,7fdd64e0,4,1,25,7fdd64e0 50f2a074
+44435c8f,Oumar Diakite,FW,None,178,21,Ivory Coast,7fdd64e0,4,1,25,7fdd64e0 50f2a074
 039f1983,Joseph Okumu,CB,None,193,27,Kenya,7fdd64e0,1,0,20,51e5a603 3a49f9d8 50e85bfc 7fdd64e0 95f8ef61
 3f465a66,Nhoa Sangui,DF,None,171,19,France,7fdd64e0,0,2,24,7fdd64e0
-75f1ed80,Emmanuel Agbadou,CB,Right,192,27,Côte d'Ivoire,8cec06e1,0,0,27,5809ddc3 7fdd64e0 8cec06e1
+75f1ed80,Emmanuel Agbadou,CB,Right,192,27,Ivory Coast,8cec06e1,0,0,27,5809ddc3 7fdd64e0 8cec06e1
 2eb1ec07,Amadou Kone,MF,None,None,19,Mali,7fdd64e0,0,0,22,7fdd64e0
-ab8b392c,Mory Gbane,MF,None,188,24,Côte d'Ivoire,7fdd64e0,1,0,29,7fdd64e0 6a329209 224b0274
+ab8b392c,Mory Gbane,MF,None,188,24,Ivory Coast,7fdd64e0,1,0,29,7fdd64e0 6a329209 224b0274
 331c5a98,Mamadou Diakhon,FW,None,None,19,France,7fdd64e0,2,1,27,7fdd64e0
 7304dd80,Hiroki Sekine,DF,None,187,22,Japan,7fdd64e0,0,0,13,7fdd64e0 aed4d20f
 5c26ca51,Teddy Teuma,AM CM DM,Left,176,31,Malta,7fdd64e0,1,0,17,e14f61a5 7fdd64e0 e83d13db
@@ -2553,9 +2553,9 @@ d349f13b,Niama Sissoko,FW,None,None,19,Mali,7fdd64e0,0,0,4,7fdd64e0
 c977ef13,Alexandre Olliero,GK,Right,193,29,France,7fdd64e0,0,0,0,61d9850e e5b6b0c1 7fdd64e0 d7a486cd
 13579ed2,Ange Martial Tia,MF,None,178,18,Mali,7fdd64e0,0,0,4,7fdd64e0
 88acf83f,Reda Khadra,FW-MF,Right,174,23,Germany,7fdd64e0,0,0,4,1df6b87e ec79b7c2 d943111d d2bc69d1 d07537b9 e090f40b 7fdd64e0 6c254a38
-51438572,Eloge Zabi,MF,Right,191,18,Côte d'Ivoire,7fdd64e0,0,0,2,7fdd64e0
+51438572,Eloge Zabi,MF,Right,191,18,Ivory Coast,7fdd64e0,0,0,2,7fdd64e0
 7587446d,Martin Adeline,MF,None,180,21,France,54195385,1,2,23,54195385 7fdd64e0 9130bd3b c94d9135
-562bf675,Mohamed Bamba,MF,None,None,20,Côte d'Ivoire,6a329209,1,0,11,7fdd64e0 6a329209
+562bf675,Mohamed Bamba,MF,None,None,20,Ivory Coast,6a329209,1,0,11,7fdd64e0 6a329209
 06a1d642,Mohamed Daramy,FW-MF,None,180,23,Denmark,7fdd64e0,0,0,2,7fdd64e0 a26209d7 18050b20 19c3f8c4
 60e53ba1,Ike Orazi,FW,None,None,17,Republic of Ireland,7fdd64e0,0,0,1,7fdd64e0
 7f826d6c,Mohamed Ali Diadie,FW,None,None,20,France,7fdd64e0,0,0,0,7fdd64e0
@@ -2565,12 +2565,12 @@ e606b6c0,Adama Bojang,FW,None,None,20,Gambia,7b66a29c,6,1,23,7fdd64e0 7b66a29c
 26975a92,Ludovic Butelle,GK,Left,188,42,France,7fdd64e0,0,0,0,e95faa7f cb188c0c 69236f98 dcc91a7b f1e6c5f1 1cbf5f9e 17859612 7fdd64e0 f83960ae
 c3e4ecbb,Jordan Lefort,CB FB,Left,183,31,France,69236f98,0,1,32,25622401 34e7850d 056a5a75 69236f98 4b682260
 7978cbf0,Himad Abdelli,AM,None,179,25,Algeria,69236f98,6,1,30,5c2737db 69236f98
-9d420dad,Yahia Fofana,GK,Right,194,24,Côte d'Ivoire,69236f98,0,0,32,5c2737db 69236f98
+9d420dad,Yahia Fofana,GK,Right,194,24,Ivory Coast,69236f98,0,0,32,5c2737db 69236f98
 6bfb4303,Florent Hanin,FB,Left,177,35,Algeria,69236f98,1,2,31,6fc21c65 3f319bc9 e4502862 19dc476f 90eb0dcc 056a5a75 69236f98 9ea31445 cdaf4e6d
-48b28bfd,Jean-Eudes Aholou,CM DM,Left,187,31,Côte d'Ivoire,69236f98,2,0,26,48dd5b1b d298ef2c fd6114db cb188c0c 69236f98 c0d3eab4
+48b28bfd,Jean-Eudes Aholou,CM DM,Left,187,31,Ivory Coast,69236f98,2,0,26,48dd5b1b d298ef2c fd6114db cb188c0c 69236f98 c0d3eab4
 d21e361a,Farid El Melali,AM,Right,168,28,Algeria,69236f98,2,3,30,e5b6b0c1 69236f98
 5e837126,Carlens Arcus,FB,Right,180,28,Haiti,69236f98,0,1,26,54195385 e8d2adc4 5ae09109 209d7fa2 cb188c0c 69236f98
-7fecbcdb,Abdoulaye Bamba,CB FB,Right,182,35,Côte d'Ivoire,69236f98,0,0,19,69236f98 8dfb7350
+7fecbcdb,Abdoulaye Bamba,CB FB,Right,182,35,Ivory Coast,69236f98,0,0,19,69236f98 8dfb7350
 2b1bed19,Haris Belkebla,CM DM,Right,177,31,Algeria,69236f98,0,1,22,69236f98 fb08dbb3 c96d05af
 1956b948,Jim Allevinah,AM,Right,172,30,Gabon,69236f98,1,3,27,69236f98 d9676424
 e21d1928,Yassin Belkhdim,MF,None,175,23,France,69236f98,1,1,28,69236f98
@@ -2616,7 +2616,7 @@ f6b94e8d,Saidou Sow,CB,Right,184,22,Guinea,d7a486cd,1,1,21,c0d3eab4 d7a486cd d29
 a08bb82c,Bahereba Guirassy,FW,None,177,18,France,d7a486cd,2,0,17,d7a486cd
 23c63b7f,Ignatius Ganago,FW-MF,Right,176,26,Cameroon,3c079def,1,1,10,132ebc33 fd4e0f7d d7a486cd 3c079def
 7e82a78f,Florent Mollet,AM,Right,174,33,France,d7a486cd,0,0,9,281b0e73 c539e393 d7a486cd 8dfb7350 8c78c63b f83960ae
-6bd603db,Jean-Philippe Gbamin,CB CM DM,Right,186,29,Côte d'Ivoire,22a5a99c,1,0,25,f0c0c2c2 c8ad3091 a224b06a fd4e0f7d 1740a29b 22a5a99c d7a486cd d3fd31cc
+6bd603db,Jean-Philippe Gbamin,CB CM DM,Right,186,29,Ivory Coast,22a5a99c,1,0,25,f0c0c2c2 c8ad3091 a224b06a fd4e0f7d 1740a29b 22a5a99c d7a486cd d3fd31cc
 3c6bbbab,Fabien Centonze,FB,Right,190,29,France,d7a486cd,0,0,5,633fbb6e fd4e0f7d 0e72edf2 d7a486cd f83960ae d9676424
 5d51b074,Meschak Elia,FW-MF,Right,None,27,Congo DR,d7a486cd,1,1,28,d7a486cd 4b682260
 fb32896c,Dehmaine Assoumani,FW,None,None,20,France,d7a486cd,0,0,11,d7a486cd
@@ -2683,7 +2683,7 @@ b35a7399,Leo Skiri Ostigard,CB,Right,174,25,Norway,033ea6b8,1,0,25,f7e3dfe9 d2bc
 e547d3cf,Umut Tohumcu,MF,None,None,20,Germany,033ea6b8,1,1,16,0d978394 033ea6b8 6de8c4a5
 de17db90,Gift Orban,FW,None,None,22,Nigeria,033ea6b8,6,0,18,033ea6b8 51e5a603 d53c0b06
 eb6e14be,Mergim Berisha,FW,Right,186,26,Germany,0cdc4311,1,1,16,d20821dd e18a73da 033ea6b8 ae1e2d7d 80beba99 0cdc4311 50f2a074
-93945a50,Bazoumana Toure,MF,None,173,19,Côte d'Ivoire,033ea6b8,0,3,11,033ea6b8 92bfd7f0
+93945a50,Bazoumana Toure,MF,None,173,19,Ivory Coast,033ea6b8,0,3,11,033ea6b8 92bfd7f0
 0911b4fc,Tim Drexler,DF,None,None,20,Germany,6f2c108c,1,1,24,0d978394 6f2c108c 033ea6b8 6de8c4a5
 08593525,Diadie Samassekou,CM DM,Right,175,29,Mali,033ea6b8,0,0,9,2fdb4aef ee7c297c 033ea6b8 50f2a074
 b7481dc0,Erencan Yardimci,FW,None,None,23,Turkey,033ea6b8,2,0,21,076128d7 033ea6b8 ecd11ca2 3f4fe568 2f116859
@@ -2714,7 +2714,7 @@ abefc3af,Yassine Kechta,MF,None,None,23,Morocco,5c2737db,2,0,29,5c2737db
 e8c5dd4d,Arthur Desmas,GK,Right,196,31,France,5c2737db,0,0,18,61d9850e 5c2737db 9130bd3b d9676424
 5dbefa9d,Andre Ayew,AM WM,Left,176,35,Ghana,5c2737db,4,1,25,e95faa7f 5c2737db 5725cc7b ae1e2d7d fb10988f 7c21e445 e4a775cb d2c87802
 4d3e9033,Mathieu Gorgelin,GK,Left,187,34,France,5c2737db,0,0,14,5c2737db d53c0b06
-914bb955,Christopher Operi,FB,Left,182,28,Côte d'Ivoire,bff39cf5,0,2,20,5c2737db 51e5a603 43d17b20 74229020 bff39cf5
+914bb955,Christopher Operi,FB,Left,182,28,Ivory Coast,bff39cf5,0,2,20,5c2737db 51e5a603 43d17b20 74229020 bff39cf5
 f8ce97ca,Timothee Pembele,DF,Right,182,22,France,5c2737db,1,0,18,5c2737db e2d8892c 8ef52968 123f3efe 70483169
 36f65bdf,Rassoul Ndiaye,DM,None,179,23,Senegal,5c2737db,1,0,26,b9cd3c9a 5c2737db
 17bb562c,Arouna Sangante,CB,None,179,23,Senegal,5c2737db,3,0,14,5c2737db
@@ -2799,7 +2799,7 @@ f18d7ab2,Andy Pelmard,CB,Right,179,25,France,0049d422,0,0,7,d3d9424a ffcbe334 13
 1fa0e5fa,Ivan Gil,MF,None,None,25,Spain,bea5c710,0,1,7,0049d422 73178cb3 bea5c710
 8c4e56cb,Pejino,MF,Left,175,28,Spain,6c8b07df,1,0,11,d25e7cd1 0049d422 6c8b07df
 36b300b8,Sergio Viera,MF,None,None,20,Spain,0049d422,0,0,0,0049d422
-22a312ec,Aboubacar Bassinga,MF,None,None,19,Côte d'Ivoire,0049d422,0,0,3,3640715c 0049d422
+22a312ec,Aboubacar Bassinga,MF,None,None,19,Ivory Coast,0049d422,0,0,3,3640715c 0049d422
 6fa1caa1,Saliou Mandiang,DF,None,None,None,None,0049d422,0,0,0,0049d422
 51e1f4f5,Zion Suzuki,GK,None,184,22,Japan,eab4234c,0,0,33,eab4234c 80328a1e f812e711
 a5f458d9,Simon Sohm,DM,Right,188,24,Switzerland,eab4234c,4,0,34,22a5a99c eab4234c
@@ -2822,7 +2822,7 @@ beb6e3a6,Woyo Coulibaly,FB,None,180,25,France,a2d435b3,0,1,18,5c2737db a2d435b3 
 cec60a2f,Nahuel Estevez,CM DM,Right,181,29,Argentina,eab4234c,0,0,13,68449f6d 3074d7b1 df734df9 eab4234c
 8c9e96c5,Mateo Pellegrino,FW,None,None,24,Argentina,eab4234c,0,0,1,eab4234c 3cbfa767 df734df9 41c139b6
 eb7dc619,Mohamed Haj,FW,None,None,20,Tunisia,eab4234c,1,2,15,eab4234c
-543d9d2b,Drissa Camara,MF,Right,169,23,Côte d'Ivoire,eab4234c,0,0,20,eab4234c
+543d9d2b,Drissa Camara,MF,Right,169,23,Ivory Coast,eab4234c,0,0,20,eab4234c
 1223765c,Alessandro Circati,CB,Right,190,21,Australia,eab4234c,0,0,4,eab4234c
 752e09ed,Jacob Ondrejka,FW-MF,Right,174,22,Sweden,eab4234c,10,4,31,50e85bfc eab4234c c2e6b53b
 c52bea9e,Gabriel Charpentier,FW,None,187,25,Congo,eab4234c,1,2,10,6a7ad59d 72c031e3 46f8c29f eab4234c
@@ -2858,9 +2858,9 @@ b85a5126,Diego,FW,None,None,25,Spain,7c6f2c78,3,0,24,7c6f2c78
 8696bc90,Munir El Haddadi,FW-MF,Left,173,29,Morocco,7c6f2c78,4,0,21,ea1d7427 ad2be733 206d90db 7c6f2c78 dcc91a7b 0049d422 8d6fd021 7848bd64
 2a8c9f98,Roberto Lopez,FW-MF,Left,178,25,Spain,7c6f2c78,0,1,13,27cc9c62 576452c6 3640715c 7c6f2c78 e31d1cd9
 40883e3a,Enric Franquesa,FB,None,None,28,Spain,7c6f2c78,1,0,12,3640715c 9800b6a1 9024a00a 7c6f2c78
-ba115a40,Sebastien Haller,FW,Right,187,30,Côte d'Ivoire,2a428619,4,1,22,5ae09109 2a428619 f0ac8ee6 7c21e445 add600ae 7c6f2c78 19c3f8c4
+ba115a40,Sebastien Haller,FW,Right,187,30,Ivory Coast,2a428619,4,1,22,5ae09109 2a428619 f0ac8ee6 7c21e445 add600ae 7c6f2c78 19c3f8c4
 92dacb99,Julian Chicco,CM,Right,181,27,Argentina,7c6f2c78,0,1,13,2d84bb17 795ca75e 0e6891d5 e9ae80b7 7c6f2c78
-919f5f54,Yan Diomande,FW,None,None,18,Côte d'Ivoire,7c6f2c78,0,0,6,7c6f2c78
+919f5f54,Yan Diomande,FW,None,None,18,Ivory Coast,7c6f2c78,0,0,6,7c6f2c78
 f28876e5,Aritz Arambarri,CB,Right,194,27,Spain,bea5c710,0,0,30,576452c6 e31d1cd9 bea5c710 7c6f2c78
 777c02e8,Duk,FW,None,182,25,Cape Verde,7c6f2c78,0,2,26,8bbab7cf 7c6f2c78
 7d704e92,Jackson Porozo,CB,Right,192,24,Ecuador,a42ddf2f,0,0,13,54195385 37b7e9e2 2fdb4aef d6ffefd1 a42ddf2f 7c6f2c78
@@ -2901,7 +2901,7 @@ b9e11c1d,Simone Perilli,GK,None,195,30,Italy,0e72edf2,0,0,1,0e72edf2 4cceedfc 4e
 0da3d7ab,Mathis Lambourde,FW,None,179,19,France,0e72edf2,1,0,7,0e72edf2 b3072e00
 00f518d8,Faride Alidou,FW,None,186,23,Germany,73a27a73,0,1,13,bc357bf7 d84fbee9 73a27a73 0e72edf2 f0ac8ee6 e5460de3 26790c6a
 fa753b79,Yllan Okou,DF,Left,180,22,France,0e72edf2,0,0,1,6283be2c fd6114db 0e72edf2
-cab600a8,Junior Ajayi,FW,None,None,20,Côte d'Ivoire,0e72edf2,0,0,2,0e72edf2
+cab600a8,Junior Ajayi,FW,None,None,20,Ivory Coast,0e72edf2,0,0,2,0e72edf2
 d079becb,Alphadjo Cisse,MF,None,None,18,Italy,0e72edf2,0,0,2,0e72edf2
 928143e7,Elayis Tavsan,FW-MF,Left,None,24,Netherlands,283f2557,4,1,27,146a68ce 283f2557 0e72edf2 fc629994 9babc1f9
 232b3da4,Stefan Mitrovic,FW-MF,None,None,22,Serbia,27e981a3,2,1,20,72804f2b 27e981a3 099c6eb5 0e72edf2
@@ -2991,7 +2991,7 @@ ea02beaf,Remi Oudin,AM,Left,185,28,France,8ff9e3b3,1,0,22,7fdd64e0 123f3efe ffcb
 517cfb19,Mohamed Kaba,MF,None,None,23,France,ffcbe334,0,0,13,259d3345 ffcbe334
 cc094532,Danilo Veiga,DF,None,183,22,Portugal,ffcbe334,0,2,25,0cb9f756 25dbe099 ffcbe334 6a329209
 822ed0ec,Valentin Gendrey,FB,Right,179,24,France,033ea6b8,2,2,29,25622401 033ea6b8 ffcbe334
-17329380,Konan N'dri,DF-FW-MF,Left,174,24,Côte d'Ivoire,ffcbe334,3,2,33,5809ddc3 27e981a3 ffcbe334
+17329380,Konan N'dri,DF-FW-MF,Left,174,24,Ivory Coast,ffcbe334,3,2,33,5809ddc3 27e981a3 ffcbe334
 f18d7ab2,Andy Pelmard,CB,Right,179,25,France,0049d422,0,0,7,d3d9424a ffcbe334 132ebc33 0049d422 d9676424
 55a88fd9,Filip Marchwinski,MF,None,None,23,Poland,ffcbe334,0,0,1,fdba14df ffcbe334
 1940be91,Christian Fruchtl,GK,Left,193,25,Germany,ffcbe334,0,0,0,ee0bccc5 6f2c108c ffcbe334 9133b975 054efa67 8b10a09d a4a1c462
@@ -3056,7 +3056,7 @@ d4307c52,Antonio Candela,DF-MF,Right,182,25,Italy,17859612,0,1,23,a6a65dea 17859
 528492ea,Alfred Duncan,CM DM WM,Left,178,32,Ghana,af5d5982,0,0,16,939201df c4260e09 8ff9e3b3 e2befd26 d609edc0 af5d5982 421387cf
 8dfdc6c3,John Yeboah,FW-MF,Left,170,24,Ecuador,af5d5982,1,1,30,4eaa11d7 bbfd364f f0479d7b c582b57f 4f4b03ee 2b41acb5 af5d5982 aabd9798 534ac6d0 e0b3aa47
 237a3851,Kike Perez,MF,Left,184,28,Spain,af5d5982,3,0,32,af5d5982 98e8af82 17859612 6c8b07df
-b74fc282,Issa Doumbia,MF,None,None,21,Côte d'Ivoire,af5d5982,0,0,21,af5d5982
+b74fc282,Issa Doumbia,MF,None,None,21,Ivory Coast,af5d5982,0,0,21,af5d5982
 35a4790e,Joel Schingtienne,CB,None,None,22,Belgium,af5d5982,0,0,17,27e981a3 af5d5982
 7f66ea09,Jesse Joronen,GK,Left,197,32,Finland,af5d5982,0,0,8,60e145ad fd962109 4ef57aeb 5b8cfb05 9172ba36 18050b20 af5d5982 aca0450a
 a4731ebc,Magnus Kofod Andersen,CM,Right,179,25,Denmark,ecb862be,1,2,23,1850e3f9 ecb862be af5d5982
@@ -3095,14 +3095,14 @@ b105919e,Faustino Anjorin,MF,Right,186,23,England,a3d88bd8,1,3,19,cff3d9bb 76ffc
 ae4e2852,Mattia De Sciglio,FB,Right,183,32,Italy,a3d88bd8,1,0,16,dc56fe14 a3d88bd8 d53c0b06 e0652b02
 78f13530,Ola Solbakken,FW,Left,186,26,Norway,a3d88bd8,0,0,19,081d4d3b d86248bd 2fdb4aef a3d88bd8 cf74a709 f812e711
 24eb7ed6,Junior Sambia,DF-MF,Right,181,28,France,a3d88bd8,0,0,15,61d9850e a3d88bd8 281b0e73 c5577084
-58e933d2,Christian Kouame,FW-MF,Right,185,27,Côte d'Ivoire,a3d88bd8,2,1,32,658bf2de a3d88bd8 08ad393c 1a8d4355 421387cf
+58e933d2,Christian Kouame,FW-MF,Right,185,27,Ivory Coast,a3d88bd8,2,1,32,658bf2de a3d88bd8 08ad393c 1a8d4355 421387cf
 a44d3a3c,Pietro Pellegri,FW,Right,196,24,Italy,a3d88bd8,3,0,11,105360fe 658bf2de a3d88bd8 fd6114db dc56fe14
 70a10677,Jacopo Seghetti,GK,None,180,20,Italy,a3d88bd8,0,0,1,a3d88bd8
 0d422df7,Marco Silvestri,GK,Right,191,34,Italy,a3d88bd8,0,0,12,5bfb9659 4e5f8b9a 04eea015 c4260e09 a3d88bd8 0e72edf2 8ff9e3b3
 c20892ee,Emmanuel Ekong,FW,None,183,22,Sweden,f3d8c8b9,0,0,3,f49c0f7a a3d88bd8 f3d8c8b9 37cba288
 a8c67cdb,Lorenzo Tosto,DF,None,None,19,Italy,a3d88bd8,0,0,1,a3d88bd8
 fa449bba,Nicolas Haas,DM WM,Right,178,29,Switzerland,a3d88bd8,0,0,10,d423a378 ee058a17 6a7ad59d a3d88bd8 922493f3
-351ab035,Ismael Konate,FW,None,None,19,Côte d'Ivoire,a3d88bd8,0,0,10,a3d88bd8
+351ab035,Ismael Konate,FW,None,None,19,Ivory Coast,a3d88bd8,0,0,10,a3d88bd8
 9d60028d,Viktor Kovalenko,AM,Right,182,29,Ukraine,a3d88bd8,0,0,6,e89d5a28 a3d88bd8 68449f6d 922493f3
 9ce30308,Jacopo Bacci,MF,None,None,19,Italy,a3d88bd8,0,0,3,a3d88bd8
 217875a4,Sebastian Walukiewicz,CB,Right,188,25,Poland,105360fe,0,0,30,8a3f95b9 c4260e09 105360fe a3d88bd8
@@ -3246,7 +3246,7 @@ faf00ab8,Khalil Fayad,MF,None,172,20,France,281b0e73,0,0,19,281b0e73
 02b3733e,Lucas Mincarelli,FW,None,None,21,France,281b0e73,1,0,8,281b0e73
 d33c706e,Andy Delort,FW,Right,182,33,Algeria,281b0e73,0,0,8,281b0e73 7a54bb4f d9e1bd51 74229020 132ebc33 d7a486cd e59ddc76 1cbf5f9e c96d05af 3f8c4b5f f83960ae
 b9f2c759,Nicolas Pays,MF,None,None,21,France,281b0e73,0,0,9,281b0e73
-04ac78d2,Bamo Meite,DF,None,183,23,Côte d'Ivoire,281b0e73,0,0,10,281b0e73 5725cc7b d2c87802
+04ac78d2,Bamo Meite,DF,None,183,23,Ivory Coast,281b0e73,0,0,10,281b0e73 5725cc7b d2c87802
 380a15e2,Dimitry Bertaud,GK,Right,179,26,Congo DR,281b0e73,0,0,3,281b0e73
 03412e45,Junior Ndiaye,FW,None,180,20,France,281b0e73,0,0,13,281b0e73
 f2b7d401,Wilfried Ndollo,DF,None,None,19,Cameroon,281b0e73,0,0,6,281b0e73
@@ -3315,7 +3315,7 @@ aa54ec6f,Pablo Mari,CB,Left,191,31,Spain,421387cf,0,0,29,9024a00a 21680aa4 04eea
 226008f1,Luca Caldirola,CB,Left,189,34,Italy,21680aa4,0,0,12,27020d71 21680aa4 4ef57aeb 283f2557 209d7fa2 4fcb34fd 62add3bf 6a6967fc
 780e3631,Matteo Pessina,AM CM DM,Left,183,28,Italy,21680aa4,0,0,11,68449f6d 21680aa4 0e72edf2 922493f3
 4f537cf7,Semuel Pizzignacco,GK,None,None,23,Italy,21680aa4,0,0,6,2591250b 21680aa4 04eea015 c41460da
-fdf4b948,Jean-Daniel Akpa-Akpro,CM FB,Right,180,32,Côte d'Ivoire,21680aa4,0,0,11,21680aa4 a3d88bd8 c5577084 3f8c4b5f 7213da33
+fdf4b948,Jean-Daniel Akpa-Akpro,CM FB,Right,180,32,Ivory Coast,21680aa4,0,0,11,21680aa4 a3d88bd8 c5577084 3f8c4b5f 7213da33
 a14d0ab0,Samuele Vignato,MF,None,172,21,Italy,21680aa4,0,0,17,cc919b35 21680aa4
 0728bebe,Gaetano Castrovilli,CM WM,Right,187,28,Italy,21680aa4,0,0,19,7213da33 21680aa4 9aad3a77 01baa639 421387cf
 2d9d9e42,Kacper Urbanski,MF,Right,178,20,Poland,21680aa4,1,0,19,21680aa4 5d36c8f0 1d8099f8
@@ -3365,7 +3365,7 @@ bdf3a08e,Joe Lumley,GK,Right,176,30,England,33c895d4,0,0,3,a757999c 7cbf5cb4 917
 a39d11bc,Armel Bella Kotchap,CB,Right,190,23,Germany,33c895d4,0,0,4,5f0284ea 05ebd479 e334d850 37a68655 8e1ea572 b42c6323 33c895d4
 a7f95b1f,Welington,FB,Left,175,24,Brazil,33c895d4,0,0,7,33c895d4 179c33c7 5f232eb1
 18986367,Ross Stewart,FW,None,188,28,Scotland,33c895d4,0,0,9,3568ad4c 8ef52968 179c33c7 33c895d4 a5298e9f
-beb391dd,Maxwel Cornet,AM,Left,179,28,Côte d'Ivoire,658bf2de,2,1,8,afa3c276 658bf2de 943e8050 7c21e445 d53c0b06 33c895d4 f83960ae
+beb391dd,Maxwel Cornet,AM,Left,179,28,Ivory Coast,658bf2de,2,1,8,afa3c276 658bf2de 943e8050 7c21e445 d53c0b06 33c895d4 f83960ae
 007414dd,Samuel Edozie,FW-MF,None,179,22,England,08ad393c,3,2,24,a324bb9a 179c33c7 e41e516f 08ad393c b8fd03ef 33c895d4
 0da5076f,Albert Gronbaek,CM,Right,176,23,Denmark,33c895d4,2,1,20,33c895d4 d86248bd 9ae196bd b3072e00
 9eedf0e0,Samuel Amo-Ameyaw,FW,None,174,18,England,c0d3eab4,2,0,9,33c895d4 179c33c7 c0d3eab4
