@@ -206,7 +206,7 @@ for td in clubs:
             matches = p1.find_all('div')[0].find_all('p')
             i = 0
             while(i < len(leagueTallies)):
-                if(playerPositions != "GK"):
+                if(playerPositions != "Goalkeeper"):
                     gls += int(leagueTallies[i].text)
                     assists += int(assistTallies[i].text)
                 mp += int(matches[i].text)
