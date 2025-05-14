@@ -34,7 +34,7 @@ playerFile.write(firstPlayerLine)
 
 top_url = 'https://fbref.com/'
 
-player_url = "https://fbref.com/en/players/4535e4bb/Mathew-Ryan"
+player_url = "https://fbref.com/en/players/0b8c9180/Aron-Yaakobishvili"
 
 
 
@@ -179,9 +179,10 @@ if(primer is not None):
         for i in set_of_clubs:
             c+= (i + " ")
         c = c[:len(c)-1]
-    else:
-        c = currentClub
+else:
+    c = currentClub
 
 playerLine += c
 playerLine += '\n'
+print(playerLine)
 playerFile.write(playerLine)
