@@ -58,6 +58,18 @@ const getClubById = (request, response) => {
   })
 }
 
+const getAllClubs = (request, response) => {
+  const id = request.params.id
+  
+
+  pool.query('SELECT * FROM club', (error, results) => {
+    if (error) {
+      throw error
+    }
+    response.status(200).json(results.rows)
+  })
+}
+
 // const createUser = (request, response) => {
 //   const { name, email } = request.body
 
@@ -101,7 +113,8 @@ module.exports = {
   getClubs,
   getPlayerById,
   getPlayerByName,
-  getClubById
+  getClubById,
+  getAllClubs
   //createUser,
   //updateUser,
   //deleteUser,

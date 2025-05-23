@@ -16,7 +16,7 @@ app.get('/', (request, response) => {
 })
 
 app.get('/Player', db.getPlayer)
-app.get('/clubs', db.getClubs)
+app.get('/clubs', db.getAllClubs)
 app.get('/Player/:id', db.getPlayerById)
 app.get('/Player/name/:id', db.getPlayerByName)
 app.get('/clubs/:id', db.getClubById)
