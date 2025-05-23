@@ -15,9 +15,10 @@ app.get('/', (request, response) => {
   response.json({ info: 'Node.js, Express, and Postgres API' })
 })
 
-app.get('/users', db.getUsers)
+app.get('/Player', db.getPlayer)
 app.get('/clubs', db.getClubs)
-app.get('/users/:id', db.getUserById)
+app.get('/Player/:id', db.getPlayerById)
+app.get('/Player/name/:id', db.getPlayerByName)
 app.get('/clubs/:id', db.getClubById)
 //app.post('/users', db.createUser)
 //app.put('/users/:id', db.updateUser)

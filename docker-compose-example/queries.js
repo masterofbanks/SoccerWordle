@@ -6,7 +6,7 @@ const pool = new Pool({
   password: 'cole',
   port: 5432,
 })
-const getUsers = (request, response) => {
+const getPlayer = (request, response) => {
   pool.query('SELECT * FROM player ORDER BY matches_played DESC LIMIT 10', (error, results) => {
     if (error) {
       throw error
@@ -24,10 +24,21 @@ const getClubs = (request, response) => {
   })
 }
 
-const getUserById = (request, response) => {
+const getPlayerById = (request, response) => {
   const id = request.params.id
 
-  pool.query('SELECT * FROM player WHERE club_id = $1', [id], (error, results) => {
+  pool.query('SELECT * FROM player WHERE player_id = $1', [id], (error, results) => {
+    if (error) {
+      throw error
+    }
+    response.status(200).json(results.rows)
+  })
+}
+
+const getPlayerByName = (request, response) => {
+  const id = request.params.id + '%'
+
+  pool.query('SELECT * FROM player WHERE player_name LIKE $1', [id], (error, results) => {
     if (error) {
       throw error
     }
@@ -37,6 +48,7 @@ const getUserById = (request, response) => {
 
 const getClubById = (request, response) => {
   const id = request.params.id
+  
 
   pool.query('SELECT * FROM club WHERE club_id = $1', [id], (error, results) => {
     if (error) {
@@ -85,9 +97,10 @@ const getClubById = (request, response) => {
 // }
 
 module.exports = {
-  getUsers,
+  getPlayer,
   getClubs,
-  getUserById,
+  getPlayerById,
+  getPlayerByName,
   getClubById
   //createUser,
   //updateUser,
