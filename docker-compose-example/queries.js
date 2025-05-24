@@ -36,7 +36,7 @@ const getPlayerById = (request, response) => {
 }
 
 const getPlayerByName = (request, response) => {
-  const id = request.params.id + '%'
+  const id = '%' + request.params.id + '%'
 
   pool.query('SELECT * FROM player WHERE player_name ILIKE $1 ORDER BY matches_played DESC LIMIT 10' , [id], (error, results) => {
     if (error) {
