@@ -117,9 +117,9 @@ function compareStrings(a, b){
 }
 
 function compareSets(a,b){
-  let set_a = makeSet(a)
-  let set_b = makeSet(b)
-  if (set_a === set_b) return "equal"
+  let set_a = new Set(a.split(' '))
+  let set_b = new Set(b.split(' '))
+  if (set_a.isSubsetOf(set_b) && set_b.isSubsetOf(set_a)) return "equal"
   for(let v of set_a){
     if(set_b.has(v)) return "partial"
   }
@@ -128,26 +128,7 @@ function compareSets(a,b){
   
 }
 
-function makeSet(input){
-  let x = 0
-  let start = 0
-  let word = ""
-  let answer = new Set()
-  for (letter in input){
-    if(letter == ' '){
-      word = input.substring(start, x)
-      answer.add(word)
-      start = x + 1
-    }
 
-    x = x + 1
-
-  }
-
-  word = input.substring(start, x-1)
-  answer.add(word)
-  return answer
-}
 
 module.exports = {
   getPlayer,
