@@ -70,43 +70,84 @@ const getAllClubs = (request, response) => {
   })
 }
 
-// const createUser = (request, response) => {
-//   const { name, email } = request.body
+const compare = async (request, response) => {
+  const {id1, id2} = request.body
 
-//   pool.query('INSERT INTO users (name, email) VALUES ($1, $2)', [name, email], (error, results) => {
-//     if (error) {
-//       throw error
-//     }
-//     response.status(201).send(`User added with ID: ${results.insertId}`)
-//   })
-// }
 
-// const updateUser = (request, response) => {
-//   const id = parseInt(request.params.id)
-//   const { name, email } = request.body
+  const result1 = await pool.query('SELECT * FROM player WHERE player_id = $1', [id1])
+  const result2 = await pool.query('SELECT * FROM player WHERE player_id = $1', [id2])
+  if (result1.rows.length === 0 || result2.rows.length === 0) {
+    return response.status(404).json({ error: 'One or both players not found' })
+  }
 
-//   pool.query(
-//     'UPDATE users SET name = $1, email = $2 WHERE id = $3',
-//     [name, email, id],
-//     (error, results) => {
-//       if (error) {
-//         throw error
-//       }
-//       response.status(200).send(`User modified with ID: ${id}`)
-//     }
-//   )
-// }
+  const player_one = result1.rows[0]
+  const player_two = result2.rows[0]
 
-// const deleteUser = (request, response) => {
-//   const id = parseInt(request.params.id)
 
-//   pool.query('DELETE FROM users WHERE id = $1', [id], (error, results) => {
-//     if (error) {
-//       throw error
-//     }
-//     response.status(200).send(`User deleted with ID: ${id}`)
-//   })
-// }
+  const answer = {
+    positions_comparison: compareSets(player_one.positions, player_two.positions),
+    foot_comparison: compareStrings(player_one.foot, player_two.foot),
+    height_comparison: compareIntegers(player_one.height, player_two.height),
+    age_comparison: compareIntegers(player_one.age, player_two.age),
+    nation_comparison: compareStrings(player_one.nationality, player_two.nationality),
+    cc_comparison: compareStrings(player_one.current_club, player_two.current_club),
+    goals_comparison: compareIntegers(player_one.goals, player_two.goals),
+    assists_comparison: compareIntegers(player_one.assists, player_two.assists),
+    mp_comparison: compareIntegers(player_one.matches_played, player_two.matches_played),
+    cpf_comparison: compareSets(player_one.clubs_played_for, player_two.clubs_played_for)
+
+  }
+
+  response.json(answer)
+}
+
+
+function compareIntegers(a, b){
+  if(a == null || b == null) return "unknown"
+
+  if(a > b) return "greater"
+  if(a < b) return "less_than"
+  if(a == b) return "equal"
+}
+
+function compareStrings(a, b){
+  if(a == null || b == null) return "unknown"
+  if(a == b) return "equal"
+  else return "no_match"
+}
+
+function compareSets(a,b){
+  let set_a = makeSet(a)
+  let set_b = makeSet(b)
+  if (set_a === set_b) return "equal"
+  for(let v of set_a){
+    if(set_b.has(v)) return "partial"
+  }
+
+  return "no_match"
+  
+}
+
+function makeSet(input){
+  let x = 0
+  let start = 0
+  let word = ""
+  let answer = new Set()
+  for (letter in input){
+    if(letter == ' '){
+      word = input.substring(start, x)
+      answer.add(word)
+      start = x + 1
+    }
+
+    x = x + 1
+
+  }
+
+  word = input.substring(start, x-1)
+  answer.add(word)
+  return answer
+}
 
 module.exports = {
   getPlayer,
@@ -114,7 +155,8 @@ module.exports = {
   getPlayerById,
   getPlayerByName,
   getClubById,
-  getAllClubs
+  getAllClubs,
+  compare
   //createUser,
   //updateUser,
   //deleteUser,
