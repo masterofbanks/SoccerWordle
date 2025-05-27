@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELECT player_id FROM player WHERE current_club = \'822bd0ba\' OR current_club = \'18bb7c10\' OR current_club = \'b8fd03ef\' OR current_club = \'cff3d9bb\' OR current_club = \'d48ad4ff\' OR current_club = \'d609edc0\' OR current_club = \'206d90db\' OR current_club = \'53a2f082\' OR current_club = \'db3b9613\' OR current_club = \'e2d8892c\' OR current_club = \'054efa67\' OR current_club = \'c7a9f859\' AND matches_played > 25;
