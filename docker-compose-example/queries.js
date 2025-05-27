@@ -46,6 +46,20 @@ const getPlayerByName = (request, response) => {
   })
 }
 
+const getRandomPlayer = (request, response) => {
+  
+
+  pool.query('SELECT * FROM player WHERE (current_club = \'822bd0ba\' OR current_club = \'18bb7c10\' OR current_club = \'b8fd03ef\' OR current_club = \'cff3d9bb\' OR current_club = \'d48ad4ff\' OR current_club = \'d609edc0\' OR current_club = \'206d90db\' OR current_club = \'53a2f082\' OR current_club = \'db3b9613\' OR current_club = \'e2d8892c\' OR current_club = \'054efa67\' OR current_club = \'c7a9f859\') AND matches_played > 30;' 
+    ,(error, results) => {
+    if (error) {
+      throw error
+    }
+
+    let rnd = Math.floor(Math.random() * results.rows.length);
+    response.status(200).json(results.rows[rnd])
+  })
+}
+
 const getClubById = (request, response) => {
   const id = request.params.id
   
@@ -85,6 +99,7 @@ const compare = async (request, response) => {
 
 
   const answer = {
+    name_comparison: compareStrings(player_one.player_name, player_two.player_name),
     positions_comparison: compareSets(player_one.positions, player_two.positions),
     foot_comparison: compareStrings(player_one.foot, player_two.foot),
     height_comparison: compareIntegers(player_one.height, player_two.height),
@@ -137,7 +152,8 @@ module.exports = {
   getPlayerByName,
   getClubById,
   getAllClubs,
-  compare
+  compare,
+  getRandomPlayer
   //createUser,
   //updateUser,
   //deleteUser,
