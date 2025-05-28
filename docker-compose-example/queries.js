@@ -2,7 +2,7 @@ const Pool = require('pg').Pool
 const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
   ssl: process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false,
-})//
+})//k
 
 const getPlayer = (request, response) => {
   pool.query('SELECT * FROM player ORDER BY matches_played DESC LIMIT 10', (error, results) => {
