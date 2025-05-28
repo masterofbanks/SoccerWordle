@@ -16,57 +16,11 @@ from unidecode import unidecode
 # 
 # #
  
-def calculateAge(birthDate):
-    today = date.today()
-    age = today.year - birthDate.year - ((today.month, today.day) < (birthDate.month, birthDate.day))
- 
-    return age
-
-def getClubName(href):
-    ns = 0
-    i = 0
-    numSlashes = href.count('/')
-    if(numSlashes > 5):
-        while(ns < numSlashes):
-            if(href[i] == '/'):
-                ns += 1
-            i+=1
-    #print(href[i:href.find('Stats')-1])
-    return href[i:href.find('Stats')-1]
-
-#open files
-clubFile = open("allClubs.csv", "w")
-firstClubLine = "id,name\n"
-clubFile.write(firstClubLine)
-playerFile = open("allPlayers.csv", "w")
-firstPlayerLine = "id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf\n"
-playerFile.write(firstPlayerLine)
-
-
-# Making a GET requests
-
-top_url = 'https://fbref.com/'
-time.sleep(5)
-
-r = requests.get('https://fbref.com/en/comps/13/Ligue-1-Stats') 
-print(r.ok)
-
-# Parsing the HTML
-soup = BeautifulSoup(r.content, 'html.parser')
-
-s = soup.find('table', id = 'results2024-2025131_overall') 
-subMenu = s.find('tbody')
-clubs = subMenu.find_all('tr')
-x = 0
-list = []
-#navigate to a club by getting its url
-for td in clubs:
-    a = td.find('a')
-    newEnding = a.get('href')
-    id = newEnding[11:19]
-    list.append(id)
-answer = ""
-for thing in list:
-    answer += ('\"' + thing + '\"' + ", ")
-
+list = ["https://fbref.com/en/squads/822bd0ba/Liverpool-Stats", "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats", "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats", "https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats", "https://fbref.com/en/squads/19538871/Manchester-United-Stats", "https://fbref.com/en/squads/361ca564/Tottenham-Hotspur-Stats", "https://fbref.com/en/squads/b2b47a98/Newcastle-United-Stats", "https://fbref.com/en/squads/8602292d/Aston-Villa-Stats", "https://fbref.com/en/squads/d48ad4ff/Napoli-Stats", "https://fbref.com/en/squads/d609edc0/Internazionale-Stats", "https://fbref.com/en/squads/e0652b02/Juventus-Stats", "https://fbref.com/en/squads/dc56fe14/Milan-Stats", "https://fbref.com/en/squads/cf74a709/Roma-Stats", "https://fbref.com/en/squads/206d90db/Barcelona-Stats", "https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats", "https://fbref.com/en/squads/db3b9613/Atletico-Madrid-Stats", "https://fbref.com/en/squads/e2d8892c/Paris-Saint-Germain-Stats", "https://fbref.com/en/squads/054efa67/Bayern-Munich-Stats", "https://fbref.com/en/squads/c7a9f859/Bayer-Leverkusen-Stats", "https://fbref.com/en/squads/add600ae/Dortmund-Stats"]
+otherlist = []
+for x in list:
+    otherlist.append(x[28:36])
+answer = "" 
+for thing in otherlist:
+    answer += ("current_club = \\\'" + thing + "\\\' OR ")
 print(answer)
