@@ -59,6 +59,7 @@ create_player_table = """create table player (
     goals int NOT NULL,
     assists int NOT NULL,
     matches_played int NOT NULL,
+    league VARCHAR(100),
     clubs_played_for VARCHAR(400) NOT NULL
 );
 """
@@ -75,7 +76,7 @@ sql_file.write(create_club_table)
 
 
 for line in player_csv:
-    new_sql_line = "insert into player (player_id, player_name, positions, foot, height, age, nationality, current_club, goals, assists, matches_played, clubs_played_for) values ("
+    new_sql_line = "insert into player (player_id, player_name, positions, foot, height, age, nationality, current_club, goals, assists, matches_played, league, clubs_played_for) values ("
     attributes = break_csv_line(line)
     for a in attributes:    
         if(a == "\'None\'"):

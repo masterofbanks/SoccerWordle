@@ -1,2 +1,2 @@
-id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,league
-0b8c9180,Aron Yaakobishvili,Goalkeeper,None,None,19,Hungary,206d90db,0,0,0,La Liga
+id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf
+2eefd1b3,Andres Cuenca,Defender,None,181,17,Spain,206d90db,0,0,1,None

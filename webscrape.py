@@ -34,28 +34,14 @@ def getClubName(href):
     #print(href[i:href.find('Stats')-1])
     return href[i:href.find('Stats')-1]
 
-def cheat(input):
-    answer = ""
-    match input:
-        case "822bd0ba"| "18bb7c10"| "b8fd03ef"| "cff3d9bb"| "b2b47a98"| "8602292d"| "e4a775cb"| "d07537b9"| "4ba7cbea"| "cd051869"| "fd962109"| "47c64c55"| "d3fd31cc"| "7c21e445"| "19538871"| "8cec06e1"| "361ca564"| "a2d435b3"| "b74092de"| "33c895d4" :
-            return "Premier League"
-        case "206d90db"| "53a2f082"| "db3b9613"| "2b390eca"| "2a8183b3"| "fc536746"| "f25da7fb"| "f25da7fb"| "03c57e2b"| "2aa12281"| "e31d1cd9"| "dcc91a7b"| "7848bd64"| "a8661628"| "8d6fd021"| "9024a00a"| "ad2be733"| "7c6f2c78"| "0049d422"| "17859612":
-            return "La Liga"
-        case "054efa67"| "c7a9f859"| "f0ac8ee6"| "add600ae"| "a486e511"| "a224b06a"| "acbb6a5b"| "62add3bf"| "598bc722"| "32f3ee20"| "4eaa11d7"| "0cdc4311"| "7a41008f"| "54864664"| "033ea6b8"| "18d9d2a7"| "2ac661d9"| "b42c6323":
-            return "Bundesliga"
-        case "d48ad4ff"| "d609edc0"| "922493f3"| "e0652b02"| "cf74a709"| "421387cf"| "7213da33"| "dc56fe14"| "1d8099f8"| "28c9c3cd"| "105360fe"| "04eea015"| "658bf2de"| "0e72edf2"| "c4260e09"| "eab4234c"| "ffcbe334"| "a3d88bd8"| "af5d5982"| "21680aa4":
-            return "Serie A"
-        case "e2d8892c"| "5725cc7b"| "fd6114db"| "132ebc33"| "cb188c0c"| "d53c0b06"| "c0d3eab4"| "fd4e0f7d"| "fb08dbb3"| "3f8c4b5f"| "5ae09109"| "b3072e00"| "d7a486cd"| "69236f98"| "5c2737db"| "7fdd64e0"| "d298ef2c"| "281b0e73":
-            return "Ligue 1"
-        case _: return "None"
-    return "None"
+
 
 #open files
 clubFile = open("allClubs.csv", "w")
 firstClubLine = "id,name\n"
 clubFile.write(firstClubLine)
 playerFile = open("allPlayers.csv", "w")
-firstPlayerLine = "id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,cpf\n"
+firstPlayerLine = "id,name,positions,foot,height,age,nationality,current_club,gls,assists,mp,league,cpf\n"
 playerFile.write(firstPlayerLine)
 
 
@@ -75,6 +61,7 @@ s = soup.find('table', id = 'big5_table')
 subMenu = s.find('tbody')
 clubs = subMenu.find_all('tr')
 x = 0
+numPlayers = 0
 
 #navigate to a club by getting its url
 for td in clubs:
@@ -194,7 +181,6 @@ for td in clubs:
                                 #print(country)
                             elif(title.find("Club") != -1):
                                 currentClub = data.find('a').get('href')[11:19]
-                                c = cheat(currentClub)
                                 #print(currentClub)
                             continue
                 elif(data.find('span')):
@@ -232,7 +218,7 @@ for td in clubs:
                     
                     i+=1
                 
-                
+            
 
             playerLine += (str(gls) + ",")
             playerLine += (str(assists) + ",")
@@ -240,10 +226,56 @@ for td in clubs:
             #print(playerLine)
             primer = newSoup.find('div', id = "all_stats_standard")
 
-            
+            c = ""
 
+            if(primer is not None):
+                if(primer.find('h2').find('span').text == ": Domestic Leagues"):
+                    pcs = primer.find('tbody').find_all('tr')
+                    if(pcs is not None):
+                        last_row = pcs[len(pcs) - 1]
+                        if(len(last_row.find_all('a')) >= 4):
+                            softlinks = last_row.find_all('a')
+                            c = softlinks[3].text
+                else:
+                    c = "None"
+                    
+                    
+            else:
+                c = "None"
+
+            playerLine += (c + ',')
+
+            c = ""
+            primer = newSoup.find('div', id = "all_stats_standard")
+            if(primer is not None):
+                pcs = primer.find('tbody').find_all('tr')
+                c = ""
+                if(pcs is not None):
+                    set_of_clubs = set()
+                    for entry in pcs:
+                        if(entry.find('a') is not None):
+                            club_id = entry.find('a').get('href')[11:19]
+                            if(club_id in set_of_clubs):
+                                continue
+                            else:
+                                set_of_clubs.add(club_id)
+                                cn = getClubName(entry.find('a').get('href'))
+                                if(club_id not in allClubs):
+                                    allClubs.add(club_id)
+                                    cL = club_id + ',' + cn + '\n'
+                                    clubFile.write(cL)
+
+                    
+                    for i in set_of_clubs:
+                        c+= (i + " ")
+                    c = c[:len(c)-1]
+            else:
+                c = currentClub
             playerLine += c
             playerLine += '\n'
             print(playerLine)
             playerFile.write(playerLine)
+            numPlayers += 1
+            a = numPlayers/3657 * 100
+            print('%.2f' % a ,'%')
 
