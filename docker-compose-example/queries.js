@@ -109,7 +109,7 @@ const compare = async (request, response) => {
     goals_comparison: compareIntegers(player_one.goals, player_two.goals),
     assists_comparison: compareIntegers(player_one.assists, player_two.assists),
     mp_comparison: compareIntegers(player_one.matches_played, player_two.matches_played),
-    leauge_comparison: compareStrings(player_one.league, player_two.league),
+    league_comparison: compareStrings(player_one.league, player_two.league),
     cpf_comparison: compareSets(player_one.clubs_played_for, player_two.clubs_played_for)
 
   }
